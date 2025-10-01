@@ -76,23 +76,3 @@
 	</div>
 </section>
 
-<style>
-	:global(.prose h2) {
-		@apply text-4xl font-light mb-6 mt-12;
-	}
-	:global(.prose h3) {
-		@apply text-3xl font-semibold mb-4 mt-8;
-	}
-	:global(.prose p) {
-		@apply mb-4 leading-relaxed text-base-content/80;
-	}
-	:global(.prose ul) {
-		@apply space-y-2 mb-6;
-	}
-	:global(.prose li) {
-		@apply ml-6 text-base-content/80;
-	}
-	:global(.prose strong) {
-		@apply text-primary font-semibold;
-	}
-</style>
