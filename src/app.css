@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+@plugin 'daisyui';
+
+@theme {
+	--font-family-sans: 'Nunito Sans', ui-sans-serif, system-ui, sans-serif;
+}
