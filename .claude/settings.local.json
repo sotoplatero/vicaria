@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:vicaria.ca)",
+      "Bash(pnpm dev:*)",
+      "Bash(timeout:*)",
+      "WebSearch",
+      "WebFetch(domain:www.landingfolio.com)",
+      "Bash(pnpm add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
