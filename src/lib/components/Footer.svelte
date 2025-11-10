@@ -166,6 +166,38 @@
 			</div>
 		</div>
 
+		<!-- Map Section -->
+		<div class="border-t border-gray-700">
+			<div class="container-custom py-16">
+				<div class="text-center mb-8">
+					<h3 class="text-2xl md:text-3xl font-bold text-white mb-3">Visit Us</h3>
+					<p class="text-gray-300">
+						<a
+							href="https://maps.google.com/?q=Unit+2B+144+James+St+S+Hamilton+Ontario+L8P3A2"
+							target="_blank"
+							rel="noopener noreferrer"
+							class="hover:text-primary transition-colors"
+						>
+							Unit 2B 144 James St S, Hamilton, ON L8P3A2
+						</a>
+					</p>
+				</div>
+				<div class="rounded-3xl overflow-hidden shadow-2xl max-w-5xl mx-auto">
+					<iframe
+						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5811.898303524444!2d-79.87372472338556!3d43.252487478254764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882c9bda3f116e59%3A0x320d69e3f91d430a!2sVicaria%20Health!5e0!3m2!1sen!2sca!4v1762773312315!5m2!1sen!2sca"
+						width="100%"
+						height="450"
+						style="border:0;"
+						allowfullscreen=""
+						loading="lazy"
+						referrerpolicy="no-referrer-when-downgrade"
+						title="Vicaria Health Location Map"
+						class="w-full"
+					></iframe>
+				</div>
+			</div>
+		</div>
+
 		<!-- Bottom Bar -->
 		<div class="border-t border-gray-700">
 			<div class="container-custom py-6">
