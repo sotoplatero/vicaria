@@ -1,17 +1,35 @@
 <script lang="ts">
 	import type { PageData } from './$types';
 	import Header from '$lib/components/Header.svelte';
-	import ServiceCTA from '$lib/components/service/ServiceCTA.svelte';
+	import CTA from '$lib/components/CTA.svelte';
 	import RelatedServices from '$lib/components/service/RelatedServices.svelte';
+	import HealthCoachingPricing from '$lib/components/service/HealthCoachingPricing.svelte';
+	import SkinTreatmentPricing from '$lib/components/service/SkinTreatmentPricing.svelte';
 	import { getRelatedServices } from '$lib/utils/services';
 	import { page } from '$app/stores';
-	import { ArrowRight, Check } from '@lucide/svelte';
+	import { ArrowRight, Check, Calendar } from '@lucide/svelte';
 
 	let { data }: { data: PageData } = $props();
 
 	const metadata = $derived(data?.metadata || {});
 	const currentSlug = $derived($page.url.pathname.split('/').pop() || '');
 	const relatedServices = $derived(getRelatedServices(currentSlug));
+	const isHealthCoaching = $derived(metadata.category === 'health-coaching');
+	const isSkinTreatment = $derived(metadata.category === 'skin-treatments');
+
+	// CTA customization based on service type
+	const ctaTitle = $derived(
+		isSkinTreatment
+			? 'Feel Comfortable in Your Skin Again'
+			: 'Ready to Transform Your Health?'
+	);
+
+	const ctaDescription = $derived(
+		isSkinTreatment
+			? `Chat with us for 15 minutes and take the first step towards clearer, healthier skin with our professional ${metadata.service}.`
+			: `Chat with us for 15 minutes consultation and discover how our personalized ${metadata.service} program can help you feel better, starting today.`
+	);
+
 </script>
 
 <svelte:head>
@@ -60,7 +78,7 @@
 <main class="pt-20">
 	<!-- Hero Section with Image -->
 	{#if metadata.service}
-		<section class="relative min-h-[70vh] flex items-center overflow-hidden bg-gradient-to-br from-warm-white via-blush/20 to-sage-light/10">
+		<section class="relative min-h-[70vh] flex items-center overflow-hidden bg-base-100">
 			<!-- Decorative Elements -->
 			<div class="absolute inset-0 overflow-hidden pointer-events-none">
 				<div class="absolute top-20 right-10 w-96 h-96 bg-sage-light/20 rounded-full blur-3xl"></div>
@@ -133,15 +151,13 @@
 					<div class="relative hidden lg:block">
 						<div class="relative rounded-3xl overflow-hidden shadow-2xl">
 							<img
-								src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=900&fit=crop&q=80"
+								src={metadata.image}
 								alt="{metadata.service} in {metadata.city}"
 								class="w-full h-[600px] object-cover"
 							/>
 							<!-- Image Overlay -->
 							<div class="absolute inset-0 bg-gradient-to-t from-charcoal/40 to-transparent"></div>
 						</div>
-						<!-- Decorative Frame -->
-						<div class="absolute -bottom-6 -right-6 w-64 h-64 border-4 border-primary rounded-3xl -z-10"></div>
 					</div>
 				</div>
 			</div>
@@ -149,7 +165,7 @@
 	{/if}
 
 	<!-- Main Content from MD -->
-	<article class="section-padding bg-warm-white">
+	<article class="section-padding bg-white">
 		<div class="container-custom">
 			<div class="max-w-4xl mx-auto prose prose-lg prose-headings:font-bold prose-headings:text-charcoal prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-strong:text-primary prose-ul:text-gray-700 prose-ol:text-gray-700">
 				<svelte:component this={data.content} />
@@ -157,11 +173,25 @@
 		</div>
 	</article>
 
+	{#if isHealthCoaching}
+		<HealthCoachingPricing />
+	{/if}
+
+	{#if isSkinTreatment}
+		<SkinTreatmentPricing />
+	{/if}
+
 	{#if relatedServices.length > 0}
 		<RelatedServices services={relatedServices} />
 	{/if}
 
 	{#if metadata.service}
-		<ServiceCTA service={metadata.service} category={metadata.category} />
+		<CTA
+			badge="Start Today"
+			badgeIcon={Calendar}
+			title={ctaTitle}
+			description={ctaDescription}
+			backgroundColor="primary"
+		/>
 	{/if}
 </main>

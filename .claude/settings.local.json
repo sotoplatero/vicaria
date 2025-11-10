@@ -6,7 +6,9 @@
       "Bash(timeout:*)",
       "WebSearch",
       "WebFetch(domain:www.landingfolio.com)",
-      "Bash(pnpm add:*)"
+      "Bash(pnpm add:*)",
+      "mcp__context7__resolve-library-id",
+      "mcp__svelte__svelte-autofixer"
     ],
     "deny": [],
     "ask": []

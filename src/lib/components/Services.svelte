@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { Activity, Heart, Users, Droplets, Sparkles, ArrowRight } from '@lucide/svelte';
 	import { getHealthCoachingServices, getSkinTreatmentServices } from '$lib/utils/services';
+	import WhatsAppButton from './WhatsAppButton.svelte';
 
 	const healthCoachingServices = getHealthCoachingServices();
 	const skinTreatmentServices = getSkinTreatmentServices();
@@ -173,13 +174,11 @@
 						</p>
 
 						<div class="pt-4">
-							<a
-								href="#contact"
-								class="btn btn-secondary btn-lg text-lg px-10 shadow-xl hover:shadow-2xl hover:scale-105 transition-all border-0"
-							>
-								Book Free Consultation
-								<ArrowRight size={20} />
-							</a>
+							<WhatsAppButton
+								text="Free Consultation"
+								size="lg"
+								variant="secondary"
+							/>
 							<!-- Trust indicators -->
 							<div class="flex items-center justify-center gap-8 pt-8 text-white/80 text-sm">
 								<div class="flex items-center gap-2">

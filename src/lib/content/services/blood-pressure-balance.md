@@ -8,6 +8,8 @@ title: "Blood Pressure Coach in Hamilton"
 city: "Hamilton"
 description: "Blood pressure coaching in downtown Hamilton. Vicaria Health helps Hamilton residents from Westdale to Stoney Creek lower BP naturally. Evidence-based, personalized coaching."
 category: "health-coaching"
+order: 4
+image: "/images/services/blood-pressure-balance.jpg"
 ---
 
 Look, I get it.

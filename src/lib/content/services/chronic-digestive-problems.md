@@ -8,6 +8,8 @@ title: "Bloating Help Coach in Hamilton"
 city: "Hamilton"
 description: "Expert IBS and digestive health coaching in downtown Hamilton. Vicaria Health offers functional nutrition for bloating, SIBO, GERD, and chronic gut issues. Monash FODMAP trained. Book free consultation."
 category: "health-coaching"
+order: 2
+image: "/images/services/chronic-digestive-problems.jpg"
 ---
 
 You plan your day around bathrooms.

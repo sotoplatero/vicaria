@@ -4,6 +4,8 @@
 	import HowItWorks from '$lib/components/HowItWorks.svelte';
 	import Testimonials from '$lib/components/Testimonials.svelte';
 	import About from '$lib/components/About.svelte';
+	import CTA from '$lib/components/CTA.svelte';
+	import { Heart } from '@lucide/svelte';
 
 	interface Props {
 		data: {
@@ -69,4 +71,11 @@
 <HowItWorks />
 <Testimonials testimonials={data.testimonials} googleRating={data.googleRating} totalReviews={data.totalReviews} />
 <About />
+<CTA
+	badge="Take the First Step"
+	badgeIcon={Heart}
+	title="Ready to Feel Like Yourself Again?"
+	description="Join hundreds of satisfied clients who've transformed their health with personalized nutrition coaching in Hamilton. Start your journey today with a free 15-minute consultation—no commitment required."
+	backgroundColor="primary"
+/>
 

@@ -1,8 +1,9 @@
 <script lang="ts">
-	import { ArrowRight, Sparkles, Heart, Shield } from '@lucide/svelte';
+	import { Sparkles, Heart, Shield } from '@lucide/svelte';
+	import WhatsAppButton from './WhatsAppButton.svelte';
 </script>
 
-<section id="hero" class="relative min-h-screen flex items-center overflow-hidden bg-gradient-to-br from-warm-white via-blush/20 to-sage-light/10">
+<section id="hero" class="relative min-h-screen flex items-center overflow-hidden bg-base-200">
 	<!-- Decorative Elements -->
 	<div class="absolute inset-0 overflow-hidden pointer-events-none">
 		<!-- Soft gradient orbs -->
@@ -36,15 +37,13 @@
 
 				<!-- CTA -->
 				<div class="flex flex-col sm:flex-row gap-4 pt-4">
-					<a
-						href="#contact"
-						class="btn btn-primary btn-xl text-lg px-8 shadow-xl hover:shadow-2xl hover:-translate-y-1 transition-all group border-0"
-					>
-						Book Free Consultation
-						<ArrowRight class="transition-transform group-hover:translate-x-2" size={24} />
-					</a>
-
-				</div>				
+					<WhatsAppButton
+						text="Free Consultation"
+						size="xl"
+						variant="primary"
+						message="Hi! Can you help me get started?"
+					/>
+				</div>
 
 				<!-- Trust Indicators -->
 				<div class="flex flex-wrap gap-8 py-4">

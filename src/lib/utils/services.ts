@@ -9,6 +9,8 @@ export interface ServiceMetadata {
 	city: string;
 	description: string;
 	category: 'health-coaching' | 'skin-treatments';
+	order?: number;
+	image: string;
 }
 
 // Import all service markdown files with frontmatter
@@ -41,7 +43,9 @@ export function getServiceBySlug(slug: string): ServiceMetadata | undefined {
 }
 
 export function getHealthCoachingServices(): ServiceMetadata[] {
-	return getAllServices().filter((s) => s.category === 'health-coaching');
+	return getAllServices()
+		.filter((s) => s.category === 'health-coaching')
+		.sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
 }
 
 export function getSkinTreatmentServices(): ServiceMetadata[] {

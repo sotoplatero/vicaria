@@ -1,13 +1,14 @@
 <script lang="ts">
-	import { Calendar, FileText, TrendingUp, ArrowRight } from '@lucide/svelte';
+	import { MessageCircle, FileText, TrendingUp } from '@lucide/svelte';
+	import WhatsAppButton from './WhatsAppButton.svelte';
 
 	const steps = [
 		{
 			number: 1,
-			icon: Calendar,
-			title: 'Book Free 15 Min Consultation',
-			description: 'Schedule a 15-minute discovery call to discuss your health goals and current challenges.',
-			duration: '15 minutes',
+			icon: MessageCircle,
+			title: 'Chat With Us on WhatsApp',
+			description: 'Send us a message directly on WhatsApp to discuss your health goals and current challenges. We respond quickly.',
+			duration: 'Instant reply',
 			color: 'primary'
 		},
 		{
@@ -121,20 +122,7 @@
 			</div>
 
 			<div class="flex flex-col sm:flex-row gap-4 justify-center">
-				<a
-					href="#contact"
-					class="btn btn-primary btn-lg text-lg px-10 shadow-xl hover:shadow-2xl hover:-translate-y-1 transition-all group border-0"
-				>
-					Book Your Free Consultation
-					<ArrowRight class="transition-transform group-hover:translate-x-2" size={20} />
-				</a>
-
-				<a
-					href="#testimonials"
-					class="btn btn-ghost btn-lg text-lg px-10 hover:bg-primary/5 transition-all"
-				>
-					Read Success Stories
-				</a>
+				<WhatsAppButton size="xl" variant="primary"	/>
 			</div>
 		</div>
 	</div>

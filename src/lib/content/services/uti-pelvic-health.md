@@ -8,6 +8,8 @@ title: "Recurrent UTI Treatment in Hamilton"
 city: "Hamilton"
 description: "Professional UTI prevention and pelvic health coaching in Hamilton. Natural strategies to stop recurrent infections and reduce pelvic discomfort. Get personalized support today."
 category: "health-coaching"
+order: 6
+image: "/images/services/uti-pelvic-health.jpg"
 ---
 
 ## Break the Cycle of Recurrent UTIs

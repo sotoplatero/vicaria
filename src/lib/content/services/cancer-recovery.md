@@ -8,16 +8,16 @@ title: "Cancer Nutritionist in Hamilton"
 city: "Hamilton"
 description: "Compassionate cancer recovery nutrition coaching in downtown Hamilton. Personalized post-treatment nutrition plans to rebuild strength, support healing, and restore energy. Book your free consultation."
 category: "health-coaching"
+order: 1
+image: "/images/services/cancer-recovery.jpg"
 ---
 
-You’ve completed treatment — but now what?  
+You've completed treatment — but now what?  
 You’re tired, your appetite is unpredictable, and you’re not sure what’s safe to eat.  
 Friends say “just eat healthy,” but you know recovery after cancer isn’t that simple.  
 You want to regain strength, heal well, and reduce fear of recurrence — without guesswork.
 
 At Vicaria Health, we help people across Hamilton and the GTA rebuild their bodies after cancer treatment with nutrition that supports real healing.
-
----
 
 ## Why Recovery Feels So Unclear
 
@@ -31,8 +31,6 @@ After treatment, many people struggle with:
 
 **The problem isn’t your willpower — it’s that post-cancer recovery is complex.**  
 Your body has unique needs after chemo, radiation, surgery, or targeted therapy. You need a plan tailored to you, not generic “healthy eating” rules.
-
----
 
 ## How We Help You Recover Safely
 
@@ -50,8 +48,6 @@ Evidence-based nutrition to lower long-term cancer risk without fear-based advic
 **Step-by-Step Support**  
 We walk with you, helping you rebuild confidence around food and your body.
 
----
-
 ## What Makes Vicaria Health Different
 
 - **Oncology-informed nutrition** — We understand treatment side effects and safe recovery practices  
@@ -60,8 +56,6 @@ We walk with you, helping you rebuild confidence around food and your body.
 - **Collaboration with your healthcare team** — We complement your oncologist’s plan, not replace it  
 - **Compassion-first coaching** — We know recovery is emotional and physical; we guide both
 
----
-
 ## Is This Coaching for You?
 
 - You’ve finished chemo, radiation, or surgery and want safe, nourishing guidance  
@@ -69,8 +63,6 @@ We walk with you, helping you rebuild confidence around food and your body.
 - You want to reduce inflammation and support immune recovery naturally  
 - You’re overwhelmed by conflicting post-cancer nutrition advice  
 - You’re looking for long-term vitality and lower recurrence risk without extreme diets
-
----
 
 ## Questions You’re Probably Asking
 
@@ -89,10 +81,8 @@ Not necessarily. Our goal is balance, not restriction. We’ll focus on foods th
 **Do you work online?**  
 Yes. We see clients in person at our downtown Hamilton clinic and virtually across Ontario.
 
-**Is testing required?**  
+**Is testing required?**
 Not always. We can start with a thorough intake and adapt if lab insights could speed up recovery.
-
----
 
 ## Start Your Recovery With Confidence
 
@@ -102,7 +92,5 @@ Book a **free 15-minute consultation** today.
 No pressure. Just an honest conversation about how nutrition can support your healing journey.
 
 👉 **Reserve your spot now — limited availability this month.**
-
----
 
 <small>*Disclaimer: This coaching complements medical care and does not replace your oncologist’s advice. Always consult your doctor before changing medication or treatment plans.*</small>

@@ -1,73 +1,99 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
-@plugin 'daisyui';
+
+/* DaisyUI Plugin Configuration - Set vicaria as default theme */
+@plugin 'daisyui' {
+  themes: vicaria --default;
+  logs: false;
+}
+
+/* Vicaria Custom Theme - DaisyUI 5 Syntax */
+@plugin 'daisyui/theme' {
+  name: vicaria;
+  default: true;
+  prefersdark: false;
+  color-scheme: light;
+
+  /* Primary - Mauve (flower petals) */
+  --color-primary: oklch(72% 0.13 315);
+  --color-primary-content: oklch(98% 0.01 315);
+
+  /* Secondary - Forest green (leaves) */
+  --color-secondary: oklch(50% 0.09 138);
+  --color-secondary-content: oklch(98% 0.01 138);
+
+  /* Accent - Light pink/lavender */
+  --color-accent: oklch(85% 0.11 315);
+  --color-accent-content: oklch(25% 0.05 315);
+
+  /* Neutral - Charcoal */
+  --color-neutral: oklch(25% 0.01 30);
+  --color-neutral-content: oklch(98% 0.01 30);
+
+  /* Base colors - Warm white background */
+  --color-base-100: oklch(99% 0.01 38);
+  --color-base-200: oklch(96% 0.01 38);
+  --color-base-300: oklch(92% 0.02 38);
+  --color-base-content: oklch(25% 0.01 30);
+
+  /* Semantic colors */
+  --color-info: oklch(70% 0.19 220);
+  --color-info-content: oklch(98% 0.01 220);
+  --color-success: oklch(65% 0.17 145);
+  --color-success-content: oklch(98% 0.01 145);
+  --color-warning: oklch(80% 0.20 80);
+  --color-warning-content: oklch(25% 0.05 80);
+  --color-error: oklch(68% 0.20 25);
+  --color-error-content: oklch(98% 0.01 25);
+
+  /* Border radius */
+  --radius-box: 1rem;
+  --radius-field: 0.75rem;
+  --radius-selector: 1.9rem;
+
+  /* Size */
+  --size-field: 0.25rem;
+  --size-selector: 0.25rem;
+
+  /* Border */
+  --border: 2px;
+
+  /* Effects */
+  --depth: 0;
+  --noise: 0;
+}
 
 @theme {
-  /* Custom Color Palette - Modern Green & Pink */
-  --color-sage: #6b9080;
-  --color-sage-light: #a4c3b2;
-  --color-sage-dark: #3d5a4b;
+  /* Custom Color Palette - Vicaria Logo Colors (for Tailwind utilities) */
+  --color-mauve: #c291b8;
+  --color-mauve-light: #d8a5c8;
+  --color-mauve-dark: #a97a9e;
 
-  --color-rose: #e8b4b8;
-  --color-blush: #f4dfe0;
-  --color-terracotta: #d4978e;
+  --color-forest: #507a5b;
+  --color-forest-light: #6b9c77;
+  --color-forest-dark: #3d5a4b;
+
+  --color-pink-light: #e4b8d6;
+  --color-lavender: #d4a5c4;
 
   --color-warm-white: #fdfbf7;
   --color-warm-gray: #8b8985;
   --color-charcoal: #2c2c2c;
 
   /* Tailwind color mapping */
-  --color-primary: var(--color-sage);
-  --color-primary-light: var(--color-sage-light);
-  --color-primary-dark: var(--color-sage-dark);
+  --color-primary: var(--color-mauve);
+  --color-primary-light: var(--color-mauve-light);
+  --color-primary-dark: var(--color-mauve-dark);
 
-  --color-secondary: var(--color-rose);
-  --color-secondary-light: var(--color-blush);
-  --color-accent: var(--color-terracotta);
+  --color-secondary: var(--color-forest);
+  --color-secondary-light: var(--color-forest-light);
+  --color-accent: var(--color-lavender);
 
   /* Typography */
   --font-family-sans: 'Inter', system-ui, -apple-system, sans-serif;
 
   /* Spacing for mobile-first design */
   --spacing-touch-target: 3rem; /* 48px minimum touch target */
-}
-
-/* DaisyUI Theme Customization */
-[data-theme="vicaria"] {
-  --p: 152 28% 52%; /* primary - sage green */
-  --pf: 152 28% 42%;
-  --pc: 0 0% 100%;
-
-  --s: 356 38% 82%; /* secondary - rose */
-  --sf: 356 38% 72%;
-  --sc: 0 0% 20%;
-
-  --a: 11 37% 70%; /* accent - terracotta */
-  --af: 11 37% 60%;
-  --ac: 0 0% 20%;
-
-  --n: 30 5% 17%; /* neutral - charcoal */
-  --nf: 30 5% 12%;
-  --nc: 0 0% 100%;
-
-  --b1: 38 57% 99%; /* base - warm white */
-  --b2: 38 40% 95%;
-  --b3: 38 30% 90%;
-  --bc: 30 5% 17%;
-
-  --in: 198 93% 60%;
-  --su: 158 64% 52%;
-  --wa: 43 96% 56%;
-  --er: 0 91% 71%;
-
-  --rounded-box: 1rem;
-  --rounded-btn: 0.75rem;
-  --rounded-badge: 1.9rem;
-  --animation-btn: 0.25s;
-  --animation-input: 0.2s;
-  --btn-focus-scale: 0.98;
-  --border-btn: 2px;
-  --tab-border: 2px;
 }
 
 /* Global Styles */
@@ -97,12 +123,16 @@ body {
   @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
 }
 
-.gradient-sage {
-  background: linear-gradient(135deg, var(--color-sage-light) 0%, var(--color-sage) 100%);
+.gradient-mauve {
+  background: linear-gradient(135deg, var(--color-mauve-light) 0%, var(--color-mauve) 100%);
 }
 
-.gradient-rose {
-  background: linear-gradient(135deg, var(--color-blush) 0%, var(--color-rose) 100%);
+.gradient-forest {
+  background: linear-gradient(135deg, var(--color-forest-light) 0%, var(--color-forest) 100%);
+}
+
+.gradient-pink {
+  background: linear-gradient(135deg, var(--color-pink-light) 0%, var(--color-lavender) 100%);
 }
 
 /* Smooth Animations */

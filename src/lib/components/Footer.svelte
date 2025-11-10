@@ -184,7 +184,7 @@
 				</div>
 
 				<!-- Disclaimer -->
-				<div class="mt-6 pt-6 border-t border-gray-700">
+				<div class="mt-6 pt-6 ">
 					<p class="text-xs text-gray-400 text-center max-w-4xl mx-auto leading-relaxed">
 						<strong class="text-gray-300">Disclaimer:</strong> The services provided by Vicaria Health are for educational and coaching purposes only and do not replace medical advice, diagnosis, or treatment. Always consult with your physician or qualified healthcare provider before making changes to your diet, medication, or treatment plan. Our coaching complements but does not substitute professional medical care.
 					</p>
