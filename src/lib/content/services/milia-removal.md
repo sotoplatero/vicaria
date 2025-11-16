@@ -13,6 +13,7 @@ city: "Hamilton"
 description: "Expert milia removal in Hamilton. Safe, effective extraction for smooth, clear skin. Professional assessment and minimal recovery time."
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
+order: 4
 faqs:
   - question: "Does it hurt?"
     answer: "Most people feel a tiny pinch when we create the opening, but it's brief and very tolerable. The extraction itself is painless. We work gently and quickly."

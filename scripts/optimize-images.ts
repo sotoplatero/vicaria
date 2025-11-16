@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const IMAGES_DIR = path.join(__dirname, '../static/images');
+const IMAGES_DIR = path.join(__dirname, '../static');
 const QUALITY = 85; // WebP quality (0-100)
 
 async function findImages(dir: string): Promise<string[]> {

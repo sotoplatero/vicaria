@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { Sparkles, Heart, Shield } from '@lucide/svelte';
 	import WhatsAppButton from './WhatsAppButton.svelte';
+	import Btn from './Btn.svelte';
 </script>
 
 <section id="hero" class="relative min-h-screen flex items-center overflow-hidden bg-base-200">
@@ -42,6 +43,7 @@
 						size="xl"
 						variant="primary"
 						message="Hi! Can you help me get started?"
+						animatedBorder={true}
 					/>
 				</div>
 

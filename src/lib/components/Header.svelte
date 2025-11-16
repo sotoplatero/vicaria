@@ -44,7 +44,7 @@
 			<a href="/" class="flex items-center gap-3 group">
 				<div class="flex items-center gap-3 relative">
 					<img
-						src="/logo.png"
+						src="/logo.webp"
 						alt="Vicaria Health"
 						class="h-12 w-auto transition-transform group-hover:scale-105"
 					/>

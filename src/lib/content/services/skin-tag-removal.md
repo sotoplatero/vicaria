@@ -13,6 +13,7 @@ city: "Hamilton"
 description: "Professional skin tag removal in downtown Hamilton by medical doctors. Safe, quick procedures for neck, underarms, eyelids. Book your consultation at Vicaria Health today."
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
+order: 1
 faqs:
   - question: "Does it hurt?"
     answer: "Electrocautery causes minimal discomfort—most people describe it as a brief warm sensation or quick pinch. For sensitive areas or if you're particularly nervous, we can apply a topical numbing agent beforehand. Most people are surprised by how easy and quick it is."
@@ -79,8 +80,8 @@ The entire process takes just a few minutes per skin tag. Most people describe i
 Before you commit to treatment, see what's actually possible. These are real results from real patients.
 
 <BeforeAfter
-  beforeImage="/images/services/skin-tags/before-1.jpg"
-  afterImage="/images/services/skin-tags/after-1.jpg"
+  beforeImage="/images/services/skin-tags/before.jpeg"
+  afterImage="/images/services/skin-tags/after.jpeg"
   beforeLabel="Before Treatment"
   afterLabel="2 Weeks After"
   alt="Skin tag removal results on neck area"

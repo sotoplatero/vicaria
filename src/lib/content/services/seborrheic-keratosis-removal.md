@@ -13,6 +13,7 @@ city: "Hamilton"
 description: "Professional seborrheic keratosis removal in downtown Hamilton by medical doctors. Safe treatment for age spots and benign skin growths. Book your consultation at Vicaria Health."
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
+order: 2
 faqs:
   - question: "Does it hurt?"
     answer: "Most people describe it as a brief warm sensation or light pinch. If you're concerned, we can use a topical numbing agent to make it even more comfortable. The procedure is quick—much easier than most people expect."

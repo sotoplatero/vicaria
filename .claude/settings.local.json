@@ -26,7 +26,8 @@
       "Bash($null)",
       "Bash(if [ -f \"static/images/vicaria-hero.webp\" ])",
       "Bash(then ls -lh static/images/vicaria-hero.webp)",
-      "Bash(else echo \"File not found in expected location\")"
+      "Bash(else echo \"File not found in expected location\")",
+      "WebFetch(domain:animation-svelte.vercel.app)"
     ],
     "deny": [],
     "ask": []

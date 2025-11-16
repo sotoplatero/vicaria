@@ -49,7 +49,9 @@ export function getHealthCoachingServices(): ServiceMetadata[] {
 }
 
 export function getSkinTreatmentServices(): ServiceMetadata[] {
-	return getAllServices().filter((s) => s.category === 'skin-treatments');
+	return getAllServices()
+		.filter((s) => s.category === 'skin-treatments')
+		.sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
 }
 
 export function getRelatedServices(currentSlug: string, limit = 3): ServiceMetadata[] {

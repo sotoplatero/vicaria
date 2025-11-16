@@ -13,6 +13,7 @@ city: "Hamilton"
 description: "Expert ruby points and cherry angioma treatment in Hamilton. Safe, non-invasive procedures for clearer skin. Professional care you can trust."
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
+order: 3
 faqs:
   - question: "Does it hurt?"
     answer: "Most people describe it as a brief warm sensation or tiny pinch. The process is very quick—seconds per ruby point—so any discomfort is over almost immediately. We work efficiently and gently."
