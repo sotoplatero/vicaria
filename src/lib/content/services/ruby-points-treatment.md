@@ -12,13 +12,7 @@ title: "Best Ruby Points Treatment in Hamilton"
 city: "Hamilton"
 description: "Expert ruby points and cherry angioma treatment in Hamilton. Safe, non-invasive procedures for clearer skin. Professional care you can trust."
 category: "skin-treatments"
-image: "/images/services/ruby-points-treatment.jpg"
----
-
-# Get Rid of Those Red Spots for Good
-
-**Vicaria Health | Downtown Hamilton**
-
+image: "/images/services/skin-tag-removal.jpg"
 ---
 
 They look like tiny red dots scattered across your skin.

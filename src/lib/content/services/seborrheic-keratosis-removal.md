@@ -12,7 +12,7 @@ title: "Seborrheic Keratosis Removal in Hamilton"
 city: "Hamilton"
 description: "Professional seborrheic keratosis removal in downtown Hamilton by medical doctors. Safe treatment for age spots and benign skin growths. Book your consultation at Vicaria Health."
 category: "skin-treatments"
-image: "/images/services/seborrheic-keratosis-removal.jpg"
+image: "/images/services/skin-tag-removal.jpg"
 ---
 
 # Get Rid of Those Stubborn Brown Spots

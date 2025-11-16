@@ -24,7 +24,7 @@
 		{
 			name: '3-Session Package',
 			price: 240,
-			pricePerSession: '$80/session',
+			pricePerSession: '$80 per session',
 			description: 'Get momentum: start building healthier habits with structure and direction.',
 			features: ['3 sessions', 'Action plan', 'Email support'],
 			ctaText: 'Get Started'

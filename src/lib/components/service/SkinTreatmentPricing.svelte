@@ -11,32 +11,18 @@
 
 	const pricingTiers: PricingTier[] = [
 		{
-			name: 'Single Lesion',
-			price: 150,
-			priceNote: 'per lesion',
-			description: 'Quick removal of a single skin tag, milia, or ruby point',
-			features: ['Professional removal', 'Sterile technique', 'Aftercare instructions']
-		},
-		{
-			name: '3-5 Lesions',
-			price: 350,
-			priceNote: 'total',
-			description: 'Remove multiple lesions in one session for better value',
-			features: ['Professional removal', 'Volume discount', 'Comprehensive aftercare']
-		},
-		{
-			name: '6-10 Lesions',
-			price: 550,
-			priceNote: 'total',
-			description: 'Ideal for treating multiple areas at once',
-			features: ['Best value per lesion', 'Full session', 'Follow-up support']
-		},
-		{
-			name: '10+ Lesions',
-			price: 'Custom',
+			name: 'Initial Consultation',
+			price: 60,
 			priceNote: '',
-			description: 'Large areas or extensive treatment plans',
-			features: ['Custom quote', 'Multiple sessions if needed', 'Personalized plan']
+			description: 'Comprehensive skin lesion assessment and identification',
+			features: ['Professional evaluation', 'Lesion identification', 'Treatment plan discussion']
+		},
+		{
+			name: 'Per Lesion Treatment',
+			price: '$20-$25',
+			priceNote: 'per lesion',
+			description: 'Individual lesion removal based on size and location',
+			features: ['Price varies by size', 'Location-dependent', 'Plus applicable taxes']
 		}
 	];
 </script>
@@ -52,7 +38,7 @@
 			</p>
 		</div>
 
-		<div class="max-w-4xl mx-auto grid sm:grid-cols-2 gap-6 mb-12">
+		<div class="max-w-3xl mx-auto grid sm:grid-cols-2 gap-6 mb-12">
 			{#each pricingTiers as tier}
 				<div
 					class="rounded-2xl p-6 shadow-lg hover-lift border-2 transition-all bg-white border-gray-100"
@@ -96,8 +82,8 @@
 				<div class="text-sm text-gray-700 space-y-2">
 					<p class="font-semibold text-charcoal">Important to Know:</p>
 					<ul class="space-y-1 list-disc list-inside">
-						<li>Prices vary based on size, location, and complexity</li>
-						<li>Free consultation to assess and provide accurate quote</li>
+						<li>Consultation fee: $60 CAD + taxes</li>
+						<li>Treatment pricing: $20-$25 per lesion (based on size and location) + taxes</li>
 						<li>Payment required at time of service</li>
 						<li>These are cosmetic procedures not covered by OHIP</li>
 					</ul>
@@ -114,13 +100,13 @@
 				href="#contact"
 				class="btn btn-secondary btn-lg text-lg px-10 shadow-xl hover:shadow-2xl hover:scale-105 transition-all border-0 inline-flex items-center gap-2"
 			>
-				Book Your Free Consultation
+				Book Your Consultation
 				<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
 				</svg>
 			</a>
 			<p class="text-sm text-gray-600 mt-4">
-				Get a personalized quote during your complimentary consultation
+				$60 consultation includes comprehensive lesion assessment
 			</p>
 		</div>
 	</div>

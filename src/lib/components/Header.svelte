@@ -39,7 +39,7 @@
 		: 'bg-transparent'}"
 >
 	<div class="container-custom">
-		<nav class="flex items-center justify-between py-4">
+		<nav class="flex items-center justify-between py-2">
 			<!-- Logo -->
 			<a href="/" class="flex items-center gap-3 group">
 				<div class="flex items-center gap-3 relative">
@@ -57,8 +57,6 @@
 			<!-- CTA & Mobile Menu -->
 			<div class="flex items-center gap-3">
 				<WhatsAppButton size="md"/>
-
-
 			</div>
 		</nav>
 	</div>

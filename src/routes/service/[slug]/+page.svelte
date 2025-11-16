@@ -5,6 +5,7 @@
 	import RelatedServices from '$lib/components/service/RelatedServices.svelte';
 	import HealthCoachingPricing from '$lib/components/service/HealthCoachingPricing.svelte';
 	import SkinTreatmentPricing from '$lib/components/service/SkinTreatmentPricing.svelte';
+	import WhatsAppButton from '$lib/components/WhatsAppButton.svelte';
 	import { getRelatedServices } from '$lib/utils/services';
 	import { page } from '$app/stores';
 	import { ArrowRight, Check, Calendar } from '@lucide/svelte';
@@ -120,14 +121,9 @@
 						</div>
 
 						<!-- CTA -->
+
 						<div class="pt-4">
-							<a
-								href="#contact"
-								class="btn btn-secondary btn-xl text-lg px-10 shadow-xl hover:shadow-2xl hover:-translate-y-1 transition-all group border-0"
-							>
-								Book Your Free Consultation
-								<ArrowRight class="transition-transform group-hover:translate-x-2" size={20} />
-							</a>
+							<WhatsAppButton variant="secondary" size="xl"/>
 						</div>
 
 						<!-- Trust Indicators -->

@@ -12,13 +12,7 @@ title: "Professional Milia Removal in Hamilton"
 city: "Hamilton"
 description: "Expert milia removal in Hamilton. Safe, effective extraction for smooth, clear skin. Professional assessment and minimal recovery time."
 category: "skin-treatments"
-image: "/images/services/milia-removal.jpg"
----
-
-# Get Rid of Those Stubborn White Bumps
-
-**Vicaria Health | Downtown Hamilton**
-
+image: "/images/services/skin-tag-removal.jpg"
 ---
 
 They look like tiny white pearls under your skin.

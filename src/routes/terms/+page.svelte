@@ -7,23 +7,15 @@
 	<meta name="description" content="Terms of Service for Vicaria Health nutrition counseling and wellness services in Hamilton, Ontario." />
 </svelte:head>
 
-<div class="min-h-screen bg-warm-white">
+<div class="min-h-screen ">
 	<!-- Header -->
-	<div class=" text-white pt-20">
-		<div class="container-custom bg-charcoal pb-20">
-			<a href="/" class="inline-flex items-center gap-2 text-gray-300 hover:text-primary transition-colors mb-6">
-				<ArrowLeft size={20} />
-				Back to Home
-			</a>
-			<h1 class="text-4xl md:text-5xl font-bold mb-4">Terms of Service</h1>
-			<p class="text-gray-300">Last updated: October 8, 2025</p>
-		</div>
-	</div>
 
 	<!-- Content -->
 	<div class="container-custom py-16">
 		<article class="max-w-4xl mx-auto prose prose-lg prose-headings:text-charcoal prose-p:text-gray-700 prose-li:text-gray-700 prose-strong:text-gray-800 prose-a:text-primary prose-a:no-underline hover:prose-a:underline">
-
+			<h1 class="text-4xl md:text-5xl font-bold mb-4">Terms of Service</h1>
+			<p class="">Last updated: October 8, 2025</p>
+			
 			<h2>Agreement to Terms</h2>
 			<p>
 				These Terms of Service ("Terms") constitute a legally binding agreement between you ("Client," "you," or "your") and Vicaria Health ("we," "our," or "us") regarding your use of our nutrition counseling, health coaching, and skin treatment services. By booking an appointment, using our services, or accessing our website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our services.
