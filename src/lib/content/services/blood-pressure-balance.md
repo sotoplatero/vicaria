@@ -10,6 +10,19 @@ description: "Blood pressure coaching in downtown Hamilton. Vicaria Health helps
 category: "health-coaching"
 order: 4
 image: "/images/services/blood-pressure-balance.jpg"
+faqs:
+  - question: "Should I stop taking my blood pressure medication?"
+    answer: "No. Never stop or adjust your medication without consulting your doctor. We work alongside your medical team to help you make lifestyle changes that support healthy blood pressure. Any medication changes should be made by your physician."
+  - question: "How long until I see results?"
+    answer: "Many clients notice improvements in their blood pressure readings within 3–6 weeks of implementing our strategies. Long-term results depend on consistency and individual factors."
+  - question: "Is this just about reducing salt?"
+    answer: "No. While sodium management is important, we address multiple factors including stress management, sleep quality, potassium-rich foods, movement, and overall dietary patterns that influence blood pressure."
+  - question: "Can you help if I have white coat hypertension?"
+    answer: "Yes. We help you understand your triggers and develop strategies to manage anxiety around blood pressure monitoring, plus lifestyle approaches to support overall cardiovascular health."
+  - question: "Do you offer online coaching?"
+    answer: "Yes. We see clients in person at our downtown Hamilton clinic and virtually across Ontario."
+  - question: "What does coaching cost?"
+    answer: "We offer a free 15-minute consultation to discuss your situation and our coaching programs. Contact us for pricing details."
 ---
 
 Look, I get it.
@@ -114,10 +127,3 @@ No pressure. No sales pitch. Just a real conversation about what's possible.
 
 [**Book Your Free Consultation**](#)
 
----
-
-**Vicaria Health**  
-Downtown Hamilton, Ontario  
-Serving Hamilton and surrounding areas
-
-<small>*Disclaimer: This coaching complements medical care and does not replace your physician's advice. Always consult your doctor before making changes to medication or treatment plans.*</small>

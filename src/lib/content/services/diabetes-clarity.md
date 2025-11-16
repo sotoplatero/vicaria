@@ -10,6 +10,19 @@ description: "Trusted diabetes coaching in Hamilton. Lower your A1C and stabiliz
 category: "health-coaching"
 order: 3
 image: "/images/services/diabetes-clarity.jpg"
+faqs:
+  - question: "Will this replace my diabetes medication?"
+    answer: "No. We work alongside your medical team to optimize nutrition and lifestyle. Any medication changes should be discussed with your doctor. Our goal is to help you achieve better blood sugar control through sustainable lifestyle changes."
+  - question: "Do you work with Type 1 and Type 2 diabetes?"
+    answer: "Yes. We work with both Type 1 and Type 2 diabetes, as well as prediabetes. Our approach is personalized to your specific type and needs."
+  - question: "How quickly will I see results?"
+    answer: "Most clients notice more stable blood sugar and energy within 2–4 weeks. A1C improvements typically show within 2–3 months of consistent implementation."
+  - question: "Will I have to give up carbs completely?"
+    answer: "No. We teach you how to include carbs strategically while maintaining stable blood sugar. Our approach focuses on balance, not restriction."
+  - question: "Do you offer virtual coaching?"
+    answer: "Yes. We see clients both in person at our downtown Hamilton office and virtually across Ontario."
+  - question: "How much does coaching cost?"
+    answer: "We offer a free 15-minute consultation to discuss your needs and our program options. Contact us for detailed pricing information."
 ---
 
 You check your blood sugar religiously. You count every carb. You follow the meal plan your doctor printed out.
@@ -135,11 +148,3 @@ No pressure. No sales pitch. Just a real conversation about what's possible.
 **Ready to stop guessing and start living with confidence?**
 
 [**Book Your Free Consultation**](#)
-
----
-
-**Vicaria Health**
-Downtown Hamilton, Ontario
-Serving Hamilton and surrounding areas
-
-<small>*Disclaimer: This coaching complements medical care and does not replace your physician's advice. Always consult your doctor before making changes to medication or treatment plans. Diabetes requires ongoing medical supervision.*</small>

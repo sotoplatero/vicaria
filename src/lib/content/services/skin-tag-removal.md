@@ -13,6 +13,17 @@ city: "Hamilton"
 description: "Professional skin tag removal in downtown Hamilton by medical doctors. Safe, quick procedures for neck, underarms, eyelids. Book your consultation at Vicaria Health today."
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
+faqs:
+  - question: "Does it hurt?"
+    answer: "Electrocautery causes minimal discomfort—most people describe it as a brief warm sensation or quick pinch. For sensitive areas or if you're particularly nervous, we can apply a topical numbing agent beforehand. Most people are surprised by how easy and quick it is."
+  - question: "Will it leave a scar?"
+    answer: "Rarely. When done properly by medical professionals, skin tag removal typically heals without visible scarring. The area may be slightly pink for a few weeks, then it fades."
+  - question: "Can I just cut it off myself?"
+    answer: "Please don't. Home removal risks infection, excessive bleeding, and scarring. Plus, if it's not actually a skin tag (if it's a mole or something else), cutting it yourself could cause problems. Let us handle it safely."
+  - question: "How much does it cost?"
+    answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you clear pricing during your consultation."
+  - question: "Will they come back?"
+    answer: "The specific skin tags we remove won't grow back. But if you're prone to skin tags, new ones may develop elsewhere over time. We can remove those too."
 ---
 
 <script>
@@ -117,22 +128,7 @@ If you're not sure whether what you have is a skin tag, we'll take a look and le
 - **Safe for all skin types**: We adjust technique for darker skin tones to prevent pigmentation issues
 - **Located in downtown Hamilton**: Easy to reach from anywhere in the city
 
-## Frequently Asked Questions
-
-**Does it hurt?**
-Electrocautery causes minimal discomfort—most people describe it as a brief warm sensation or quick pinch. For sensitive areas or if you're particularly nervous, we can apply a topical numbing agent beforehand. Most people are surprised by how easy and quick it is.
-
-**Will it leave a scar?**  
-Rarely. When done properly by medical professionals, skin tag removal typically heals without visible scarring. The area may be slightly pink for a few weeks, then it fades.
-
-**Can I just cut it off myself?**  
-Please don't. Home removal risks infection, excessive bleeding, and scarring. Plus, if it's not actually a skin tag (if it's a mole or something else), cutting it yourself could cause problems. Let us handle it safely.
-
-**How much does it cost?**
-Depends on how many skin tags you're having removed. We'll give you clear pricing during your consultation. Most people find it much more affordable than they expected.
-
-**Will they come back?**
-The specific skin tags we remove won't grow back. But if you're prone to skin tags, new ones may develop elsewhere over time. We can remove those too.
+## FAQ
 
 ## Ready to Get Rid of Them?
 
@@ -145,9 +141,3 @@ We'll take a look, answer your questions, and get those skin tags removed so you
 **Stop letting skin tags bother you.**
 
 [**Book Your Appointment**](#)
-
-**Vicaria Health**  
-Dr. Yamilet Pina & Dr. Maurin Casella  
-Downtown Hamilton, Ontario
-
-<small>*Medical skin tag removal performed by licensed physicians. Cosmetic procedures are not covered by OHIP.*</small>

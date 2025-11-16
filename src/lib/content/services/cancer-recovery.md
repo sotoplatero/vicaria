@@ -10,6 +10,19 @@ description: "Compassionate cancer recovery nutrition coaching in downtown Hamil
 category: "health-coaching"
 order: 1
 image: "/images/services/cancer-recovery.jpg"
+faqs:
+  - question: "Is this a replacement for my oncologist?"
+    answer: "No. We work alongside your oncology team to provide nutrition and lifestyle support during and after cancer treatment. We complement medical care, not replace it."
+  - question: "Can you help during active treatment or only after?"
+    answer: "Both. We support clients during active treatment (chemo, radiation) and in post-treatment recovery. Our approach is tailored to your current phase and needs."
+  - question: "What if I have no appetite or food tastes bad?"
+    answer: "This is very common. We provide practical strategies to manage taste changes, nausea, and low appetite—focusing on nutrient-dense options that work for you right now."
+  - question: "Will you tell me what foods prevent cancer?"
+    answer: "We focus on evidence-based nutrition that supports overall health, immune function, and recovery. We avoid unproven claims and work with what research actually supports."
+  - question: "Do you offer online coaching?"
+    answer: "Yes. We see clients in person at our downtown Hamilton office and virtually across Ontario."
+  - question: "How much does coaching cost?"
+    answer: "We offer a free 15-minute consultation to understand your situation and discuss how we can support you. Contact us for program and pricing details."
 ---
 
 You've completed treatment — but now what?  
@@ -90,7 +103,3 @@ You’ve done the hard part — now let’s rebuild your strength and energy saf
 
 Book a **free 15-minute consultation** today.  
 No pressure. Just an honest conversation about how nutrition can support your healing journey.
-
-👉 **Reserve your spot now — limited availability this month.**
-
-<small>*Disclaimer: This coaching complements medical care and does not replace your oncologist’s advice. Always consult your doctor before changing medication or treatment plans.*</small>

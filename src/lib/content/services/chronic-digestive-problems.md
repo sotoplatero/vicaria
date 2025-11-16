@@ -10,6 +10,19 @@ description: "Expert IBS and digestive health coaching in downtown Hamilton. Vic
 category: "health-coaching"
 order: 2
 image: "/images/services/chronic-digestive-problems.jpg"
+faqs:
+  - question: "Can you diagnose digestive conditions like IBS or SIBO?"
+    answer: "No. Diagnosis requires medical evaluation. We work with clients who have existing diagnoses or ongoing digestive symptoms to identify triggers and create personalized nutrition strategies."
+  - question: "Do you use the low FODMAP diet?"
+    answer: "Yes, when appropriate. We're Monash FODMAP trained and use it as a temporary diagnostic tool—not a permanent restriction. Our goal is to identify your specific triggers and expand your diet safely."
+  - question: "How long until I feel better?"
+    answer: "Many clients notice symptom improvement within 2–4 weeks as we identify and remove triggers. Long-term relief comes from understanding your unique patterns and building sustainable habits."
+  - question: "Will I have to avoid foods forever?"
+    answer: "No. Our approach is about finding what works for your body, not permanent restriction. We help you build a diverse, satisfying diet that doesn't trigger symptoms."
+  - question: "Do you offer virtual sessions?"
+    answer: "Yes. We see clients both in person at our downtown Hamilton office and virtually across Ontario."
+  - question: "What does coaching cost?"
+    answer: "We offer a free 15-minute consultation to discuss your digestive concerns and how we can help. Contact us for program details and pricing."
 ---
 
 You plan your day around bathrooms.
@@ -117,7 +130,3 @@ No pressure. No sales pitch. Just an honest conversation about what it takes to 
 **Ready to stop planning your life around your gut?**
 
 [**Book Your Free Consultation**](#)
-
----
-
-<small>*Disclaimer: This coaching complements medical care and does not replace your physician's advice. Always consult your doctor before making changes to medication or treatment plans. Digestive health conditions require ongoing medical supervision.*</small>

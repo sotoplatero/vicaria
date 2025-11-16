@@ -5,6 +5,7 @@
 	import RelatedServices from '$lib/components/service/RelatedServices.svelte';
 	import HealthCoachingPricing from '$lib/components/service/HealthCoachingPricing.svelte';
 	import SkinTreatmentPricing from '$lib/components/service/SkinTreatmentPricing.svelte';
+	import ServiceFAQ from '$lib/components/service/ServiceFAQ.svelte';
 	import WhatsAppButton from '$lib/components/WhatsAppButton.svelte';
 	import { getRelatedServices } from '$lib/utils/services';
 	import { page } from '$app/stores';
@@ -17,6 +18,7 @@
 	const relatedServices = $derived(getRelatedServices(currentSlug));
 	const isHealthCoaching = $derived(metadata.category === 'health-coaching');
 	const isSkinTreatment = $derived(metadata.category === 'skin-treatments');
+	const hasFAQs = $derived(metadata.faqs && metadata.faqs.length > 0);
 
 	// CTA customization based on service type
 	const ctaTitle = $derived(
@@ -50,7 +52,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "MedicalBusiness",
-				"name": "Vicaria Health",
+				"name": "${metadata.title} - Vicaria Health",
 				"description": "${metadata.description}",
 				"address": {
 					"@type": "PostalAddress",
@@ -60,7 +62,7 @@
 					"postalCode": "L8P3A2",
 					"addressCountry": "CA"
 				},
-				"telephone": "+1-365-336-9757",
+				"telephone": "+1365-336-9757",
 				"email": "[email protected]",
 				"url": "https://vicaria.ca",
 				"priceRange": "$$",
@@ -76,7 +78,7 @@
 
 <Header />
 
-<main class="pt-20">
+<main class="pt-16">
 	<!-- Hero Section with Image -->
 	{#if metadata.service}
 		<section class="relative min-h-[70vh] flex items-center overflow-hidden bg-base-100">
@@ -164,7 +166,7 @@
 	<article class="section-padding bg-white">
 		<div class="container-custom">
 			<div class="max-w-4xl mx-auto prose prose-lg prose-headings:font-bold prose-headings:text-charcoal prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-strong:text-primary prose-ul:text-gray-700 prose-ol:text-gray-700">
-				<svelte:component this={data.content} />
+				<data.content />
 			</div>
 		</div>
 	</article>
@@ -175,6 +177,10 @@
 
 	{#if isSkinTreatment}
 		<SkinTreatmentPricing />
+	{/if}
+
+	{#if hasFAQs}
+		<ServiceFAQ faqs={metadata.faqs} />
 	{/if}
 
 	{#if relatedServices.length > 0}

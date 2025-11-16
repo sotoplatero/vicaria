@@ -13,6 +13,19 @@ city: "Hamilton"
 description: "Professional seborrheic keratosis removal in downtown Hamilton by medical doctors. Safe treatment for age spots and benign skin growths. Book your consultation at Vicaria Health."
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
+faqs:
+  - question: "Does it hurt?"
+    answer: "Most people describe it as a brief warm sensation or light pinch. If you're concerned, we can use a topical numbing agent to make it even more comfortable. The procedure is quick—much easier than most people expect."
+  - question: "Will it leave a scar?"
+    answer: "When done properly by medical professionals, scarring is rare and usually minimal. The area may look slightly pink for a few weeks, then it fades to match your surrounding skin tone."
+  - question: "Can I just ignore them?"
+    answer: "You can—they're harmless. But many people remove them because they're cosmetically bothersome, get irritated by clothing or jewelry, or simply want clearer skin. It's totally your call."
+  - question: "Are they dangerous?"
+    answer: "No. Seborrheic keratoses are benign and won't turn into cancer. However, some skin cancers (like melanoma) can look similar. That's why it's smart to have a doctor examine any new or changing skin growth."
+  - question: "How much does it cost?"
+    answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you transparent pricing during your consultation."
+  - question: "Will they come back?"
+    answer: "The specific growths we remove won't grow back. But if you're prone to seborrheic keratoses, new ones may develop elsewhere over time. That's normal—and we can remove those too when they appear."
 ---
 
 # Get Rid of Those Stubborn Brown Spots
@@ -158,10 +171,3 @@ We'll examine your skin growths, confirm what they are, answer your questions, a
 
 [**Book Your Appointment**](#)
 
----
-
-**Vicaria Health**
-Dr. Yamilet Pina & Dr. Maurin Casella
-Downtown Hamilton, Ontario
-
-<small>*Seborrheic keratosis removal performed by licensed physicians. Cosmetic procedures are not covered by OHIP.*</small>

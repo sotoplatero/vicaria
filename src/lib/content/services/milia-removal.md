@@ -13,6 +13,19 @@ city: "Hamilton"
 description: "Expert milia removal in Hamilton. Safe, effective extraction for smooth, clear skin. Professional assessment and minimal recovery time."
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
+faqs:
+  - question: "Does it hurt?"
+    answer: "Most people feel a tiny pinch when we create the opening, but it's brief and very tolerable. The extraction itself is painless. We work gently and quickly."
+  - question: "Will it leave scars?"
+    answer: "When done properly by medical professionals, milia extraction leaves minimal to no scarring. The micro-openings we create are incredibly small and heal cleanly within days."
+  - question: "Can I just squeeze them myself?"
+    answer: "Please don't. Milia don't have a surface opening like pimples do, so squeezing won't work—it'll just irritate your skin, cause redness, and potentially lead to scarring or infection. Let us handle it safely."
+  - question: "Will they come back?"
+    answer: "The specific milia we remove won't come back. However, if you're prone to milia, new ones may develop over time—especially if you use heavy skincare products or have sun damage. We can remove new ones as they appear."
+  - question: "Can I wear makeup after?"
+    answer: "We recommend waiting 24 hours to let the tiny openings close completely. After that, makeup is fine."
+  - question: "How much does it cost?"
+    answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. Most people find it more affordable than they expected."
 ---
 
 They look like tiny white pearls under your skin.
@@ -173,11 +186,3 @@ We'll examine your skin, confirm what those white bumps are, and remove them saf
 **Stop hiding those white bumps under makeup.**
 
 [**Book Your Appointment**](#)
-
----
-
-**Vicaria Health**
-Dr. Yamilet Pina & Dr. Maurin Casella
-Downtown Hamilton, Ontario
-
-<small>*Milia removal performed by licensed physicians. Cosmetic procedures are not covered by OHIP.*</small>

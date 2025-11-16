@@ -10,6 +10,19 @@ description: "Expert menopause health coaching in downtown Hamilton. Personalize
 category: "health-coaching"
 order: 5
 image: "/images/services/menopause-health-coaching.jpg"
+faqs:
+  - question: "Is this a replacement for my doctor or HRT?"
+    answer: "No. We work alongside your medical team. Whether you're on hormone replacement therapy (HRT) or not, we help optimize nutrition and lifestyle to support your transition and improve how you feel day-to-day."
+  - question: "Do I need to be officially in menopause to work with you?"
+    answer: "No. We work with women in perimenopause, menopause, and post-menopause. If you're experiencing symptoms, we can help."
+  - question: "How long until I feel improvement?"
+    answer: "Most women notice better sleep, more stable energy, and fewer hot flashes within 3–4 weeks. Deeper changes in body composition and metabolic health typically take 2–3 months."
+  - question: "Will I have to cut out all carbs or follow a restrictive diet?"
+    answer: "No. We create sustainable, hormone-supportive eating patterns tailored to your lifestyle. No extremes, no deprivation."
+  - question: "Do you work online?"
+    answer: "Yes. We see clients in person at our downtown Hamilton office and virtually across Ontario."
+  - question: "Will testing be required?"
+    answer: "Not always. We can start without it, but when appropriate, we use targeted hormone panels and metabolic markers to accelerate results and remove guesswork."
 ---
 
 You wake up drenched in sweat.
@@ -110,7 +123,3 @@ Book a **free 15-minute consultation** today.
 We'll talk through your symptoms, history, and next steps — so you can finally have a plan to navigate menopause with energy, clarity, and confidence.
 
 [**Reserve your spot now**](#)
-
----
-
-<small>*Disclaimer: This coaching complements medical care and does not replace your physician's advice. Always consult your doctor before changing medication or treatment plans.*</small>

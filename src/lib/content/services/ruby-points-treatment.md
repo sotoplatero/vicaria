@@ -13,6 +13,19 @@ city: "Hamilton"
 description: "Expert ruby points and cherry angioma treatment in Hamilton. Safe, non-invasive procedures for clearer skin. Professional care you can trust."
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
+faqs:
+  - question: "Does it hurt?"
+    answer: "Most people describe it as a brief warm sensation or tiny pinch. The process is very quick—seconds per ruby point—so any discomfort is over almost immediately. We work efficiently and gently."
+  - question: "Will it leave scars?"
+    answer: "When done properly by medical professionals, ruby point removal leaves minimal to no scarring. You may have slight discoloration for a few weeks while the skin heals, but it typically fades completely."
+  - question: "Are ruby points dangerous?"
+    answer: "No. Cherry angiomas are benign and won't turn into cancer. However, they can bleed if scratched or irritated because they're made of blood vessels. If you notice sudden changes in size, shape, or color, it's worth having a doctor examine them—but most ruby points are completely harmless."
+  - question: "Will they come back?"
+    answer: "The specific ruby points we remove won't grow back. However, if you're prone to developing cherry angiomas, new ones may appear elsewhere over time. We can treat those as they develop."
+  - question: "How much does it cost?"
+    answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you transparent pricing during your consultation."
+  - question: "Can I just leave them alone?"
+    answer: "Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons—they want clear, even-toned skin without red spots. It's entirely your choice."
 ---
 
 They look like tiny red dots scattered across your skin.
@@ -176,11 +189,3 @@ We'll examine your ruby points, answer your questions, and remove them safely so
 **Stop feeling self-conscious about red spots.**
 
 [**Book Your Appointment**](#)
-
----
-
-**Vicaria Health**
-Dr. Yamilet Pina & Dr. Maurin Casella
-Downtown Hamilton, Ontario
-
-<small>*Ruby point removal performed by licensed physicians. Cosmetic procedures are not covered by OHIP.*</small>
