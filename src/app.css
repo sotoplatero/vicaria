@@ -14,17 +14,17 @@
   prefersdark: false;
   color-scheme: light;
 
-  /* Primary - Mauve (flower petals) */
-  --color-primary: oklch(72% 0.13 315);
-  --color-primary-content: oklch(98% 0.01 315);
+  /* Primary - Pink Rose (flower petals) */
+  --color-primary: oklch(65% 0.16 345);
+  --color-primary-content: oklch(98% 0.01 345);
 
   /* Secondary - Forest green (leaves) */
   --color-secondary: oklch(50% 0.09 138);
   --color-secondary-content: oklch(98% 0.01 138);
 
   /* Accent - Light pink/lavender */
-  --color-accent: oklch(85% 0.11 315);
-  --color-accent-content: oklch(25% 0.05 315);
+  --color-accent: oklch(85% 0.11 345);
+  --color-accent-content: oklch(25% 0.05 345);
 
   /* Neutral - Charcoal */
   --color-neutral: oklch(25% 0.01 30);
@@ -65,9 +65,9 @@
 
 @theme {
   /* Custom Color Palette - Vicaria Logo Colors (for Tailwind utilities) */
-  --color-mauve: #c291b8;
-  --color-mauve-light: #d8a5c8;
-  --color-mauve-dark: #a97a9e;
+  --color-mauve: #C46293;
+  --color-mauve-light: #d88bb5;
+  --color-mauve-dark: #a84d78;
 
   --color-forest: #507a5b;
   --color-forest-light: #6b9c77;

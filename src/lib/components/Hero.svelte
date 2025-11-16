@@ -14,7 +14,7 @@
 		<div class="absolute inset-0 opacity-[0.03]" style="background-image: radial-gradient(circle, #2c2c2c 1px, transparent 1px); background-size: 50px 50px;"></div>
 	</div>
 
-	<div class="container-custom relative z-10 py-20 lg:py-32">
+	<div class="container-custom relative z-10 lg:pt-32">
 		<div class="grid lg:grid-cols-2 gap-16 items-center">
 			<!-- Content Column -->
 			<div class="space-y-8 animate-fade-up">
@@ -32,7 +32,7 @@
 
 				<!-- Subheadline -->
 				<p class="text-lg md:text-xl text-gray-600 leading-relaxed max-w-2xl font-light">
-					Personalized nutrition coaching for digestive health, diabetes, hypertension, and cancer support—tailored to your unique needs.
+					Personalized nutrition coaching for digestive health, diabetes, hypertension, and cancer support, tailored to your unique needs.
 				</p>
 
 				<!-- CTA -->
@@ -76,7 +76,7 @@
 			<!-- Image Column -->
 			<div class="hidden lg:block h-full overflow-visible">
 				<img
-					src="/maurin-and-yamilet.png"
+					src="/images/vicaria-hero.png"
 					alt="Maurin Yamile - Registered Holistic Nutritionist"
 					class="h-full object-cover"
 				/>
@@ -84,11 +84,4 @@
 		</div>
 	</div>
 
-	<!-- Scroll Indicator -->
-	<div class="absolute bottom-10 left-1/2 -translate-x-1/2 hidden lg:flex flex-col items-center gap-2 animate-bounce">
-		<span class="text-xs text-gray-400 uppercase tracking-wider font-medium">Scroll to explore</span>
-		<svg class="w-6 h-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-			<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
-		</svg>
-	</div>
 </section>
