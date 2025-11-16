@@ -76,7 +76,7 @@
 			<!-- Image Column -->
 			<div class="hidden lg:block h-full overflow-visible">
 				<img
-					src="/images/vicaria-hero.png"
+					src="/images/vicaria-hero.webp"
 					alt="Maurin Yamile - Registered Holistic Nutritionist"
 					class="h-full object-cover"
 				/>

@@ -1,4 +1,13 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
-	"hello_world": "Hello, {name} from es!"
+	"hello_world": "Hello, {name} from es!",
+	"error_page_title": "¡Ups! Algo salió mal",
+	"error_404_title": "Página no encontrada",
+	"error_404_message": "La página que buscas no existe o ha sido movida.",
+	"error_500_title": "Error del servidor",
+	"error_500_message": "Algo salió mal de nuestra parte. Estamos trabajando para solucionarlo.",
+	"error_default_title": "Error {code}",
+	"error_default_message": "Ocurrió un error inesperado.",
+	"error_go_home": "Ir al inicio",
+	"error_go_back": "Volver atrás"
 }

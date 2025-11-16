@@ -28,11 +28,9 @@ faqs:
     answer: "The specific growths we remove won't grow back. But if you're prone to seborrheic keratoses, new ones may develop elsewhere over time. That's normal—and we can remove those too when they appear."
 ---
 
-# Get Rid of Those Stubborn Brown Spots
-
-**Vicaria Health | Downtown Hamilton**
-
----
+<script>
+  import BeforeAfter from '$lib/components/service/BeforeAfter.svelte';
+</script>
 
 They look like someone stuck bits of brown wax to your skin.
 
@@ -99,6 +97,20 @@ The process takes just a few minutes per lesion. You might feel a brief warm sen
 ✓ **Minimal bleeding** Cauterization seals as it removes
 ✓ **Works on all types** Flat, raised, thick, or thin—we can handle it
 ✓ **Clean healing** Properly done, scarring is minimal or nonexistent
+
+---
+
+## Real Results You Can See
+
+Before you commit to treatment, see what's actually possible. These are real results from real patients.
+
+<BeforeAfter
+  beforeImage="/images/services/skin-tags/before-1.jpg"
+  afterImage="/images/services/skin-tags/after-1.jpg"
+  beforeLabel="Before Treatment"
+  afterLabel="2 Weeks After"
+  alt="Skin tag removal results on neck area"
+/>
 
 ---
 

@@ -27,6 +27,9 @@ faqs:
   - question: "Can I just leave them alone?"
     answer: "Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons—they want clear, even-toned skin without red spots. It's entirely your choice."
 ---
+<script>
+  import BeforeAfter from '$lib/components/service/BeforeAfter.svelte';
+</script>
 
 They look like tiny red dots scattered across your skin.
 
@@ -98,6 +101,20 @@ The entire process takes just seconds per ruby point. You might feel a brief war
 ✓ **Precise and controlled** We treat only the angioma, not surrounding skin
 ✓ **Works on all sizes** From tiny pinpoint dots to larger spots
 ✓ **Clean healing** Minimal scarring when done properly by medical professionals
+
+---
+
+## Real Results You Can See
+
+Before you commit to treatment, see what's actually possible. These are real results from real patients.
+
+<BeforeAfter
+  beforeImage="/images/services/skin-tags/before-1.jpg"
+  afterImage="/images/services/skin-tags/after-1.jpg"
+  beforeLabel="Before Treatment"
+  afterLabel="2 Weeks After"
+  alt="Skin tag removal results on neck area"
+/>
 
 ---
 

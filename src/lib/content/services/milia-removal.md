@@ -27,6 +27,9 @@ faqs:
   - question: "How much does it cost?"
     answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. Most people find it more affordable than they expected."
 ---
+<script>
+  import BeforeAfter from '$lib/components/service/BeforeAfter.svelte';
+</script>
 
 They look like tiny white pearls under your skin.
 
@@ -95,6 +98,20 @@ The entire process takes just a few minutes per milium. You might feel a tiny pi
 ✓ **Minimal scarring** We know exactly how to extract without damaging surrounding tissue
 ✓ **Immediate results** The milia are gone the moment we remove them
 ✓ **Safe for delicate areas** Including around the eyes where skin is thin and sensitive
+
+---
+
+## Real Results You Can See
+
+Before you commit to treatment, see what's actually possible. These are real results from real patients.
+
+<BeforeAfter
+  beforeImage="/images/services/skin-tags/before-1.jpg"
+  afterImage="/images/services/skin-tags/after-1.jpg"
+  beforeLabel="Before Treatment"
+  afterLabel="2 Weeks After"
+  alt="Skin tag removal results on neck area"
+/>
 
 ---
 

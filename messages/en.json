@@ -1,4 +1,13 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
-	"hello_world": "Hello, {name} from en!"
+	"hello_world": "Hello, {name} from en!",
+	"error_page_title": "Oops! Something went wrong",
+	"error_404_title": "Page Not Found",
+	"error_404_message": "The page you're looking for doesn't exist or has been moved.",
+	"error_500_title": "Server Error",
+	"error_500_message": "Something went wrong on our end. We're working to fix it.",
+	"error_default_title": "Error {code}",
+	"error_default_message": "An unexpected error occurred.",
+	"error_go_home": "Go to Homepage",
+	"error_go_back": "Go Back"
 }

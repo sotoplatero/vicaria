@@ -5,10 +5,11 @@ Este documento describe todas las optimizaciones implementadas en el proyecto Vi
 ## 📊 Resumen de Mejoras
 
 - **Google Places API**: Migrado a la nueva API + sistema de caché
-- **Reviews**: Sistema de caché de 24h + pre-build estático
+- **Reviews**: Sistema de caché de 24h + pre-build estático + cron diario
 - **Componentes**: Lazy loading para Testimonials
 - **Imágenes**: Conversión automática a WebP (40-90% de reducción)
 - **ISR**: Cache headers y prerendering para páginas de servicios
+- **Cron Job**: Actualización automática diaria de reviews
 
 ---
 
@@ -194,6 +195,92 @@ Cache-Control: public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400
 
 ---
 
+## 7. ⏰ GitHub Action - Actualización Diaria de Reviews
+
+### Implementación
+GitHub Action que actualiza automáticamente los reviews cada día y hace commit al repositorio.
+
+### Workflow Creado
+```
+.github/workflows/update-reviews.yml
+```
+
+### Qué Hace
+1. Se ejecuta diariamente a las 2:00 AM UTC (cron: `0 2 * * *`)
+2. Ejecuta `pnpm run fetch:reviews` para obtener reviews frescos de Google Places API
+3. Actualiza **solo** `src/lib/data/google-reviews.json`
+4. Hace commit y push del cambio (si hay cambios)
+5. Mensaje de commit: `chore: update Google reviews [skip ci]`
+
+### ⚠️ Configuración Necesaria
+
+#### 1. GitHub Secrets
+
+Agrega estos secretos en tu repositorio de GitHub:
+
+1. Ve a tu repositorio en GitHub
+2. Settings → Secrets and variables → Actions
+3. Click en "New repository secret"
+4. Agrega estos dos secretos:
+
+| Secret Name | Value |
+|------------|-------|
+| `GOOGLE_PLACES_API_KEY` | `AIzaSyBZ2lZdOxE3Z4R2VnYdK6fwaRqj4lLyyPE` |
+| `GOOGLE_PLACE_ID` | `ChIJWW4RP9qbLIgRCkMd-eNpDTI` |
+
+#### 2. Google Cloud API Key
+
+La API key debe permitir llamadas desde GitHub Actions:
+
+1. Ve a [Google Cloud Console](https://console.cloud.google.com/) → API Credentials
+2. Edita tu API Key
+3. En "Application restrictions":
+   - Selecciona **"None"** (GitHub Actions tiene IPs dinámicas)
+   - O usa una API key diferente sin restricciones para el Action
+
+#### 3. Permisos del Workflow
+
+El workflow necesita permisos para hacer commits:
+- El `GITHUB_TOKEN` ya tiene permisos por defecto
+- Si falla, ve a Settings → Actions → General → Workflow permissions
+- Selecciona "Read and write permissions"
+
+### Ejecución Manual
+
+Puedes ejecutar el workflow manualmente en cualquier momento:
+
+1. Ve a tu repositorio en GitHub
+2. Actions → "Update Google Reviews"
+3. Click en "Run workflow" → "Run workflow"
+4. Espera a que complete (≈30 segundos)
+
+### Archivos Creados
+- `.github/workflows/update-reviews.yml` - GitHub Action workflow
+
+### Ver Ejecuciones
+
+1. Ve a Actions en tu repositorio de GitHub
+2. Selecciona "Update Google Reviews"
+3. Verás todas las ejecuciones (automáticas y manuales)
+4. Click en una ejecución para ver los logs detallados
+
+### Logs Esperados
+```
+✅ Google reviews updated successfully
+
+Updated file: src/lib/data/google-reviews.json
+```
+
+O si no hay cambios:
+```
+ℹ️ No changes in reviews
+```
+
+### Ahorro Estimado
+**Automático**: Reviews siempre actualizados sin intervención manual
+
+---
+
 ## 📈 Impacto Total Estimado
 
 | Optimización | Ahorro | Impacto |
@@ -203,6 +290,7 @@ Cache-Control: public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400
 | Lazy Loading | ~15% bundle inicial | ⚡ First Contentful Paint |
 | WebP Images | ~40-90% tamaño | 📉 Bandwidth |
 | ISR + Cache | ~80% server requests | 💾 Servidor + CDN |
+| Cron Job Diario | Automático | 🔄 Reviews siempre actualizados |
 
 ---
 
@@ -276,6 +364,22 @@ Reviews cached successfully
 1. Verifica que la API esté habilitada en Google Cloud
 2. Revisa las credenciales en `.env`
 3. Borra `.cache/reviews.json` y recarga
+
+### GitHub Action no funciona
+1. **Error 403 - API_KEY_HTTP_REFERRER_BLOCKED**:
+   - La API key tiene restricciones de HTTP referrer
+   - Cambia a "None" en Google Cloud Console
+   - GitHub Actions no tiene referrer
+2. **Workflow no se ejecuta**:
+   - Verifica que `.github/workflows/update-reviews.yml` esté en el repo
+   - Ve a Settings → Actions → General → Workflow permissions
+   - Selecciona "Read and write permissions"
+3. **Error de permisos al hacer commit**:
+   - Verifica que el workflow tenga permisos de escritura
+   - El `GITHUB_TOKEN` debe tener permisos suficientes
+4. **Secretos no encontrados**:
+   - Ve a Settings → Secrets and variables → Actions
+   - Verifica que `GOOGLE_PLACES_API_KEY` y `GOOGLE_PLACE_ID` estén configurados
 
 ### Imágenes no se optimizan
 1. Verifica que `sharp` esté instalado: `pnpm list sharp`
