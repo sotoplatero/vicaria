@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Expert menopause health coaching in downtown Hamilton. Personalized nutrition and lifestyle plans to manage hot flashes, weight gain, mood swings, and energy crashes. Book your free consultation."
 category: "health-coaching"
 order: 5
-image: "/images/services/menopause-health-coaching.jpg"
+image: "/images/vicaria.webp"
 faqs:
   - question: "Is this a replacement for my doctor or HRT?"
     answer: "No. We work alongside your medical team. Whether you're on hormone replacement therapy (HRT) or not, we help optimize nutrition and lifestyle to support your transition and improve how you feel day-to-day."
@@ -119,7 +119,6 @@ Not always. We can start without it, but when appropriate, we use targeted hormo
 
 Stop accepting exhaustion, weight gain, and mood swings as "just part of aging."
 
-Book a **free 15-minute consultation** today.
 We'll talk through your symptoms, history, and next steps — so you can finally have a plan to navigate menopause with energy, clarity, and confidence.
 
 [**Reserve your spot now**](#)

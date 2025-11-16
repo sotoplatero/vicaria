@@ -128,16 +128,12 @@ If you're not sure whether what you have is a skin tag, we'll take a look and le
 - **Safe for all skin types**: We adjust technique for darker skin tones to prevent pigmentation issues
 - **Located in downtown Hamilton**: Easy to reach from anywhere in the city
 
-## FAQ
-
 ## Ready to Get Rid of Them?
-
-**Book your consultation.**
 
 We'll take a look, answer your questions, and get those skin tags removed so you can stop thinking about them.
 
 *Vicaria Health is located in downtown Hamilton and serves clients throughout the city—including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
 
-**Stop letting skin tags bother you.**
+Stop letting skin tags bother you.
 
 [**Book Your Appointment**](#)

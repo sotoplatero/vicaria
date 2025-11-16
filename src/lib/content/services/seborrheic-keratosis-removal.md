@@ -159,15 +159,13 @@ Please don't. Home removal methods (freezing kits, acids, scraping) can cause in
 
 ## Ready to Get Clearer Skin?
 
-**Book your consultation.**
 
 We'll examine your skin growths, confirm what they are, answer your questions, and remove them safely so you can stop thinking about them.
 
----
 
 *Vicaria Health is located in downtown Hamilton and serves clients throughout the city—including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
 
-**Stop letting stubborn brown spots bother you.**
+Stop letting stubborn brown spots bother you.
 
 [**Book Your Appointment**](#)
 

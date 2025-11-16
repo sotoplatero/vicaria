@@ -178,14 +178,11 @@ If you accidentally scratch or irritate a ruby point and it bleeds, apply gentle
 
 ## Ready for Clear, Even Skin?
 
-**Book your consultation.**
-
 We'll examine your ruby points, answer your questions, and remove them safely so you can stop thinking about those red spots.
 
----
 
-*Vicaria Health is located in downtown Hamilton and serves clients throughout the city—including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
+*Vicaria Health is located in downtown Hamilton and serves clients throughout the city, including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
 
-**Stop feeling self-conscious about red spots.**
+Stop feeling self-conscious about red spots.
 
 [**Book Your Appointment**](#)

@@ -175,14 +175,11 @@ No problem. We'll examine the bumps and let you know exactly what they are. Some
 
 ## Ready for Smooth, Clear Skin?
 
-**Book your consultation.**
-
 We'll examine your skin, confirm what those white bumps are, and remove them safely so you can stop worrying about them.
 
----
 
 *Vicaria Health is located in downtown Hamilton and serves clients throughout the city—including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
 
-**Stop hiding those white bumps under makeup.**
+Stop hiding those white bumps under makeup.
 
 [**Book Your Appointment**](#)

@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Trusted diabetes coaching in Hamilton. Lower your A1C and stabilize energy with personalized meal plans. Get clarity and confidence managing blood sugar naturally."
 category: "health-coaching"
 order: 3
-image: "/images/services/diabetes-clarity.jpg"
+image: "/images/vicaria.webp"
 faqs:
   - question: "Will this replace my diabetes medication?"
     answer: "No. We work alongside your medical team to optimize nutrition and lifestyle. Any medication changes should be discussed with your doctor. Our goal is to help you achieve better blood sugar control through sustainable lifestyle changes."
@@ -135,16 +135,12 @@ Good. That means you know what doesn't work. Most people who come to us have tri
 
 ## Let's Talk
 
-**Book a free 15-minute consultation.**
-
 We'll talk about where you're at, what you're hoping for, and whether this approach makes sense for you.
 
 No pressure. No sales pitch. Just a real conversation about what's possible.
 
----
-
 *Vicaria Health is located in downtown Hamilton and serves clients throughout the city including Westdale, Dundas, Ancaster, Waterdown, Stoney Creek, Binbrook, and Burlington. We offer both in-person sessions at our downtown location and virtual coaching for your convenience.*
 
-**Ready to stop guessing and start living with confidence?**
+Ready to stop guessing and start living with confidence?
 
 [**Book Your Free Consultation**](#)

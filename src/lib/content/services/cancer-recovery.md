@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Compassionate cancer recovery nutrition coaching in downtown Hamilton. Personalized post-treatment nutrition plans to rebuild strength, support healing, and restore energy. Book your free consultation."
 category: "health-coaching"
 order: 1
-image: "/images/services/cancer-recovery.jpg"
+image: "/images/vicaria.webp"
 faqs:
   - question: "Is this a replacement for my oncologist?"
     answer: "No. We work alongside your oncology team to provide nutrition and lifestyle support during and after cancer treatment. We complement medical care, not replace it."
@@ -101,5 +101,5 @@ Not always. We can start with a thorough intake and adapt if lab insights could 
 
 You’ve done the hard part — now let’s rebuild your strength and energy safely.
 
-Book a **free 15-minute consultation** today.  
+Chat with us for **free 15-minute consultation** today.  
 No pressure. Just an honest conversation about how nutrition can support your healing journey.

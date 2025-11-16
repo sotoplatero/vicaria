@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Blood pressure coaching in downtown Hamilton. Vicaria Health helps Hamilton residents from Westdale to Stoney Creek lower BP naturally. Evidence-based, personalized coaching."
 category: "health-coaching"
 order: 4
-image: "/images/services/blood-pressure-balance.jpg"
+image: "/images/vicaria.webp"
 faqs:
   - question: "Should I stop taking my blood pressure medication?"
     answer: "No. Never stop or adjust your medication without consulting your doctor. We work alongside your medical team to help you make lifestyle changes that support healthy blood pressure. Any medication changes should be made by your physician."
@@ -113,17 +113,14 @@ Absolutely. We encourage it. Many of our clients share their progress with their
 
 ## Let's Talk
 
-**Book a free 15-minute consultation.**
-
 We'll talk about where you're at, what you're hoping for, and whether this approach makes sense for you.
 
 No pressure. No sales pitch. Just a real conversation about what's possible.
 
----
 
 *Vicaria Health is located in downtown Hamilton and serves clients throughout the city including Westdale, Dundas, Ancaster, Waterdown, Stoney Creek, Binbrook, and Burlington. We offer both in-person sessions at our downtown location and virtual coaching for your convenience.*
 
-**Ready to stop worrying about your numbers and start controlling them?**
+Ready to stop worrying about your numbers and start controlling them?
 
 [**Book Your Free Consultation**](#)
 
