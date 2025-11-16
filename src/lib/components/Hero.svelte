@@ -78,7 +78,12 @@
 				<img
 					src="/images/vicaria-hero.webp"
 					alt="Maurin Yamile - Registered Holistic Nutritionist"
-					class="h-full object-cover"
+					width="800"
+				height="1200"
+				fetchpriority="high"
+				loading="eager"
+				decoding="async"
+				class="h-full object-cover"
 				/>
 			</div>
 		</div>

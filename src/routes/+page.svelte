@@ -88,6 +88,7 @@
 </script>
 
 <svelte:head>
+	<link rel="preload" as="image" href="/images/vicaria-hero.webp" fetchpriority="high" />
 	<title>Vicaria Health - Expert Nutrition Counseling in Hamilton, ON</title>
 	<meta name="description" content="Professional nutrition counseling for digestive health, diabetes, cancer support, and more. Located in Hamilton, Ontario. Book your free consultation today." />
 	{@html `<script type="application/ld+json">${JSON.stringify(localBusinessSchema)}<\/script>`}
