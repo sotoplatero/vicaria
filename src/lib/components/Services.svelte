@@ -47,7 +47,7 @@
 						<!-- Icon -->
 						<div class="mb-6 relative">
 							<div class="w-16 h-16 rounded-2xl bg-white shadow-lg flex items-center justify-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-300">
-								<svelte:component this={IconComponent} class="text-{service.cardColor}" size={32} />
+								<IconComponent class="text-primary" size={32} />
 							</div>
 							<!-- Glow effect on hover -->
 							<div class="absolute inset-0 bg-{service.cardColor}/20 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -108,7 +108,7 @@
 						<!-- Icon -->
 						<div class="mb-6 relative">
 							<div class="w-16 h-16 rounded-2xl bg-white shadow-lg flex items-center justify-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-300">
-								<svelte:component this={IconComponent} class="text-{service.cardColor}" size={32} />
+								<IconComponent class="text-secondary" size={32} />
 							</div>
 							<!-- Glow effect on hover -->
 							<div class="absolute inset-0 bg-{service.cardColor}/20 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -116,7 +116,7 @@
 
 						<!-- Content -->
 						<div class="space-y-4">
-							<h3 class="text-xl font-bold text-charcoal group-hover:text-{service.cardColor} transition-colors">
+							<h3 class="text-xl font-bold text-charcoal group-hover:text-primary transition-colors">
 								{service.service}
 							</h3>
 
@@ -129,7 +129,7 @@
 								<ul class="space-y-2 text-gray-600">
 									{#each service.benefits as benefit}
 										<li class="flex items-start gap-2">
-											<svg class="w-4 h-4 text-{service.cardColor} flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+											<svg class="w-4 h-4 text-secondary flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
 												<path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
 											</svg>
 											<span>{benefit}</span>
@@ -140,7 +140,7 @@
 
 							<!-- CTA -->
 							<div class="pt-2">
-								<div class="inline-flex items-center gap-2 text-{service.cardColor} font-semibold text-sm group-hover:gap-3 transition-all">
+								<div class="inline-flex items-center gap-2 text-secondary font-semibold text-sm group-hover:gap-3 transition-all">
 									Learn More
 									<ArrowRight size={16} class="group-hover:translate-x-1 transition-transform" />
 								</div>

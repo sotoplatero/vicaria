@@ -94,11 +94,11 @@ The process takes just a few minutes per lesion. You might feel a brief warm sen
 
 **Why electrocautery?**
 
-✓ **Complete removal** — We take off the entire growth, not just the surface
-✓ **Controlled and precise** — We treat only the SK, leaving healthy skin intact
-✓ **Minimal bleeding** — Cauterization seals as it removes
-✓ **Works on all types** — Flat, raised, thick, or thin—we can handle it
-✓ **Clean healing** — Properly done, scarring is minimal or nonexistent
+✓ **Complete removal** We take off the entire growth, not just the surface
+✓ **Controlled and precise** We treat only the SK, leaving healthy skin intact
+✓ **Minimal bleeding** Cauterization seals as it removes
+✓ **Works on all types** Flat, raised, thick, or thin—we can handle it
+✓ **Clean healing** Properly done, scarring is minimal or nonexistent
 
 ---
 
@@ -149,11 +149,11 @@ Please don't. Home removal methods (freezing kits, acids, scraping) can cause in
 
 **We're physicians, not estheticians.** That distinction matters when you're treating skin lesions.
 
-✓ **Medical training and diagnostic expertise** — We can tell the difference between SK and more serious lesions
-✓ **Proper technique and sterilization** — No risk of infection or complications from DIY attempts
-✓ **We catch concerning growths** — If something looks off, we know—and we'll refer for biopsy if needed
-✓ **Safe for all skin types** — We adjust our technique to prevent pigmentation issues, especially on darker skin
-✓ **Located in downtown Hamilton** — Easy access from anywhere in the city
+✓ **Medical training and diagnostic expertise** We can tell the difference between SK and more serious lesions
+✓ **Proper technique and sterilization** No risk of infection or complications from DIY attempts
+✓ **We catch concerning growths** If something looks off, we know—and we'll refer for biopsy if needed
+✓ **Safe for all skin types** We adjust our technique to prevent pigmentation issues, especially on darker skin
+✓ **Located in downtown Hamilton** Easy access from anywhere in the city
 
 ---
 

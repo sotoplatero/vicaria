@@ -1,6 +1,6 @@
 ---
 service: "Digestive Relief Coaching"
-pain: "Heartburn, bloating, constipation, or IBS that controls your days. You've tried diets, pills, and advice from everywhere — but nothing sticks."
+pain: "Heartburn, bloating, constipation, or IBS that controls your days. You've tried diets, pills, and advice from everywhere but nothing sticks."
 solution: "We help you understand what really triggers your discomfort and rebuild calm, predictable digestion through food, rhythm, and mindful eating habits."
 cardIcon: "activity"
 cardColor: "primary"
@@ -72,13 +72,13 @@ Your gut and brain are in constant conversation. If your nervous system is stuck
 
 ## What Makes Vicaria Health Different
 
-* **Functional medicine approach** — We find root causes, not just manage symptoms  
-* **Evidence-based testing** — Comprehensive stool panels, SIBO breath tests, food sensitivity analysis  
-* **Monash FODMAP trained** — Proper Low FODMAP implementation, not generic versions  
-* **SIBO specialist** — Experience with both hydrogen and methane-dominant presentations  
-* **Gut-brain axis expertise** — We address the nervous system component most practitioners ignore  
-* **Local to Hamilton** — Downtown location, serving the whole city and virtual clients across Ontario  
-* **Work alongside your doctor** — We complement your medical care and communicate with your healthcare team
+* **Functional medicine approach** We find root causes, not just manage symptoms  
+* **Evidence-based testing** Comprehensive stool panels, SIBO breath tests, food sensitivity analysis  
+* **Monash FODMAP trained** Proper Low FODMAP implementation, not generic versions  
+* **SIBO specialist** Experience with both hydrogen and methane-dominant presentations  
+* **Gut-brain axis expertise** We address the nervous system component most practitioners ignore  
+* **Local to Hamilton** Downtown location, serving the whole city and virtual clients across Ontario  
+* **Work alongside your doctor** We complement your medical care and communicate with your healthcare team
 
 ---
 

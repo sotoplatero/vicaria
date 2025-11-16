@@ -2,8 +2,8 @@
 service: "Diabetes Clarity Coaching"
 pain: "You measure, count, and restrict yet your energy is still unpredictable."
 solution: "We turn complex advice into a daily routine that brings stability, freedom, and confidence managing your glucose naturally."
-cardIcon: "activity"
-cardColor: "secondary"
+cardIcon: "CakeSlice"
+cardColor: "primary"
 title: "The Best Diabetes Coach in Hamilton"
 city: "Hamilton"
 description: "Trusted diabetes coaching in Hamilton. Lower your A1C and stabilize energy with personalized meal plans. Get clarity and confidence managing blood sugar naturally."
@@ -50,12 +50,12 @@ You're doing all that. But your numbers still don't make sense.
 **The problem isn't that you're not trying hard enough. It's that blood sugar control is more complex than a simple carb count.**
 
 Your glucose levels are affected by:
-- **Meal timing and composition** — When you eat and how you combine foods matters as much as what you eat
-- **Sleep quality** — Poor sleep spikes morning blood sugar and increases insulin resistance
-- **Stress and cortisol** — Chronic stress keeps your glucose elevated even when you eat perfectly
-- **Inflammation and gut health** — Underlying inflammation makes insulin less effective
-- **Activity patterns** — Not just "exercise more" but strategic movement timing around meals
-- **Medication timing** — How and when you take your medications affects their effectiveness
+- **Meal timing and composition** When you eat and how you combine foods matters as much as what you eat
+- **Sleep quality** Poor sleep spikes morning blood sugar and increases insulin resistance
+- **Stress and cortisol** Chronic stress keeps your glucose elevated even when you eat perfectly
+- **Inflammation and gut health** Underlying inflammation makes insulin less effective
+- **Activity patterns** Not just "exercise more" but strategic movement timing around meals
+- **Medication timing** How and when you take your medications affects their effectiveness
 
 At Vicaria Health, we're in downtown Hamilton. We see people in our office or virtually—whatever works for you. Whether you're walking over from Durand or logging in from Ancaster, we build protocols based on your specific patterns, not textbook recommendations.
 

@@ -7,7 +7,7 @@ benefits:
   - "Cosmetic skin rejuvenation"
   - "Visible improvement after one session"
 cardIcon: "sparkles"
-cardColor: "accent"
+cardColor: "error"
 title: "Best Ruby Points Treatment in Hamilton"
 city: "Hamilton"
 description: "Expert ruby points and cherry angioma treatment in Hamilton. Safe, non-invasive procedures for clearer skin. Professional care you can trust."
@@ -93,11 +93,11 @@ The entire process takes just seconds per ruby point. You might feel a brief war
 
 **Why electrocautery?**
 
-✓ **Immediate removal** — The ruby point is gone on the spot
-✓ **Minimal bleeding** — Cauterization seals blood vessels as we treat
-✓ **Precise and controlled** — We treat only the angioma, not surrounding skin
-✓ **Works on all sizes** — From tiny pinpoint dots to larger spots
-✓ **Clean healing** — Minimal scarring when done properly by medical professionals
+✓ **Immediate removal** The ruby point is gone on the spot
+✓ **Minimal bleeding** Cauterization seals blood vessels as we treat
+✓ **Precise and controlled** We treat only the angioma, not surrounding skin
+✓ **Works on all sizes** From tiny pinpoint dots to larger spots
+✓ **Clean healing** Minimal scarring when done properly by medical professionals
 
 ---
 
@@ -168,11 +168,11 @@ If you accidentally scratch or irritate a ruby point and it bleeds, apply gentle
 
 **We're physicians, not estheticians.** That matters when treating vascular lesions.
 
-✓ **Medical expertise** — We understand vascular anatomy and how to treat blood vessel lesions safely
-✓ **Proper sterilization and technique** — No risk of infection or complications
-✓ **We can identify concerning lesions** — If something doesn't look like a typical ruby point, we know
-✓ **Safe for all skin types** — We adjust technique to prevent hyperpigmentation on darker skin tones
-✓ **Located in downtown Hamilton** — Easy access from Westdale, Mountain, Dundas, Ancaster, Stoney Creek, and beyond
+✓ **Medical expertise** We understand vascular anatomy and how to treat blood vessel lesions safely
+✓ **Proper sterilization and technique** No risk of infection or complications
+✓ **We can identify concerning lesions** If something doesn't look like a typical ruby point, we know
+✓ **Safe for all skin types** We adjust technique to prevent hyperpigmentation on darker skin tones
+✓ **Located in downtown Hamilton** Easy access from Westdale, Mountain, Dundas, Ancaster, Stoney Creek, and beyond
 
 ---
 

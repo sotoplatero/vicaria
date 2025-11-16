@@ -1,6 +1,6 @@
 ---
 service: "Cancer Recovery Nutrition Coaching"
-pain: "You've finished treatment — but recovery feels unclear. Low strength, poor appetite, or fear of relapse can make it hard to move forward."
+pain: "You've finished treatment but recovery feels unclear. Low strength, poor appetite, or fear of relapse can make it hard to move forward."
 solution: "We create a gentle, personalized nutrition plan to rebuild energy, support healing, and help you feel like yourself again."
 cardIcon: "users"
 cardColor: "accent"
@@ -25,10 +25,10 @@ faqs:
     answer: "We offer a free 15-minute consultation to understand your situation and discuss how we can support you. Contact us for program and pricing details."
 ---
 
-You've completed treatment — but now what?  
+You've completed treatment but now what?  
 You’re tired, your appetite is unpredictable, and you’re not sure what’s safe to eat.  
 Friends say “just eat healthy,” but you know recovery after cancer isn’t that simple.  
-You want to regain strength, heal well, and reduce fear of recurrence — without guesswork.
+You want to regain strength, heal well, and reduce fear of recurrence without guesswork.
 
 At Vicaria Health, we help people across Hamilton and the GTA rebuild their bodies after cancer treatment with nutrition that supports real healing.
 
@@ -42,7 +42,7 @@ After treatment, many people struggle with:
 - Fear of eating the “wrong foods” and increasing cancer risk  
 - Confusion from conflicting advice online
 
-**The problem isn’t your willpower — it’s that post-cancer recovery is complex.**  
+**The problem isn’t your willpower it’s that post-cancer recovery is complex.**  
 Your body has unique needs after chemo, radiation, surgery, or targeted therapy. You need a plan tailored to you, not generic “healthy eating” rules.
 
 ## How We Help You Recover Safely
@@ -63,11 +63,11 @@ We walk with you, helping you rebuild confidence around food and your body.
 
 ## What Makes Vicaria Health Different
 
-- **Oncology-informed nutrition** — We understand treatment side effects and safe recovery practices  
-- **Functional approach** — Focus on whole-body healing, gut health, inflammation, and long-term vitality  
-- **Local to Hamilton** — Downtown location, serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington + virtual coaching across Ontario  
-- **Collaboration with your healthcare team** — We complement your oncologist’s plan, not replace it  
-- **Compassion-first coaching** — We know recovery is emotional and physical; we guide both
+- **Oncology-informed nutrition** We understand treatment side effects and safe recovery practices  
+- **Functional approach** Focus on whole-body healing, gut health, inflammation, and long-term vitality  
+- **Local to Hamilton** Downtown location, serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington + virtual coaching across Ontario  
+- **Collaboration with your healthcare team** We complement your oncologist’s plan, not replace it  
+- **Compassion-first coaching** We know recovery is emotional and physical; we guide both
 
 ## Is This Coaching for You?
 
@@ -99,7 +99,7 @@ Not always. We can start with a thorough intake and adapt if lab insights could 
 
 ## Start Your Recovery With Confidence
 
-You’ve done the hard part — now let’s rebuild your strength and energy safely.
+You’ve done the hard part now let’s rebuild your strength and energy safely.
 
 Chat with us for **free 15-minute consultation** today.  
 No pressure. Just an honest conversation about how nutrition can support your healing journey.

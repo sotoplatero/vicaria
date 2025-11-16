@@ -81,20 +81,20 @@ We use a simple, proven technique: **sterile extraction**.
 
 **Here's the process:**
 
-1. **We clean and prepare the area** — Ensuring everything is sterile to prevent infection
-2. **We create a tiny opening** — Using a sterile lancet or fine needle, we make a micro-incision in the skin's surface
-3. **We extract the keratin** — Gentle pressure removes the trapped keratin cyst cleanly
-4. **That's it** — The bump is gone, the opening heals within days
+1. **We clean and prepare the area** Ensuring everything is sterile to prevent infection
+2. **We create a tiny opening** Using a sterile lancet or fine needle, we make a micro-incision in the skin's surface
+3. **We extract the keratin** Gentle pressure removes the trapped keratin cyst cleanly
+4. **That's it** The bump is gone, the opening heals within days
 
 The entire process takes just a few minutes per milium. You might feel a tiny pinch when we make the opening, but it's quick and well-tolerated. Most people are surprised by how easy it is.
 
 **Why professional extraction?**
 
-✓ **Sterile technique** — No risk of infection from dirty tools or fingers
-✓ **Proper tools** — Medical-grade instruments designed for precision
-✓ **Minimal scarring** — We know exactly how to extract without damaging surrounding tissue
-✓ **Immediate results** — The milia are gone the moment we remove them
-✓ **Safe for delicate areas** — Including around the eyes where skin is thin and sensitive
+✓ **Sterile technique** No risk of infection from dirty tools or fingers
+✓ **Proper tools** Medical-grade instruments designed for precision
+✓ **Minimal scarring** We know exactly how to extract without damaging surrounding tissue
+✓ **Immediate results** The milia are gone the moment we remove them
+✓ **Safe for delicate areas** Including around the eyes where skin is thin and sensitive
 
 ---
 
@@ -164,12 +164,12 @@ No problem. We'll examine the bumps and let you know exactly what they are. Some
 
 **We're physicians, not estheticians.** That matters when you're working on delicate facial skin.
 
-✓ **Medical training** — We understand skin anatomy and how to extract without causing damage
-✓ **Sterile technique** — Proper tools, sterilization, and infection prevention
-✓ **Safe for sensitive areas** — Including around the eyes where precision is critical
-✓ **We can identify other skin issues** — If something looks unusual, we know
-✓ **Appropriate for all skin types** — We adjust our technique to prevent pigmentation issues on darker skin tones
-✓ **Located in downtown Hamilton** — Serving Westdale, the Mountain, Dundas, Ancaster, Stoney Creek, and beyond
+✓ **Medical training** We understand skin anatomy and how to extract without causing damage
+✓ **Sterile technique** Proper tools, sterilization, and infection prevention
+✓ **Safe for sensitive areas** Including around the eyes where precision is critical
+✓ **We can identify other skin issues** If something looks unusual, we know
+✓ **Appropriate for all skin types** We adjust our technique to prevent pigmentation issues on darker skin tones
+✓ **Located in downtown Hamilton** Serving Westdale, the Mountain, Dundas, Ancaster, Stoney Creek, and beyond
 
 ---
 

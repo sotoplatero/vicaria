@@ -1,11 +1,15 @@
 <script lang="ts">
+	import { onMount } from 'svelte';
 	import Hero from '$lib/components/Hero.svelte';
 	import Services from '$lib/components/Services.svelte';
 	import HowItWorks from '$lib/components/HowItWorks.svelte';
-	import Testimonials from '$lib/components/Testimonials.svelte';
 	import About from '$lib/components/About.svelte';
 	import CTA from '$lib/components/CTA.svelte';
 	import { Heart } from '@lucide/svelte';
+
+	// Lazy load Testimonials
+	let TestimonialsComponent = $state<any>(null);
+	let testimonialsContainer = $state<HTMLElement | null>(null);
 
 	interface Props {
 		data: {
@@ -16,6 +20,29 @@
 	}
 
 	let { data }: Props = $props();
+
+	// Load Testimonials when container is near viewport
+	onMount(() => {
+		if (!testimonialsContainer) return;
+
+		const observer = new IntersectionObserver(
+			async (entries) => {
+				if (entries[0].isIntersecting && !TestimonialsComponent) {
+					// Load component when visible
+					const module = await import('$lib/components/Testimonials.svelte');
+					TestimonialsComponent = module.default;
+					observer.disconnect();
+				}
+			},
+			{
+				rootMargin: '200px' // Start loading 200px before visible
+			}
+		);
+
+		observer.observe(testimonialsContainer);
+
+		return () => observer.disconnect();
+	});
 
 	// Local Business Schema for Google
 	const localBusinessSchema = {
@@ -69,7 +96,28 @@
 <Hero />
 <Services />
 <HowItWorks />
-<Testimonials testimonials={data.testimonials} googleRating={data.googleRating} totalReviews={data.totalReviews} />
+
+<!-- Lazy loaded Testimonials -->
+<div bind:this={testimonialsContainer}>
+	{#if TestimonialsComponent}
+		<TestimonialsComponent
+			testimonials={data.testimonials}
+			googleRating={data.googleRating}
+			totalReviews={data.totalReviews}
+		/>
+	{:else}
+		<!-- Loading placeholder with similar height to prevent layout shift -->
+		<div class="section-padding bg-warm-white" style="min-height: 800px;">
+			<div class="container-custom">
+				<div class="text-center">
+					<div class="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-primary border-r-transparent"></div>
+					<p class="mt-4 text-gray-600">Loading testimonials...</p>
+				</div>
+			</div>
+		</div>
+	{/if}
+</div>
+
 <About />
 <CTA
 	badge="Take the First Step"

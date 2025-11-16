@@ -107,7 +107,7 @@
 							</p>
 <!-- 
 							<p class="text-lg text-gray-600 leading-relaxed">
-								At <strong class="text-charcoal">Vicaria Health</strong>, we bridge the gap between conventional medicine and lifestyle transformation. Whether you're navigating chronic disease, recovering from treatment, or simply want to feel better in your own body — we meet you where you are. Bilingual care (English • Spanish), especially for the Hispanic community in Hamilton and across Ontario.
+								At <strong class="text-charcoal">Vicaria Health</strong>, we bridge the gap between conventional medicine and lifestyle transformation. Whether you're navigating chronic disease, recovering from treatment, or simply want to feel better in your own body we meet you where you are. Bilingual care (English • Spanish), especially for the Hispanic community in Hamilton and across Ontario.
 							</p> -->
 
 						</div>

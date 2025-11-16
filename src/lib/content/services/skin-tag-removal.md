@@ -54,7 +54,7 @@ We see people from all over Hamilton—Westdale, the Mountain, Dundas, Ancaster�
 
 ## How We Remove Skin Tags
 
-We use **electrocautery** — a proven, precise medical technique that removes skin tags cleanly and effectively.
+We use **electrocautery** a proven, precise medical technique that removes skin tags cleanly and effectively.
 
 **Here's how it works:**
 

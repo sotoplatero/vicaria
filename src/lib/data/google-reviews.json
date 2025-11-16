@@ -1,0 +1,67 @@
+{
+  "testimonials": [
+    {
+      "id": "google-0",
+      "name": "Katiuska Rivas",
+      "location": "4 months ago",
+      "condition": "Verified Google Review",
+      "quote": "⭐️⭐️⭐️⭐️⭐️\nI honestly don’t have enough words to thank Vicaria Health. For years, I struggled with symptoms that no one seemed to take seriously—until I found them. They not only listened with compassion, but truly understood what I was going through. Thanks to their care, I finally got answers about my leaky gut and the other health issues that were affecting my life every day.\n\nTheir approach is gentle, human, and empowering. I felt seen, heard, and supported every step of the way. The difference this has made in my daily life is something I’ll always be grateful for. If you’re feeling lost or frustrated with your health, Vicaria Health is a place of hope and healing.",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVSGVRUQazm48THHsZtqz_CG1stl0F4bq1edZndPyfGxOOLTF-C=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1751917272639,
+      "googleUrl": "https://www.google.com/maps/contrib/106096493192713275997/reviews"
+    },
+    {
+      "id": "google-2",
+      "name": "Ana Medina",
+      "location": "5 months ago",
+      "condition": "Verified Google Review",
+      "quote": "I had a wonderful results.\nI had a small spot that kept getting bigger and bigger, resembling a mole. They cauterized it, the scab fell off in 8 days, and my face was back to normal. Thank you so much. I highly recommend Vicaria Health; they're excellent.",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUrzNEfvbpbqNM5HItK9mwDrB18wFQrNVBVc5bIkoEg_jx4WoiXRg=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1749768160545,
+      "googleUrl": "https://www.google.com/maps/contrib/102441723602347512397/reviews"
+    },
+    {
+      "id": "google-4",
+      "name": "nohora rodriguez",
+      "location": "5 months ago",
+      "condition": "Verified Google Review",
+      "quote": "There is not enough space for me to express how grateful I am for having found doctors Yamilet and Maurin from Vicaria Health. Their professionalism, ethics, patience, understanding, kindness, are beyond what I have ever had before.\nBoth,  my son and I want to take advantage of this space to thank you for everything you have helped us in every way.\nI respect and love them with all my heart. You are wonderful women. Thank you very very much.\nNohora and Antonio\n​",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ_sSB-pQJJ7kuB6xtwvOTWrBe27Pl4U0NcPJZglxEIp9JGzQ=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1749641053604,
+      "googleUrl": "https://www.google.com/maps/contrib/115066905859191768967/reviews"
+    },
+    {
+      "id": "google-1",
+      "name": "Irina Perez",
+      "location": "5 months ago",
+      "condition": "Verified Google Review",
+      "quote": "Yamilet and Maurin, both Cubans doctors are super friendly and knowledgeable. They explained me everything so simple and clear. I highly recommend to see them and ask them any medical question. I consulted them for a second opinion on my labs results and ultrasounds. I felt calmed to hear their opinions and recommendations. I also had skin tag removed twice and I had the best experience with this procedure and their professionalism.",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJXq54irWklC61BqmQeiiSYiBIXi9O9Brz4nTj9luoePLEsOg=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1749606916840,
+      "googleUrl": "https://www.google.com/maps/contrib/104677083864797066387/reviews"
+    },
+    {
+      "id": "google-3",
+      "name": "Katuchy Anriyuni",
+      "location": "2 years ago",
+      "condition": "Verified Google Review",
+      "quote": "Amazing place! We were here couple months ago. We were so confortable and so well treated with Yamilet and Maurin.\nWe explained our situation, we could talk freely and they were so helpful and heard us.\nIf you need help with you mental and physical health this is your place.!",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVz66ezFmwEEfv63r0Tp0blLDPAkqj1xmW0cFKnHfx-DccK7Kc=s128-c0x00000000-cc-rp-mo-ba2",
+      "source": "google",
+      "time": 1688741849382,
+      "googleUrl": "https://www.google.com/maps/contrib/118328131206235424992/reviews"
+    }
+  ],
+  "googleRating": 5,
+  "totalReviews": 37,
+  "lastFetched": "2025-11-16T16:06:05.983Z"
+}

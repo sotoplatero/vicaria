@@ -52,12 +52,12 @@ You already know the drill:
 **The problem?** Antibiotics kill the infection, but they don't address why you keep getting them. In fact, repeated antibiotic use can make the problem worse by disrupting your vaginal and gut microbiome—the very defenses that protect you from infections.
 
 Recurrent UTIs can be driven by:
-- **Disrupted vaginal microbiome** — Not enough protective lactobacilli to keep harmful bacteria in check
-- **Gut dysbiosis** — E. coli and other UTI-causing bacteria living in your digestive system
-- **Inadequate hydration** — Concentrated urine allows bacteria to stick to bladder walls
-- **Immune dysfunction** — Your body isn't clearing bacteria effectively
-- **Structural or hormonal factors** — Low estrogen (perimenopause/menopause) or anatomical issues
-- **Biofilm formation** — Bacteria hiding in bladder tissue that antibiotics can't reach
+- **Disrupted vaginal microbiome** Not enough protective lactobacilli to keep harmful bacteria in check
+- **Gut dysbiosis** E. coli and other UTI-causing bacteria living in your digestive system
+- **Inadequate hydration** Concentrated urine allows bacteria to stick to bladder walls
+- **Immune dysfunction** Your body isn't clearing bacteria effectively
+- **Structural or hormonal factors** Low estrogen (perimenopause/menopause) or anatomical issues
+- **Biofilm formation** Bacteria hiding in bladder tissue that antibiotics can't reach
 
 We don't just treat symptoms. We investigate and address the underlying patterns that make you susceptible.
 
@@ -86,13 +86,13 @@ If you're in perimenopause or menopause, low estrogen can thin the vaginal and u
 
 ## What Makes Vicaria Health Different
 
-- **Root-cause focus** — We address why you're getting UTIs, not just treat the infections
-- **Evidence-based protocols** — D-mannose, probiotics, cranberry extract, and dietary strategies backed by research
-- **Personalized plans** — Your triggers and patterns are unique; your prevention strategy should be too
-- **Functional testing when needed** — Microbiome analysis, immune markers, and metabolic testing to remove guesswork
-- **Work alongside your doctor** — We complement medical care and can coordinate with your physician or urologist
-- **Local to Hamilton** — Downtown clinic serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington—plus virtual clients across Ontario
-- **Support for pelvic pain too** — If you're dealing with chronic pelvic discomfort, painful intercourse, or interstitial cystitis symptoms, we address those as well
+- **Root-cause focus** We address why you're getting UTIs, not just treat the infections
+- **Evidence-based protocols** D-mannose, probiotics, cranberry extract, and dietary strategies backed by research
+- **Personalized plans** Your triggers and patterns are unique; your prevention strategy should be too
+- **Functional testing when needed** Microbiome analysis, immune markers, and metabolic testing to remove guesswork
+- **Work alongside your doctor** We complement medical care and can coordinate with your physician or urologist
+- **Local to Hamilton** Downtown clinic serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington—plus virtual clients across Ontario
+- **Support for pelvic pain too** If you're dealing with chronic pelvic discomfort, painful intercourse, or interstitial cystitis symptoms, we address those as well
 
 ---
 
@@ -103,7 +103,7 @@ If you're in perimenopause or menopause, low estrogen can thin the vaginal and u
 - UTIs happen after sex, travel, or stress—and you want to break the pattern
 - You're dealing with chronic pelvic pain, bladder urgency, or discomfort that your doctor can't explain
 - You're in perimenopause or menopause and UTIs have become more frequent
-- You want a **science-based prevention plan** — not just "drink more cranberry juice" advice
+- You want a **science-based prevention plan** not just "drink more cranberry juice" advice
 
 ---
 

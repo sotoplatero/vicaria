@@ -27,11 +27,11 @@ faqs:
 
 You wake up drenched in sweat.
 Your waistline has expanded despite eating the same way. Brain fog hits at the worst moments. Mood swings come out of nowhere.
-Your doctor might have said "it's just menopause" and offered a prescription — or nothing at all. You've tried cutting calories, working out more, maybe every supplement promised to "balance hormones" — and nothing sticks.
+Your doctor might have said "it's just menopause" and offered a prescription or nothing at all. You've tried cutting calories, working out more, maybe every supplement promised to "balance hormones" and nothing sticks.
 
-**Here's what no one tells you:** menopause doesn't have to feel like a slow decline. With the right nutrition, lifestyle strategy, and support, you can thrive through this transition — not just survive it.
+**Here's what no one tells you:** menopause doesn't have to feel like a slow decline. With the right nutrition, lifestyle strategy, and support, you can thrive through this transition not just survive it.
 
-At Vicaria Health, we work with women right here in Hamilton — from Westdale to the Mountain, Dundas to Stoney Creek — who are ready to reclaim their energy, confidence, and comfort in their own body.
+At Vicaria Health, we work with women right here in Hamilton from Westdale to the Mountain, Dundas to Stoney Creek who are ready to reclaim their energy, confidence, and comfort in their own body.
 
 ---
 
@@ -43,7 +43,7 @@ You've probably tried:
 - Random supplements everyone swears by but you see no change.
 - Exercising harder but feeling more exhausted and inflamed.
 
-**The issue isn't lack of effort — it's lack of a personalized, hormone-informed approach.**
+**The issue isn't lack of effort it's lack of a personalized, hormone-informed approach.**
 
 Menopause symptoms can be driven by:
 - Hormonal fluctuations and declining estrogen affecting metabolism and mood
@@ -60,26 +60,26 @@ We don't guess. We assess your unique hormonal picture, test when needed, and cr
 
 We use a root-cause, functional approach built on three pillars:
 
-**Hormone-Supportive Nutrition — That Works With Your Body**
+**Hormone-Supportive Nutrition That Works With Your Body**
 We build an eating pattern that stabilizes blood sugar, supports healthy estrogen metabolism, and prevents the metabolic slowdown that drives weight gain.
 
 **Stress & Sleep Optimization**
 Poor sleep and high cortisol worsen hot flashes and mood swings. We teach nervous system regulation tools so your body can cool down and rest deeply.
 
 **Lifestyle Strategies for Energy & Body Composition**
-Strength training, movement timing, and recovery strategies that protect bone density, preserve muscle, and boost energy — without overtraining.
+Strength training, movement timing, and recovery strategies that protect bone density, preserve muscle, and boost energy without overtraining.
 
 ---
 
 ## What Makes Vicaria Health Different
 
-- **Functional nutrition approach** — Address root causes, not just mask symptoms
-- **Hormone-informed protocols** — Tailored to perimenopause, menopause, and post-menopause stages
-- **Evidence-based testing** — Hormone panels, metabolic markers, nutrient status, and gut health when needed
-- **Weight-neutral care** — Focus on health, strength, and how you feel — not obsessing over the scale
-- **Bone & muscle health** — Prevent osteoporosis and muscle loss with targeted nutrition and movement
-- **Local to Hamilton** — Downtown clinic, serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington, plus virtual clients across Ontario
-- **Work with your doctor** — We complement medical care and can collaborate with your healthcare team
+- **Functional nutrition approach** Address root causes, not just mask symptoms
+- **Hormone-informed protocols** Tailored to perimenopause, menopause, and post-menopause stages
+- **Evidence-based testing** Hormone panels, metabolic markers, nutrient status, and gut health when needed
+- **Weight-neutral care** Focus on health, strength, and how you feel not obsessing over the scale
+- **Bone & muscle health** Prevent osteoporosis and muscle loss with targeted nutrition and movement
+- **Local to Hamilton** Downtown clinic, serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington, plus virtual clients across Ontario
+- **Work with your doctor** We complement medical care and can collaborate with your healthcare team
 
 ---
 
@@ -89,7 +89,7 @@ Strength training, movement timing, and recovery strategies that protect bone de
 - Weight gain around your midsection won't budge no matter what you try
 - Brain fog, memory lapses, and low energy are affecting your work and daily life
 - Mood swings, anxiety, or irritability are straining your relationships
-- You want a **science-based, personalized plan** — not generic "eat less, move more" advice
+- You want a **science-based, personalized plan** not generic "eat less, move more" advice
 
 ---
 
@@ -119,6 +119,6 @@ Not always. We can start without it, but when appropriate, we use targeted hormo
 
 Stop accepting exhaustion, weight gain, and mood swings as "just part of aging."
 
-We'll talk through your symptoms, history, and next steps — so you can finally have a plan to navigate menopause with energy, clarity, and confidence.
+We'll talk through your symptoms, history, and next steps so you can finally have a plan to navigate menopause with energy, clarity, and confidence.
 
 [**Reserve your spot now**](#)

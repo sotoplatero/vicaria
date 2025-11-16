@@ -1,6 +1,9 @@
 import { error } from '@sveltejs/kit';
 import type { PageLoad } from './$types';
 
+// Enable prerendering for all service pages
+export const prerender = true;
+
 export const load: PageLoad = async ({ params }) => {
 	try {
 		// Dynamically import the markdown file
