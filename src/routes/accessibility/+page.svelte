@@ -10,7 +10,7 @@
 <div class="min-h-screen bg-warm-white">
 	<!-- Header -->
 	<div class="bg-secondary text-white pt-24 pb-16">
-		<div class="prose prose-lg prose-inverse mx-auto">
+		<div class="prose prose-lg prose-inverse mx-auto px-4">
 			<a href="/" class="inline-flex items-center gap-2 text-gray-300 hover:text-primary transition-colors mb-6">
 				<ArrowLeft size={20} />
 				Back to Home
@@ -21,7 +21,7 @@
 	</div>
 
 	<!-- Content -->
-	<div class="py-16">
+	<div class="py-16 px-4">
 		<article class="mx-auto prose prose-lg prose-headings:text-charcoal prose-p:text-gray-700 prose-li:text-gray-700 prose-strong:text-gray-800 prose-a:text-primary prose-a:no-underline hover:prose-a:underline">
 
 			<h2>Our Commitment</h2>
