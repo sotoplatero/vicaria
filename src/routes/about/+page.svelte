@@ -122,10 +122,11 @@
 
 			<div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
 				{#each credentials as credential}
+					{@const Icon = credential.icon}
 					<div class="group bg-white rounded-2xl p-8 hover-lift border border-gray-100 shadow-sm">
 						<div class="space-y-4">
 							<div class="w-16 h-16 rounded-2xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-all">
-								<svelte:component this={credential.icon} class="text-primary" size={32} />
+								<Icon class="text-primary" size={32} />
 							</div>
 							<div>
 								<div class="font-bold text-xl text-charcoal mb-1">{credential.title}</div>

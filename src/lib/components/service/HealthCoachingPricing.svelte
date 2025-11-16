@@ -144,9 +144,10 @@
 
 				<div class="grid sm:grid-cols-2 gap-6">
 					{#each addons as addon}
+						{@const Icon = addon.icon}
 						<div class="flex items-start gap-4">
 							<div class="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
-								<svelte:component this={addon.icon} class="text-primary" size={20} />
+								<Icon class="text-primary" size={20} />
 							</div>
 							<div>
 								<div class="font-semibold text-charcoal mb-1">{addon.title}</div>

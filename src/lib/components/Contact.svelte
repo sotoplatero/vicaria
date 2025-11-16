@@ -73,10 +73,11 @@
 					<!-- Contact Cards -->
 					<div class="space-y-4">
 						{#each contactInfo as info, index}
+							{@const Icon = info.icon}
 							<div class="group bg-white rounded-2xl p-6 hover-lift border border-gray-100" style="animation-delay: {index * 100}ms">
 								<div class="flex items-start gap-4">
 									<div class="flex-shrink-0 w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center group-hover:scale-110 group-hover:bg-primary transition-all">
-										<svelte:component this={info.icon} class="text-primary group-hover:text-white transition-colors" size={24} />
+										<Icon class="text-primary group-hover:text-white transition-colors" size={24} />
 									</div>
 									<div class="flex-1 min-w-0">
 										<h3 class="font-bold text-lg text-charcoal mb-1">{info.title}</h3>

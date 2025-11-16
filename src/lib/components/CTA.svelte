@@ -63,7 +63,8 @@
 			{#if badge}
 				<div class="inline-flex items-center gap-2 bg-white/20 backdrop-blur-sm px-5 py-2.5 rounded-full">
 					{#if badgeIcon}
-						<svelte:component this={badgeIcon} class="text-white" size={18} />
+						{@const Icon = badgeIcon}
+						<Icon class="text-white" size={18} />
 					{/if}
 					<span class="text-sm font-medium">{badge}</span>
 				</div>

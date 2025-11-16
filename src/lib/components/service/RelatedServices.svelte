@@ -39,7 +39,7 @@
 					<div class="space-y-4">
 						<!-- Icon -->
 						<div class="w-14 h-14 rounded-xl bg-{service.cardColor}/10 flex items-center justify-center group-hover:scale-110 group-hover:rotate-3 transition-all">
-							<svelte:component this={IconComponent} class="text-{service.cardColor}" size={28} />
+							<IconComponent class="text-{service.cardColor}" size={28} />
 						</div>
 
 						<!-- Title -->

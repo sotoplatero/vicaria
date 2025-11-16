@@ -80,6 +80,7 @@
 					<!-- Social Links -->
 					<div class="flex gap-3">
 						{#each socialLinks as social}
+							{@const Icon = social.icon}
 							<a
 								href={social.href}
 								target="_blank"
@@ -87,7 +88,7 @@
 								class="w-10 h-10 rounded-xl border border-gray-600 hover:border-primary flex items-center justify-center hover:scale-110 hover:bg-primary/20 transition-all group"
 								aria-label={social.label}
 							>
-								<svelte:component this={social.icon} class="text-gray-200 group-hover:text-primary transition-colors" size={18} />
+								<Icon class="text-gray-200 group-hover:text-primary transition-colors" size={18} />
 							</a>
 						{/each}
 					</div>
