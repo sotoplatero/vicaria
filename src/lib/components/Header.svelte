@@ -39,7 +39,7 @@
 		: 'bg-transparent'}"
 >
 	<div class="container-custom">
-		<nav class="flex items-center justify-between py-2">
+		<nav class="flex items-center justify-between py-3">
 			<!-- Logo -->
 			<a href="/" class="flex items-center gap-3 group">
 				<div class="flex items-center gap-3 relative">
@@ -48,7 +48,7 @@
 						alt="Vicaria Health"
 						class="h-12 w-auto transition-transform group-hover:scale-105"
 					/>
-					<span class="text-lg font-bold">Vicaria Health</span>
+					<span class="hidden md:inline text-lg font-bold">Vicaria Health</span>
 					<!-- Subtle glow on hover -->
 					<!-- <div class="absolute inset-0 bg-primary/20 blur-xl opacity-0 group-hover:opacity-100 transition-opacity -z-10"></div> -->
 				</div>

@@ -9,15 +9,15 @@
 
 <div class="min-h-screen bg-warm-white">
 	<!-- Header -->
-	<div class="bg-charcoal text-white mt-20 py-12">
-		<div class="prose-base sm:prose-xl prose prose-invert mx-auto">
+	<div class="bg-secondary text-white pt-24 pb-16">
+		<div class="prose-base sm:prose-lg prose prose-invert mx-auto">
 			<h1 class="">Privacy Policy</h1>
 			<p class="">Last updated: October 8, 2025</p>
 		</div>
 	</div>
 
 	<!-- Content -->
-	<div class="container-custom py-16">
+	<div class=" py-16">
 		<article class="mx-auto prose prose-lg prose-headings:text-charcoal prose-p:text-gray-700 prose-li:text-gray-700 prose-strong:text-gray-800 prose-a:text-primary prose-a:no-underline hover:prose-a:underline">
 
 			<h2>Introduction</h2>

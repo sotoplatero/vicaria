@@ -9,11 +9,16 @@
 
 <div class="min-h-screen ">
 	<!-- Header -->
-
-	<!-- Content -->
-	<div class="container-custom py-16">
-		<article class="max-w-4xl mx-auto prose prose-lg prose-headings:text-charcoal prose-p:text-gray-700 prose-li:text-gray-700 prose-strong:text-gray-800 prose-a:text-primary prose-a:no-underline hover:prose-a:underline">
+	<!-- Header -->
+	<div class="bg-secondary text-white pt-24 pb-16">
+		<div class="prose-base sm:prose-lg prose prose-invert mx-auto">
 			<h1 class="text-4xl md:text-5xl font-bold mb-4">Terms of Service</h1>
+			<p class="">Last updated: October 8, 2025</p>
+		</div>
+	</div>
+	<!-- Content -->
+	<div class="py-16">
+		<article class=" mx-auto prose prose-lg prose-headings:text-charcoal prose-p:text-gray-700 prose-li:text-gray-700 prose-strong:text-gray-800 prose-a:text-primary prose-a:no-underline hover:prose-a:underline">
 			<p class="">Last updated: October 8, 2025</p>
 			
 			<h2>Agreement to Terms</h2>
