@@ -1,8 +1,14 @@
 import { error } from '@sveltejs/kit';
 import type { PageLoad } from './$types';
+import { getAllServices } from '$lib/utils/services';
 
 // Enable prerendering for all service pages
 export const prerender = true;
+
+// Tell SvelteKit which slugs to prerender
+export function entries() {
+	return getAllServices().map(service => ({ slug: service.slug }));
+}
 
 export const load: PageLoad = async ({ params }) => {
 	try {
