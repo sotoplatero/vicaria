@@ -7,7 +7,7 @@
 			number: 1,
 			icon: MessageCircle,
 			title: 'Chat With Us on WhatsApp',
-			description: 'Send us a message directly on WhatsApp to discuss your health goals and current challenges. We respond quickly.',
+			description: 'Send us a message directly on WhatsApp to discuss your health goals and current challenges. ',
 			duration: 'Instant reply',
 			color: 'primary'
 		},
@@ -69,7 +69,7 @@
 							<div class="relative p-8 space-y-6">
 								<!-- Number Badge -->
 								<div class="relative inline-flex">
-									<div class="w-16 h-16 rounded-2xl bg-accent-content text-white font-bold text-2xl flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:rotate-3 transition-all duration-300">
+									<div class="w-16 h-16 rounded-2xl bg-secondary text-white font-bold text-2xl flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:rotate-3 group-hover:bg-primary transition-all duration-300">
 										{step.number}
 									</div>
 									<!-- Glow effect -->
@@ -78,15 +78,15 @@
 
 								<!-- Content -->
 								<div class="space-y-3">
-									<h3 class="text-2xl font-bold text-charcoal group-hover:text-{step.color} transition-colors">
+									<h3 class="text-2xl font-bold text-charcoal group-hover:text-primary transition-colors">
 										{step.title}
 									</h3>
 
-									<div class="inline-flex items-center gap-2 bg-{step.color}/10 px-3 py-1.5 rounded-full">
-										<svg class="w-4 h-4 text-{step.color}" fill="currentColor" viewBox="0 0 20 20">
+									<div class="inline-flex items-center gap-2 bg-secondary/10 px-3 py-1.5 rounded-full">
+										<svg class="w-4 h-4 text-secondary" fill="currentColor" viewBox="0 0 20 20">
 											<path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd" />
 										</svg>
-										<span class="text-sm font-medium text-{step.color}">{step.duration}</span>
+										<span class="text-sm font-medium text-secondary">{step.duration}</span>
 									</div>
 
 									<p class="text-gray-600 leading-relaxed">
