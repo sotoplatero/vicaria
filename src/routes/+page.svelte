@@ -53,7 +53,6 @@
 		'@id': 'https://vicaria.ca',
 		url: 'https://vicaria.ca',
 		telephone: '+1-365-336-9757',
-		email: '[email protected]',
 		address: {
 			'@type': 'PostalAddress',
 			streetAddress: 'Unit 2B 144 James St S',

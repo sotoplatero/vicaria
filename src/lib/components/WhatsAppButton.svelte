@@ -37,7 +37,7 @@
 	);
 </script>
 
-<a href={whatsappUrl} target="_blank" rel="noopener noreferrer" class={buttonClass}>
+<a href={whatsappUrl} target="_blank" rel="noopener noreferrer" class={buttonClass} data-umami-event="chat">
 	{#if showIcon}
 		<!-- WhatsApp Icon SVG -->
 		<svg
