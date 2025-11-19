@@ -1,5 +1,7 @@
 <script lang="ts">
 	import { ArrowRight, Check } from '@lucide/svelte';
+	import WhatsAppButton from '../WhatsAppButton.svelte';
+
 
 	interface Props {
 		service: string;
@@ -63,13 +65,7 @@
 
 			<!-- CTA -->
 			<div class="pt-4">
-				<a
-					href="#contact"
-					class="btn btn-secondary btn-lg text-lg px-10 shadow-xl hover:shadow-2xl hover:-translate-y-1 transition-all group border-0"
-				>
-					Book Your Free Consultation
-					<ArrowRight class="transition-transform group-hover:translate-x-2" size={20} />
-				</a>
+				<WhatsAppButton/>
 			</div>
 
 			<!-- Trust Indicators -->
