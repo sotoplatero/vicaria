@@ -110,8 +110,8 @@ The entire process takes just seconds per ruby point. You might feel a brief war
 Before you commit to treatment, see what's actually possible. These are real results from real patients.
 
 <BeforeAfter
-  beforeImage="/images/services/skin-tags/before-1.jpg"
-  afterImage="/images/services/skin-tags/after-1.jpg"
+  beforeImage="/images/services/skin-tags/before.webp"
+  afterImage="/images/services/skin-tags/after.webp"
   beforeLabel="Before Treatment"
   afterLabel="2 Weeks After"
   alt="Skin tag removal results on neck area"
