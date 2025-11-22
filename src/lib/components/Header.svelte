@@ -28,8 +28,8 @@
 		{ label: 'Services', href: '#services' },
 		{ label: 'How It Works', href: '#how-it-works' },
 		{ label: 'Testimonials', href: '#testimonials' },
-		{ label: 'About', href: '#about' },
-		{ label: 'Contact', href: '#contact' }
+		{ label: 'About', href: '/about' },
+		{ label: 'Contact', href: '/contact' }
 	];
 </script>
 
@@ -54,9 +54,10 @@
 				</div>
 			</a>
 
-			<!-- CTA & Mobile Menu -->
-			<div class="flex items-center gap-3">
-				<WhatsAppButton size="md"/>
+			<!-- Navigation Links & CTA -->
+			<div class="flex items-center gap-6">
+
+				<WhatsAppButton size="md" />
 			</div>
 		</nav>
 	</div>

@@ -15,9 +15,9 @@ export async function GET() {
 			// /src/routes/+page.svelte -> ''
 			// /src/routes/about/+page.svelte -> 'about'
 			let url = path
-				.replace('/src/routes/', '')
-				.replace('/+page.svelte', '')
-				.replace(/^\//, ''); // Remove leading slash
+				.replace('/src/routes', '')
+				.replace("+page.svelte", '')
+				.replace(/\/$/, ''); //	 Remove leading slash
 
 			// Exclude dynamic routes (with brackets) and special routes
 			if (url.includes('[') || url.includes('sitemap') || url.includes('robots')) {
@@ -32,6 +32,10 @@ export async function GET() {
 				// Home page
 				priority = 1.0;
 				changefreq = 'weekly';
+			} else if (url === 'contact' || url === 'about') {
+				// Important pages
+				priority = 0.9;
+				changefreq = 'weekly';
 			}
 
 			return {
@@ -45,7 +49,7 @@ export async function GET() {
 
 	// Dynamic service pages
 	const servicePages = services.map((service) => ({
-		url: `service/${service.slug}`,
+		url: `/service/${service.slug}`,
 		changefreq: 'weekly',
 		priority: 0.9,
 		lastmod: new Date().toISOString()
@@ -61,7 +65,7 @@ ${pages
 	.map(
 		(page) => `
 	<url>
-		<loc>${site}/${page.url}</loc>
+		<loc>${site}${page.url}</loc>
 		<lastmod>${page.lastmod}</lastmod>
 		<changefreq>${page.changefreq}</changefreq>
 		<priority>${page.priority}</priority>
