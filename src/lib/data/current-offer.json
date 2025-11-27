@@ -1,0 +1,52 @@
+{
+  "isActive": true,
+  "month": 11,
+  "year": 2025,
+  "servicePillar": "Menopause Health",
+  "servicePillarId": "menopause-health",
+  "offerFormat": "4-week bundle + 1 week free",
+  "theme": "Healthy Start",
+  "scarcity": "First 15 bookings",
+  "softCTA": "Ask a Question",
+  "title": "Menopause Health offer: 4-week bundle + 1 week free with our Healthy Start theme",
+  "subtitle": "Struggling with hot flashes, sleep issues, or weight changes? Find relief and balance with expert support.",
+  "offerLine": "Menopause Health → get 4-week bundle + 1 week free with our Healthy Start theme. First 15 bookings only. Ask a question to learn more.",
+  "whatYouGet": [
+    "Personalized menopause wellness plan tailored to your symptoms",
+    "Four weekly coaching sessions focused on hot flash and sleep management",
+    "Bonus fifth week for ongoing support and progress review",
+    "Guidance on nutrition and lifestyle adjustments to support healthy weight",
+    "Access to exclusive educational resources on menopause health",
+    "Ongoing email support to answer your questions between sessions"
+  ],
+  "whyItMatters": [
+    "Menopause symptoms like hot flashes and sleep issues can disrupt daily life and well-being.",
+    "Targeted coaching helps you regain control and improve comfort naturally.",
+    "Starting now with the Healthy Start theme ensures you build a strong foundation for lasting health.",
+    "We understand the challenges and provide expert, compassionate guidance tailored to your needs."
+  ],
+  "howToClaim": [
+    "Contact us today to reserve your spot—only 15 places available.",
+    "Schedule your initial consultation at a convenient time.",
+    "Begin your personalized 4-week coaching program plus the free bonus week.",
+    "Enjoy expert support and simple, effective strategies tailored just for you."
+  ],
+  "faqs": [
+    {
+      "question": "Who is this menopause health program best suited for?",
+      "answer": "This program is designed for women experiencing common menopause symptoms like hot flashes, sleep disturbances, or weight changes seeking natural support."
+    },
+    {
+      "question": "What can I expect during the 4-week bundle and bonus week?",
+      "answer": "You’ll receive weekly coaching sessions focused on managing symptoms, personalized guidance on nutrition and lifestyle, plus an extra week to review progress and adjust plans."
+    },
+    {
+      "question": "How much time will I need to commit each week?",
+      "answer": "Each coaching session lasts about 45 minutes, plus a small amount of time for implementing personalized recommendations and communication via email as needed."
+    },
+    {
+      "question": "When will I start noticing results from this program?",
+      "answer": "Many clients begin to feel improvements in symptom relief and energy within the first few weeks, with continued benefits as you apply the healthy habits introduced."
+    }
+  ]
+}
