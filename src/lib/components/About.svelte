@@ -56,7 +56,7 @@
 						<!-- Main Image -->
 						<div class="relative z-10 rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/5]">
 							<img
-								src="/images/yamilet-and-maurin-at-vicaria.jpg"
+								src="/images/yamilet-and-maurin-at-vicaria.webp"
 								alt="Dr. Yamilet Pina and Dr. Maurin Casella at Vicaria Health"
 								class="w-full h-full object-cover"
 							/>

@@ -1,15 +1,11 @@
 <script lang="ts">
-	import { testimonials as fallbackTestimonials } from '$lib/data/testimonials';
 	import { Quote, Star } from '@lucide/svelte';
 	import type { Testimonial } from '$lib/types/testimonial';
+	import reviews from '$lib/data/google-reviews.json';
 
-	interface Props {
-		testimonials?: Testimonial[];
-		googleRating?: number;
-		totalReviews?: number;
-	}
-
-	let { testimonials = fallbackTestimonials, googleRating = 4.9, totalReviews = 150 }: Props = $props();
+	const testimonials = reviews.testimonials as Testimonial[];
+	const googleRating = reviews.googleRating;
+	const totalReviews = reviews.totalReviews;
 </script>
 
 <section id="testimonials" class="section-padding bg-warm-white relative overflow-hidden">

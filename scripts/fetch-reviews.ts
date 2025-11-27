@@ -109,11 +109,11 @@ async function saveReviews() {
 		// Ensure directory exists
 		await fs.mkdir(path.dirname(outputPath), { recursive: true });
 
-		// Save to file
+		// Save to file (will be included in Vercel build)
 		await fs.writeFile(outputPath, JSON.stringify(reviews, null, 2));
 
 		console.log(`\n✓ Reviews saved to ${outputPath}`);
-		console.log('  You can now use them as static data in your app');
+		console.log('  File will be bundled with the build');
 	} catch (error) {
 		console.error('\n✗ Failed to fetch and save reviews');
 		process.exit(1);

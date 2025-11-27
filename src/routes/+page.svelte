@@ -13,7 +13,6 @@
 
 	interface Props {
 		data: {
-			testimonials: Array<any>;
 			googleRating: number;
 			totalReviews: number;
 		};
@@ -100,11 +99,7 @@
 <!-- Lazy loaded Testimonials -->
 <div bind:this={testimonialsContainer}>
 	{#if TestimonialsComponent}
-		<TestimonialsComponent
-			testimonials={data.testimonials}
-			googleRating={data.googleRating}
-			totalReviews={data.totalReviews}
-		/>
+		<TestimonialsComponent />
 	{:else}
 		<!-- Loading placeholder with similar height to prevent layout shift -->
 		<div class="section-padding bg-warm-white" style="min-height: 800px;">

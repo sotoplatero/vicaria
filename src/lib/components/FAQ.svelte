@@ -74,12 +74,6 @@
 			>
 				Call us at +1 (365) 336-9757
 			</a>
-			<a
-				href="mailto:[email protected]"
-				class="inline-flex items-center justify-center gap-2 px-6 py-3 border-2 border-primary text-primary font-semibold rounded-xl hover:bg-primary hover:text-white transition-all"
-			>
-				Email us
-			</a>
 		</div>
 	</div>
 </div>
