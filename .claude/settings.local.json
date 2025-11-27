@@ -27,7 +27,12 @@
       "Bash(if [ -f \"static/images/vicaria-hero.webp\" ])",
       "Bash(then ls -lh static/images/vicaria-hero.webp)",
       "Bash(else echo \"File not found in expected location\")",
-      "WebFetch(domain:animation-svelte.vercel.app)"
+      "WebFetch(domain:animation-svelte.vercel.app)",
+      "Bash(tree:*)",
+      "Bash(dir \"C:\\Users\\soto\\.claude\")",
+      "Bash(pnpm run generate:offer:*)",
+      "Bash(pnpm run check:*)",
+      "Bash(pnpm check:*)"
     ],
     "deny": [],
     "ask": []

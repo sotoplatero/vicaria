@@ -5,6 +5,7 @@
 	import '@fontsource/inter/700.css';
 	import '@fontsource/inter/800.css';
 	import '../app.css';
+	import OfferBanner from '$lib/components/OfferBanner.svelte';
 	import Header from '$lib/components/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 
@@ -18,6 +19,7 @@
 </svelte:head>
 
 <div data-theme="vicaria">
+	<OfferBanner />
 	<Header />
 	<main>
 		{@render children?.()}

@@ -27,3 +27,6 @@ src/lib/paraglide
 
 # Cache
 .cache
+
+# Claude Code
+.claude
