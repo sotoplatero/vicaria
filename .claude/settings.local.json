@@ -32,7 +32,8 @@
       "Bash(dir \"C:\\Users\\soto\\.claude\")",
       "Bash(pnpm run generate:offer:*)",
       "Bash(pnpm run check:*)",
-      "Bash(pnpm check:*)"
+      "Bash(pnpm check:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
