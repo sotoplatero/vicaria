@@ -2,6 +2,18 @@
   "testimonials": [
     {
       "id": "google-0",
+      "name": "Ashley Pablo Mota",
+      "location": "2 weeks ago",
+      "condition": "Verified Google Review",
+      "quote": "They helped give me tools to assist with my son's picky eating! Still a working progress but definitely moving in the right direction and he is at times much more willing to try new foods. I would recommend 💯",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKa4CnNfbRqsVu9cw8OrlcYt_1AiqryCjH89PnRlniWrHRSAw=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1762993333976,
+      "googleUrl": "https://www.google.com/maps/contrib/107573468543990469751/reviews"
+    },
+    {
+      "id": "google-1",
       "name": "Katiuska Rivas",
       "location": "4 months ago",
       "condition": "Verified Google Review",
@@ -13,7 +25,7 @@
       "googleUrl": "https://www.google.com/maps/contrib/106096493192713275997/reviews"
     },
     {
-      "id": "google-2",
+      "id": "google-3",
       "name": "Ana Medina",
       "location": "5 months ago",
       "condition": "Verified Google Review",
@@ -25,19 +37,7 @@
       "googleUrl": "https://www.google.com/maps/contrib/102441723602347512397/reviews"
     },
     {
-      "id": "google-4",
-      "name": "nohora rodriguez",
-      "location": "5 months ago",
-      "condition": "Verified Google Review",
-      "quote": "There is not enough space for me to express how grateful I am for having found doctors Yamilet and Maurin from Vicaria Health. Their professionalism, ethics, patience, understanding, kindness, are beyond what I have ever had before.\nBoth,  my son and I want to take advantage of this space to thank you for everything you have helped us in every way.\nI respect and love them with all my heart. You are wonderful women. Thank you very very much.\nNohora and Antonio\n​",
-      "rating": 5,
-      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ_sSB-pQJJ7kuB6xtwvOTWrBe27Pl4U0NcPJZglxEIp9JGzQ=s128-c0x00000000-cc-rp-mo",
-      "source": "google",
-      "time": 1749641053604,
-      "googleUrl": "https://www.google.com/maps/contrib/115066905859191768967/reviews"
-    },
-    {
-      "id": "google-1",
+      "id": "google-2",
       "name": "Irina Perez",
       "location": "5 months ago",
       "condition": "Verified Google Review",
@@ -49,7 +49,7 @@
       "googleUrl": "https://www.google.com/maps/contrib/104677083864797066387/reviews"
     },
     {
-      "id": "google-3",
+      "id": "google-4",
       "name": "Katuchy Anriyuni",
       "location": "2 years ago",
       "condition": "Verified Google Review",
@@ -63,5 +63,5 @@
   ],
   "googleRating": 5,
   "totalReviews": 37,
-  "lastFetched": "2025-11-16T18:24:09.120Z"
+  "lastFetched": "2025-11-27T14:19:22.949Z"
 }
