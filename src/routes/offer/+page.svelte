@@ -59,7 +59,7 @@
 	<!-- Hero Section - Centered with Background Image -->
 	<section
 		class="relative min-h-[85vh] flex items-center justify-center overflow-hidden bg-cover bg-center"
-		style="background-image: url('/images/vicaria-1.webp'); background-position: top;"
+		style="background-image: url('/images/vicaria-4.webp'); background-position: top;"
 	>
 		<!-- Dark overlay for text readability -->
 		<div class="absolute inset-0 bg-gradient-to-b from-charcoal/70 via-charcoal/50 to-warm-white/95"></div>
