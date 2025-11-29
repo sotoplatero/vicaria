@@ -33,7 +33,9 @@
       "Bash(pnpm run generate:offer:*)",
       "Bash(pnpm run check:*)",
       "Bash(pnpm check:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "mcp__github__get_me",
+      "Bash(git remote:*)"
     ],
     "deny": [],
     "ask": []

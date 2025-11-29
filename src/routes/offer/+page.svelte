@@ -42,6 +42,11 @@
 		? categoryMap[offer.servicePillarId] || "health-coaching"
 		: "health-coaching";
 	const colorClass = category === "health-coaching" ? "primary" : "secondary";
+
+	// WhatsApp CTA URL with personalized message
+	const whatsappUrl = offer
+		? `https://wa.me/13653369757?text=${encodeURIComponent(`Hi! I'm interested in the ${offer.servicePillar} offer (${offer.offerFormat}). Can you help me get started?`)}`
+		: "https://wa.me/13653369757?text=Hi!%20Can%20you%20help%20me%20get%20started%3F";
 </script>
 
 <svelte:head>
@@ -99,7 +104,7 @@
 			<div>
 				<!-- Primary CTA -->
 				<a
-					href="#contact"
+					href={whatsappUrl}
 					class="btn btn-{colorClass} btn-lg text-xl px-12 py-4 shadow-2xl hover:shadow-3xl hover:scale-105 transition-all border-0 inline-flex items-center gap-3 rounded-full font-bold"
 				>
 					{offer.softCTA}
@@ -338,7 +343,7 @@
 						</p>
 
 						<a
-							href="#contact"
+							href={whatsappUrl}
 							class="btn btn-white hover:bg-gray-50 btn-lg text-xl px-12 py-4 shadow-2xl hover:shadow-3xl hover:scale-105 transition-all inline-flex items-center gap-3 rounded-full font-bold text-{colorClass}"
 						>
 							{offer.softCTA}
