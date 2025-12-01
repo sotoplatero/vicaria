@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Expert IBS and digestive health coaching in downtown Hamilton. Vicaria Health offers functional nutrition for bloating, SIBO, GERD, and chronic gut issues. Monash FODMAP trained. Book free consultation."
 category: "health-coaching"
 order: 2
-image: "/images/vicaria.webp"
+image: "/images/vicaria-2.webp"
 faqs:
   - question: "Can you diagnose digestive conditions like IBS or SIBO?"
     answer: "No. Diagnosis requires medical evaluation. We work with clients who have existing diagnoses or ongoing digestive symptoms to identify triggers and create personalized nutrition strategies."

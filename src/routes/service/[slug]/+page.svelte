@@ -76,8 +76,6 @@
 	{/if}
 </svelte:head>
 
-<Header />
-
 <main class="pt-16">
 	<!-- Hero Section with Image -->
 	{#if metadata.service}

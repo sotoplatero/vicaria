@@ -1,5 +1,5 @@
 import reviews from '$lib/data/google-reviews.json';
-
+export const prerender = true;
 export async function load({ setHeaders }) {
 	// Set cache headers for the homepage
 	setHeaders({

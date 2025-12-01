@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Professional UTI prevention and pelvic health coaching in Hamilton. Natural strategies to stop recurrent infections and reduce pelvic discomfort. Get personalized support today."
 category: "health-coaching"
 order: 6
-image: "/images/vicaria.webp"
+image: "/images/vicaria-4.webp"
 faqs:
   - question: "Can you treat active UTIs?"
     answer: "No. We cannot diagnose or treat active infections—that requires medical care and antibiotics. We focus on prevention strategies and addressing the underlying factors that make you susceptible to recurrent UTIs."

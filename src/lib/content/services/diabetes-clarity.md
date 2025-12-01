@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Trusted diabetes coaching in Hamilton. Lower your A1C and stabilize energy with personalized meal plans. Get clarity and confidence managing blood sugar naturally."
 category: "health-coaching"
 order: 3
-image: "/images/vicaria.webp"
+image: "/images/vicaria-3.webp"
 faqs:
   - question: "Will this replace my diabetes medication?"
     answer: "No. We work alongside your medical team to optimize nutrition and lifestyle. Any medication changes should be discussed with your doctor. Our goal is to help you achieve better blood sugar control through sustainable lifestyle changes."

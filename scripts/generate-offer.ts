@@ -32,7 +32,6 @@ const SERVICE_PILLARS = [
 	{ id: 'menopause-health', name: 'Menopause Health', description: 'Hot flashes, sleep issues, weight changes' },
 	{ id: 'uti-pelvic-health', name: 'Recurrent UTI / Pelvic Health', description: 'Recurring UTIs, pelvic discomfort' },
 	{ id: 'cancer-recovery', name: 'Cancer Recovery Support', description: 'Nutrition and strength recovery post-cancer' },
-	{ id: 'skin-services', name: 'Skin Services', description: 'Skin Tag Removal, Seborrheic Keratosis, Ruby Points, Milia Removal' },
 	{ id: 'general-wellness', name: 'General Wellness & Energy', description: 'Fatigue, immunity, healthy weight, overall health' }
 ];
 

@@ -15,9 +15,9 @@ const handleParaglide: Handle = ({ event, resolve }) => paraglideMiddleware(even
 const handle404Redirect: Handle = async ({ event, resolve }) => {
 	const response = await resolve(event);
 
-	// If page not found, redirect to home with 301 (permanent redirect for SEO)
+	// If page not found, redirect to home with 302 (temporary redirect to avoid caching issues)
 	if (response.status === 404) {
-		throw redirect(301, '/');
+		throw redirect(302, '/');
 	}
 
 	return response;

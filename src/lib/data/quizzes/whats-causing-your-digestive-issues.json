@@ -1,0 +1,203 @@
+{
+  "id": "quiz_gut_health_bloating_ibs",
+  "meta": {
+    "title": "Gut Health Assessment for Bloating, IBS & Constipation",
+    "slug": "whats-causing-your-digestive-issues",
+    "description": "Quick 2-minute quiz to uncover the root causes behind your bloating, gas, IBS, and constipation symptoms for personalized gut health insights.",
+    "estimated_time": "2 minutes"
+  },
+  "landing_page": {
+    "hero": {
+      "headline": "Tired of constant bloating, gas, and digestive discomfort? We get it — your gut is screaming for help.",
+      "subheadline": "Discover what’s actually behind your symptoms and how to start feeling better… in under 2 minutes.",
+      "cta_button": "Start My Assessment"
+    },
+    "agitation_section": {
+      "title": "Do any of these sound familiar?",
+      "bullets": [
+        "You wake up with painful bloating and trapped gas that ruins your day before it even starts.",
+        "The frustration of unpredictable IBS symptoms makes social plans and meals anxiety-inducing.",
+        "Your digestion issues drain your energy, affecting work, sleep, and relationships.",
+        "You’ve tried diets and over-the-counter fixes, but nothing truly addresses your gut inflammation and microbiome imbalance."
+      ]
+    },
+    "solution_section": {
+      "title": "Why most advice on gut health fails — and how this quiz changes that",
+      "description": "It’s not about just avoiding foods or blaming stress. Your gut symptoms stem from complex interactions in your microbiome and inflammation pathways. Generic tips don’t address your unique root causes. This assessment zeroes in on your body’s story, giving tailored clarity and actionable next steps.",
+      "value_proposition": [
+        "Learn the specific gut health imbalances driving your symptoms.",
+        "Get a personalized approach based on functional medicine principles, not one-size-fits-all advice.",
+        "Receive immediate insights and clear recommendations tailored to your gut health profile."
+      ]
+    },
+    "trust_elements": [
+      "Based on proven functional medicine methodologies",
+      "Over 25,000 assessments completed with real results",
+      "Personalized symptom-based approach for accurate insights",
+      "Built on evidence-based gut health and microbiome science"
+    ]
+  },
+  "quiz_questions": [
+    {
+      "step": 1,
+      "field_id": "primary_symptom",
+      "intro_text": "Your answers help us pinpoint what's driving your symptoms.",
+      "question": "Which symptom bothers you the most right now?",
+      "type": "single_choice",
+      "options": [
+        {
+          "label": "Bloating and gas",
+          "value": "bloating_gas"
+        },
+        {
+          "label": "Irritable Bowel Syndrome (IBS) symptoms",
+          "value": "ibs"
+        },
+        {
+          "label": "Constipation or infrequent bowel movements",
+          "value": "constipation"
+        },
+        {
+          "label": "Frequent abdominal pain or cramping",
+          "value": "abdominal_pain"
+        },
+        {
+          "label": "Diarrhea or loose stools",
+          "value": "diarrhea"
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "field_id": "frequency",
+      "question": "How often do your gut symptoms occur?",
+      "type": "single_choice",
+      "options": [
+        {
+          "label": "Daily",
+          "value": "daily"
+        },
+        {
+          "label": "Several times a week",
+          "value": "several_times_week"
+        },
+        {
+          "label": "Once a week or less",
+          "value": "weekly_or_less"
+        },
+        {
+          "label": "Occasionally, less than once a week",
+          "value": "occasionally"
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "field_id": "triggers",
+      "question": "Which of the following usually trigger or worsen your symptoms? (Select up to 3)",
+      "type": "multiple_choice",
+      "max_selections": 3,
+      "options": [
+        {
+          "label": "Certain foods (e.g., dairy, gluten, high FODMAPs)",
+          "value": "food_triggers"
+        },
+        {
+          "label": "Stress or anxiety",
+          "value": "stress"
+        },
+        {
+          "label": "Lack of sleep or poor sleep quality",
+          "value": "poor_sleep"
+        },
+        {
+          "label": "Antibiotics or medications",
+          "value": "medications"
+        },
+        {
+          "label": "Hormonal changes or menstrual cycle",
+          "value": "hormones"
+        },
+        {
+          "label": "Alcohol or caffeine",
+          "value": "alcohol_caffeine"
+        },
+        {
+          "label": "Lack of physical activity",
+          "value": "sedentary_lifestyle"
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "field_id": "impact_score",
+      "question": "On a scale of 1-10, how much does this affect your daily life?",
+      "type": "scale",
+      "min": 1,
+      "max": 10,
+      "labels": {
+        "min": "Barely noticeable",
+        "max": "Severely impacts my life"
+      }
+    },
+    {
+      "step": 5,
+      "field_id": "age_range",
+      "question": "What's your age range?",
+      "type": "single_choice",
+      "options": [
+        {
+          "label": "Under 35",
+          "value": "under_35"
+        },
+        {
+          "label": "35-44",
+          "value": "35_44"
+        },
+        {
+          "label": "45-54",
+          "value": "45_54"
+        },
+        {
+          "label": "55+",
+          "value": "55_plus"
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "field_id": "user_context",
+      "question": "Is there anything else you'd like us to know about your situation?",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "Optional: Share any details that might help us understand your situation better...",
+      "max_length": 500
+    }
+  ],
+  "lead_capture": {
+    "headline": "Where should we send your personalized insights?",
+    "subheadline": "Get your clarity summary and next-step recommendations delivered straight to your inbox.",
+    "fields": [
+      {
+        "name": "name",
+        "type": "text",
+        "required": true,
+        "placeholder": "Enter your full name"
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "required": true,
+        "placeholder": "Enter your email address"
+      },
+      {
+        "name": "phone",
+        "type": "tel",
+        "required": false,
+        "placeholder": "Optional: Enter your phone number"
+      }
+    ],
+    "consent_text": "Your information is confidential and never shared.",
+    "submit_button": "Show My Results"
+  }
+}
