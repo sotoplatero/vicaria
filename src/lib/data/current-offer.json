@@ -1,52 +1,52 @@
 {
   "isActive": true,
-  "month": 11,
+  "month": 12,
   "year": 2025,
-  "servicePillar": "Menopause Health",
-  "servicePillarId": "menopause-health",
-  "offerFormat": "4-week bundle + 1 week free",
-  "theme": "Healthy Start",
-  "scarcity": "First 15 bookings",
-  "softCTA": "Ask a Question",
-  "title": "Menopause Health offer: 4-week bundle + 1 week free with our Healthy Start theme",
-  "subtitle": "Struggling with hot flashes, sleep issues, or weight changes? Find relief and balance with expert support.",
-  "offerLine": "Menopause Health → get 4-week bundle + 1 week free with our Healthy Start theme. First 15 bookings only. Ask a question to learn more.",
+  "servicePillar": "Skin Services",
+  "servicePillarId": "skin-services",
+  "offerFormat": "Free personalized plan",
+  "theme": "Energy Reset",
+  "scarcity": "Valid until the end of this month",
+  "softCTA": "See Offer Details",
+  "title": "Skin Services offer: Free personalized plan with our Energy Reset theme",
+  "subtitle": "Struggling with skin tags or blemishes? Get a tailored plan to refresh your skin and boost your confidence.",
+  "offerLine": "Skin Services → get a free personalized plan with our Energy Reset theme. Valid until the end of this month. See Offer Details.",
   "whatYouGet": [
-    "Personalized menopause wellness plan tailored to your symptoms",
-    "Four weekly coaching sessions focused on hot flash and sleep management",
-    "Bonus fifth week for ongoing support and progress review",
-    "Guidance on nutrition and lifestyle adjustments to support healthy weight",
-    "Access to exclusive educational resources on menopause health",
-    "Ongoing email support to answer your questions between sessions"
+    "Comprehensive skin assessment targeting tags, keratosis, ruby points, and milia",
+    "Customized removal plan designed to fit your unique skin needs and lifestyle",
+    "Expert guidance on aftercare to promote quick healing and long-lasting results",
+    "Energy Reset tips to support your skin’s natural renewal process",
+    "Follow-up support to track progress and adjust your plan as needed",
+    "Access to our wellness coaching team for holistic skin health advice"
   ],
   "whyItMatters": [
-    "Menopause symptoms like hot flashes and sleep issues can disrupt daily life and well-being.",
-    "Targeted coaching helps you regain control and improve comfort naturally.",
-    "Starting now with the Healthy Start theme ensures you build a strong foundation for lasting health.",
-    "We understand the challenges and provide expert, compassionate guidance tailored to your needs."
+    "Removing skin imperfections can enhance your comfort and self-esteem, improving overall well-being.",
+    "Personalized care ensures treatments are safe, effective, and suited to your skin type and concerns.",
+    "Combining skin care with an Energy Reset theme supports natural healing and revitalizes your skin’s appearance.",
+    "This limited-time offer helps you take a proactive step towards healthier skin before the month ends."
   ],
   "howToClaim": [
-    "Contact us today to reserve your spot—only 15 places available.",
-    "Schedule your initial consultation at a convenient time.",
-    "Begin your personalized 4-week coaching program plus the free bonus week.",
-    "Enjoy expert support and simple, effective strategies tailored just for you."
+    "Contact Vicaria Health before the end of the month to express your interest.",
+    "Schedule your initial skin assessment at a convenient time for you.",
+    "Receive your free personalized plan and start your Energy Reset journey.",
+    "Enjoy ongoing support and guidance with no obligation or pressure."
   ],
   "faqs": [
     {
-      "question": "Who is this menopause health program best suited for?",
-      "answer": "This program is designed for women experiencing common menopause symptoms like hot flashes, sleep disturbances, or weight changes seeking natural support."
+      "question": "Who is eligible for this free personalized skin plan?",
+      "answer": "Anyone experiencing skin tags, seborrheic keratosis, ruby points, or milia can benefit. We tailor the plan to your individual needs."
     },
     {
-      "question": "What can I expect during the 4-week bundle and bonus week?",
-      "answer": "You’ll receive weekly coaching sessions focused on managing symptoms, personalized guidance on nutrition and lifestyle, plus an extra week to review progress and adjust plans."
+      "question": "What can I expect during the skin assessment?",
+      "answer": "Our expert will evaluate your skin concerns gently and thoroughly, discuss your goals, and create a customized removal plan."
     },
     {
-      "question": "How much time will I need to commit each week?",
-      "answer": "Each coaching session lasts about 45 minutes, plus a small amount of time for implementing personalized recommendations and communication via email as needed."
+      "question": "How long does the removal process usually take?",
+      "answer": "Removal times vary by treatment type and skin condition, but most procedures are quick with minimal downtime."
     },
     {
-      "question": "When will I start noticing results from this program?",
-      "answer": "Many clients begin to feel improvements in symptom relief and energy within the first few weeks, with continued benefits as you apply the healthy habits introduced."
+      "question": "When will I see results after following the plan?",
+      "answer": "Many clients notice improvements within a few days to weeks, with ongoing benefits as your skin heals and regenerates."
     }
   ]
 }
