@@ -2,51 +2,51 @@
   "isActive": true,
   "month": 12,
   "year": 2025,
-  "servicePillar": "Skin Services",
-  "servicePillarId": "skin-services",
+  "servicePillar": "Cancer Recovery Support",
+  "servicePillarId": "cancer-recovery",
   "offerFormat": "Free personalized plan",
   "theme": "Energy Reset",
   "scarcity": "Valid until the end of this month",
   "softCTA": "See Offer Details",
-  "title": "Skin Services offer: Free personalized plan with our Energy Reset theme",
-  "subtitle": "Struggling with skin tags or blemishes? Get a tailored plan to refresh your skin and boost your confidence.",
-  "offerLine": "Skin Services → get a free personalized plan with our Energy Reset theme. Valid until the end of this month. See Offer Details.",
+  "title": "Cancer Recovery Support offer: Free personalized plan with our Energy Reset theme",
+  "subtitle": "Regain your strength and vitality after cancer with nutrition and support tailored just for you.",
+  "offerLine": "Cancer Recovery Support → get a free personalized plan with our Energy Reset theme. Valid until the end of this month. See Offer Details.",
   "whatYouGet": [
-    "Comprehensive skin assessment targeting tags, keratosis, ruby points, and milia",
-    "Customized removal plan designed to fit your unique skin needs and lifestyle",
-    "Expert guidance on aftercare to promote quick healing and long-lasting results",
-    "Energy Reset tips to support your skin’s natural renewal process",
-    "Follow-up support to track progress and adjust your plan as needed",
-    "Access to our wellness coaching team for holistic skin health advice"
+    "Customized nutrition guidance to rebuild energy and support healing",
+    "Personalized strength recovery exercises tailored to your pace",
+    "Step-by-step weekly action plan to boost your daily vitality",
+    "Expert tips to manage fatigue and improve overall wellness",
+    "Email support for questions throughout your recovery journey",
+    "A clear roadmap designed specifically for post-cancer recovery"
   ],
   "whyItMatters": [
-    "Removing skin imperfections can enhance your comfort and self-esteem, improving overall well-being.",
-    "Personalized care ensures treatments are safe, effective, and suited to your skin type and concerns.",
-    "Combining skin care with an Energy Reset theme supports natural healing and revitalizes your skin’s appearance.",
-    "This limited-time offer helps you take a proactive step towards healthier skin before the month ends."
+    "Proper nutrition and strength rebuilding are vital for restoring your health after cancer treatment.",
+    "Our Energy Reset theme focuses on replenishing your body’s energy reserves safely and effectively.",
+    "Early support can reduce fatigue and improve quality of life during recovery.",
+    "We understand the unique challenges you face and provide compassionate, expert guidance."
   ],
   "howToClaim": [
-    "Contact Vicaria Health before the end of the month to express your interest.",
-    "Schedule your initial skin assessment at a convenient time for you.",
-    "Receive your free personalized plan and start your Energy Reset journey.",
-    "Enjoy ongoing support and guidance with no obligation or pressure."
+    "Visit our website and click on the Energy Reset offer before this month ends.",
+    "Fill out a brief health questionnaire to help us personalize your plan.",
+    "Schedule your free consultation at a time that works for you.",
+    "Receive your tailored nutrition and strength recovery plan with ongoing support—no obligation."
   ],
   "faqs": [
     {
-      "question": "Who is eligible for this free personalized skin plan?",
-      "answer": "Anyone experiencing skin tags, seborrheic keratosis, ruby points, or milia can benefit. We tailor the plan to your individual needs."
+      "question": "Who is eligible for this free personalized plan?",
+      "answer": "Anyone currently recovering from cancer who wants tailored nutrition and strength support can claim this offer."
     },
     {
-      "question": "What can I expect during the skin assessment?",
-      "answer": "Our expert will evaluate your skin concerns gently and thoroughly, discuss your goals, and create a customized removal plan."
+      "question": "What can I expect from the personalized plan?",
+      "answer": "You’ll receive a clear, step-by-step guide customized to your energy levels and recovery goals, including nutrition and gentle strength exercises."
     },
     {
-      "question": "How long does the removal process usually take?",
-      "answer": "Removal times vary by treatment type and skin condition, but most procedures are quick with minimal downtime."
+      "question": "How much time will I need to commit to this plan?",
+      "answer": "The plan is designed to fit your pace, with manageable weekly steps typically requiring 30 minutes to an hour daily."
     },
     {
-      "question": "When will I see results after following the plan?",
-      "answer": "Many clients notice improvements within a few days to weeks, with ongoing benefits as your skin heals and regenerates."
+      "question": "When will I start noticing improvements in my energy and strength?",
+      "answer": "Many clients begin to feel more energized within 2-4 weeks by following the plan consistently, though results vary individually."
     }
   ]
 }
