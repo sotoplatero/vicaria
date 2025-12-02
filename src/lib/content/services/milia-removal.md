@@ -200,4 +200,4 @@ We'll examine your skin, confirm what those white bumps are, and remove them saf
 
 Stop hiding those white bumps under makeup.
 
-[**Book Your Appointment**](#)
+[**Chat with us a Free Consultation**](https://wa.me/13653369757)

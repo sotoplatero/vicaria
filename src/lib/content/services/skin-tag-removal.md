@@ -137,4 +137,4 @@ We'll take a look, answer your questions, and get those skin tags removed so you
 
 Stop letting skin tags bother you.
 
-[**Book Your Appointment**](#)
+[**Chat with us a Free Consultation**](https://wa.me/13653369757)

@@ -180,5 +180,5 @@ We'll examine your skin growths, confirm what they are, answer your questions, a
 
 Stop letting stubborn brown spots bother you.
 
-[**Book Your Appointment**](#)
+[**Chat with us a Free Consultation**](https://wa.me/13653369757)
 

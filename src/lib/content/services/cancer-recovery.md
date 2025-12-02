@@ -101,5 +101,5 @@ Not always. We can start with a thorough intake and adapt if lab insights could 
 
 You’ve done the hard part now let’s rebuild your strength and energy safely.
 
-Chat with us for **free 15-minute consultation** today.  
+Chat with us for [**free 15-minute consultation**](https://wa.me/13653369757) today.  
 No pressure. Just an honest conversation about how nutrition can support your healing journey.

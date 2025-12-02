@@ -133,12 +133,9 @@ We provide supportive nutrition and lifestyle strategies for IC symptoms, but di
 
 Recurrent UTIs shouldn't control your life.
 
-Book a **free 15-minute consultation** today.
+Chat with us a [**free 15-minute consultation**](https://wa.me/13653369757) today.
 
 We'll talk through your history, what you've tried, and whether a root-cause approach makes sense for your situation—so you can finally break the cycle and restore confidence in your body.
 
-[**Get Started Now**](#)
 
----
 
-*Vicaria Health is located in downtown Hamilton and serves clients throughout the city including Westdale, Dundas, Ancaster, Waterdown, Stoney Creek, Binbrook, and Burlington. We offer both in-person sessions at our downtown location and virtual coaching for your convenience.*

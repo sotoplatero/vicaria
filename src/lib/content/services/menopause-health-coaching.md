@@ -121,4 +121,4 @@ Stop accepting exhaustion, weight gain, and mood swings as "just part of aging."
 
 We'll talk through your symptoms, history, and next steps so you can finally have a plan to navigate menopause with energy, clarity, and confidence.
 
-[**Reserve your spot now**](#)
+[**Chat with us a Free Consultation**](https://wa.me/13653369757)

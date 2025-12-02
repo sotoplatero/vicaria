@@ -129,4 +129,4 @@ No pressure. No sales pitch. Just an honest conversation about what it takes to 
 
 Ready to stop planning your life around your gut?
 
-[**Book Your Free Consultation**](#)
+[**Chat with us a Free Consultation**](https://wa.me/13653369757)

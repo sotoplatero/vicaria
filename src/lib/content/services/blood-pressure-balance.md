@@ -117,10 +117,9 @@ We'll talk about where you're at, what you're hoping for, and whether this appro
 
 No pressure. No sales pitch. Just a real conversation about what's possible.
 
-
 *Vicaria Health is located in downtown Hamilton and serves clients throughout the city including Westdale, Dundas, Ancaster, Waterdown, Stoney Creek, Binbrook, and Burlington. We offer both in-person sessions at our downtown location and virtual coaching for your convenience.*
 
 Ready to stop worrying about your numbers and start controlling them?
 
-[**Book Your Free Consultation**](#)
+[**Free Consultation with us**](https://wa.me/13653369757)
 

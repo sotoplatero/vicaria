@@ -203,4 +203,4 @@ We'll examine your ruby points, answer your questions, and remove them safely so
 
 Stop feeling self-conscious about red spots.
 
-[**Book Your Appointment**](#)
+[**Chat with us a Free Consultation**](https://wa.me/13653369757)
