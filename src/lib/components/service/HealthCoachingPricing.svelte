@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { Check, Users, Star } from '@lucide/svelte';
+	import WhatsappButton from '$lib/components/WhatsAppButton.svelte'	
 
 	interface PricingPlan {
 		name: string;
@@ -167,15 +168,7 @@
 			<p class="text-xl text-gray-700 mb-6">
 				Ready to take the next step?
 			</p>
-			<a
-				href="#contact"
-				class="btn btn-secondary btn-lg text-lg px-10 shadow-xl hover:shadow-2xl hover:scale-105 transition-all border-0 inline-flex items-center gap-2"
-			>
-				Book Your Free Discovery Call
-				<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-				</svg>
-			</a>
+			<WhatsappButton message="Hi! I’d like details about your Health Service, please." variant="secondary"/>
 			<p class=" text-gray-600 mt-4">
 				No pressure. Just an honest conversation about your health goals.
 			</p>
