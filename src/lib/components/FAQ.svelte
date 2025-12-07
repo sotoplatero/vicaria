@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { ChevronDown } from '@lucide/svelte';
+	import WhatsAppButton from './WhatsAppButton.svelte';
 	import type { FAQ } from '$lib/types/faq';
 
 	interface Props {
@@ -33,7 +34,7 @@
 	{@html `<script type="application/ld+json">${JSON.stringify(faqSchema)}<\/script>`}
 </svelte:head>
 
-<div class="max-w-4xl mx-auto">
+<div class="max-w-4xl mx-auto py-24">
 	<div class="text-center mb-12">
 		<h3 class="text-3xl font-bold text-charcoal mb-4">Frequently Asked Questions</h3>
 		<p class="text-lg text-gray-600">Find answers to common questions about our services</p>
@@ -67,14 +68,7 @@
 
 	<div class="text-center mt-12">
 		<p class="text-gray-600 mb-4">Still have questions?</p>
-		<div class="flex flex-col sm:flex-row gap-4 justify-center">
-			<a
-				href="tel:+13653369757"
-				class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-primary text-white font-semibold rounded-xl hover:bg-primary/90 transition-all hover:scale-105 shadow-lg"
-			>
-				Call us at +1 (365) 336-9757
-			</a>
-		</div>
+		<WhatsAppButton variant="primary" message="Hi! I still have a question..." text="Chat on WhatsApp"/>
 	</div>
 </div>
 

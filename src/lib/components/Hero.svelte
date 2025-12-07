@@ -15,7 +15,7 @@
 		<div class="absolute inset-0 opacity-[0.03]" style="background-image: radial-gradient(circle, #2c2c2c 1px, transparent 1px); background-size: 50px 50px;"></div>
 	</div>
 
-	<div class="container-custom relative z-10 lg:pt-32">
+	<div class="container-custom relative z-10 lg:pt-24">
 		<div class="grid lg:grid-cols-2 gap-16 items-center">
 			<!-- Content Column -->
 			<div class="space-y-8 animate-fade-up">

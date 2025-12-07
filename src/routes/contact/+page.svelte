@@ -41,8 +41,6 @@
 	/>
 </svelte:head>
 
-<Header />
-
 <!-- Hero Section -->
 <section
 	class="pt-32 pb-20 bg-gradient-to-br from-warm-white via-blush/10 to-sage-light/10 relative overflow-hidden"
@@ -91,7 +89,7 @@
 				<div class="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full blur-3xl"></div>
 				<div class="absolute bottom-0 left-0 w-64 h-64 bg-white/10 rounded-full blur-3xl"></div>
 
-				<div class="relative z-10 p-12 md:p-16 text-center space-y-6">
+				<div class="relative z-10 p-12 md:p-16 text-center">
 					<div
 						class="inline-flex items-center gap-2 bg-white/20 backdrop-blur-sm px-5 py-2.5 rounded-full"
 					>
@@ -99,7 +97,7 @@
 						<span class="text-sm font-medium text-white">Quick Response</span>
 					</div>
 
-					<h2 class="text-3xl md:text-4xl font-bold text-white leading-tight">
+					<h2 class="text-3xl md:text-4xl font-bold text-white leading-tight pt-8">
 						{m.contact_alternative_title()}
 					</h2>
 
@@ -107,7 +105,7 @@
 						{m.contact_alternative_description()}
 					</p>
 
-					<div class="pt-4">
+					<div class="pt-8">
 						<WhatsAppButton
 							text="Chat on WhatsApp"
 							message="Hi! I'd like to learn more about your health coaching services."

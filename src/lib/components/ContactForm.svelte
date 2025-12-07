@@ -157,7 +157,10 @@
 			class="bg-white rounded-2xl shadow-xl p-8 md:p-10 border border-gray-100"
 		>
 			<h2 class="text-3xl font-bold text-charcoal mb-6">{m.contact_form_title()}</h2>
+			
+			<input type="hidden" name="access_key" value="8c4dc42f-f5fa-484f-9131-3ec7052487ca">
 			<input type="hidden" name="replyto" value="maurin.casella@gmail.com" />
+			<input type="hidden" name="subject" value="Contact from Vicaria Web Site">
 			<!-- Name Field -->
 			<div class="mb-6">
 				<label for="name" class="block text-sm font-semibold text-charcoal mb-2">
@@ -211,26 +214,6 @@
 					class="input input-bordered w-full bg-warm-white border-gray-200 focus:border-primary focus:ring-2 focus:ring-primary/20 transition-all"
 					disabled={isSubmitting}
 				/>
-			</div>
-
-			<!-- Subject Field -->
-			<div class="mb-6">
-				<label for="subject" class="block text-sm font-semibold text-charcoal mb-2">
-					{m.contact_form_subject_label()}
-					<span class="text-red-500">*</span>
-				</label>
-				<input
-					type="text"
-					id="subject"
-					bind:value={formData.subject}
-					placeholder={m.contact_form_subject_placeholder()}
-					class="input input-bordered w-full bg-warm-white border-gray-200 focus:border-primary focus:ring-2 focus:ring-primary/20 transition-all"
-					class:border-red-500={errors.subject}
-					disabled={isSubmitting}
-				/>
-				{#if errors.subject}
-					<p class="text-red-500 text-sm mt-1">{errors.subject}</p>
-				{/if}
 			</div>
 
 			<!-- Message Field -->

@@ -119,9 +119,9 @@
 	</section>
 
 	<!-- Main Content -->
-	<article class="section-padding bg-white">
+	<article class="bg-white">
 		<div class="container-custom">
-			<div class="max-w-4xl mx-auto prose prose-lg prose-headings:font-bold prose-headings:text-charcoal prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-strong:text-primary prose-ul:text-gray-700 prose-ol:text-gray-700 prose-img:rounded-lg prose-img:shadow-lg">
+			<div class="mx-auto prose prose-lg prose-a:no-underline hover:prose-a:underline prose-strong:text-primary prose-img:rounded-lg prose-img:shadow-lg prose-img:aspect-video prose-img:object-cover">
 				<data.content />
 			</div>
 		</div>

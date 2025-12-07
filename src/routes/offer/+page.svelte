@@ -251,11 +251,7 @@
 	<Testimonials />
 
 	<!-- FAQ Section -->
-	<section class="py-24 bg-white">
-		<div class="container-custom">
-			<FAQ {faqs} />
-		</div>
-	</section>
+	<FAQ {faqs} />
 
 	<!-- How to Claim - Simple Steps -->
 	<section class="py-24 bg-gradient-to-b from-warm-white to-white">
@@ -291,16 +287,6 @@
 								>
 									{index + 1}
 								</div>
-								{#if index < 2}
-									<div
-										class="hidden md:block absolute top-10 left-full w-full h-0.5 bg-{colorClass}/20"
-									>
-										<ArrowRight
-											class="absolute right-0 top-1/2 -translate-y-1/2 text-{colorClass}/40"
-											size={24}
-										/>
-									</div>
-								{/if}
 							</div>
 							<p
 								class="text-lg text-gray-700 leading-relaxed px-4"
@@ -347,7 +333,6 @@
 							class="btn btn-white hover:bg-gray-50 btn-lg text-xl px-12 py-4 shadow-2xl hover:shadow-3xl hover:scale-105 transition-all inline-flex items-center gap-3 rounded-full font-bold text-{colorClass}"
 						>
 							{offer.softCTA}
-							<ArrowRight size={24} />
 						</a>
 
 						<p class="text-sm mt-6 text-white/80">

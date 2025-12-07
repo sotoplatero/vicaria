@@ -5,14 +5,14 @@
 	const doctors = [
 		{
 			name: 'Dr. Yamilet Pina',
-			photo: '/images/yamilet-pina.jpg',
+			photo: '/images/yamilet-pina.webp',
 			specialties: ['Integrative Medicine', 'Urology', 'Health Coaching'],
 			background: 'Medical doctor with over 20 years of experience in Integrative General Medicine and Urology. Graduated as a Health Coach from the Institute for Integrative Nutrition (IIN) in New York.',
 			journey: 'After moving to Canada in 2021, Dr. Pina experienced firsthand the communication challenges that non-native English speakers face in healthcare. This inspired her passion for helping people navigate the healthcare system and find their path to a fulfilling and healthy life.'
 		},
 		{
 			name: 'Dr. Maurin Casella',
-			photo: '/images/maurin-casella.jpg',
+			photo: '/images/maurin-casella.webp',
 			specialties: ['General Medicine', 'Pathology', 'Health Coaching'],
 			background: 'Medical doctor with over 20 years of experience in General Medicine and Pathology. Graduated as a Health Coach from the Institute for Integrative Nutrition (IIN) in New York.',
 			journey: 'After undergoing surgery that resulted in kidney loss, Dr. Casella experienced a profound personal transformation through lifestyle and nutrition changes. This inspired her to help others achieve better health through preventive care.'
@@ -31,8 +31,6 @@
 	<title>About Us - Vicaria Health | Hamilton Health Coaches</title>
 	<meta name="description" content="Meet Dr. Yamilet Pina and Dr. Maurin Casella - two medical doctors with 40+ years combined experience offering bilingual health coaching in Hamilton, Ontario." />
 </svelte:head>
-
-<Header />
 
 <!-- Hero Section -->
 <section class="pt-32 pb-20 bg-gradient-to-br from-warm-white via-blush/10 to-sage-light/10 relative overflow-hidden">

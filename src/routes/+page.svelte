@@ -4,8 +4,10 @@
 	import Services from '$lib/components/Services.svelte';
 	import HowItWorks from '$lib/components/HowItWorks.svelte';
 	import About from '$lib/components/About.svelte';
+	import FAQ from '$lib/components/FAQ.svelte';
 	import CTA from '$lib/components/CTA.svelte';
 	import { Heart } from '@lucide/svelte';
+	import { faqs } from '$lib/data/faqs';
 
 	// Lazy load Testimonials
 	let TestimonialsComponent = $state<any>(null);
@@ -114,6 +116,7 @@
 </div>
 
 <About />
+<FAQ {faqs} />
 <CTA
 	badge="Take the First Step"
 	badgeIcon={Heart}
