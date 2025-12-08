@@ -9,7 +9,7 @@
 				Why Our Pricing Works This Way
 			</h2>
 			<p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-				Understanding how our pricing works helps you choose the right investment in your health journey.
+				As a local Hamilton health practice, we believe in transparent pricing that reflects the value of personalized care.
 				Here's what makes our model different.
 			</p>
 		</div>

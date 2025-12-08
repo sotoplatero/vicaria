@@ -296,7 +296,7 @@
 				Health Coaching: Detailed Breakdown
 			</h2>
 			<p class="text-xl text-gray-600 max-w-3xl mx-auto">
-				Choose your level of support. Here is exactly what you get with each plan, step by step.
+				Serving Hamilton, Burlington, Ancaster, and surrounding areas. Choose your level of support—here's exactly what you get with each plan, step by step.
 			</p>
 		</div>
 
@@ -435,7 +435,7 @@
 			</p>
 			<WhatsappButton message="Hi! I'd like to discuss Health Coaching options." variant="secondary" />
 			<p class="text-gray-600 mt-6 max-w-xl mx-auto">
-				Not sure which plan is right for you? Let's chat. I'll help you choose the best option for your goals and situation.
+				Not sure which plan is right for you? Let's chat. Whether you're in Hamilton, Burlington, or the surrounding area, I'll help you choose the best option for your goals and situation.
 			</p>
 		</div>
 	</div>

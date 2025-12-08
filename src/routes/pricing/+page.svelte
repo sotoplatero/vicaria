@@ -18,7 +18,7 @@
 		{
 			id: "insurance-coverage",
 			question: "Will my insurance cover these services?",
-			answer: "For Health Coaching: Many extended health insurance plans DO cover consultations with Registered Nutritional Practitioners. Check your benefits under 'nutritionist,' 'dietitian,' or 'complementary health practitioners.' We provide detailed receipts for your claims. For Skin Treatments: These are cosmetic procedures and are NOT covered by OHIP or most insurance plans.",
+			answer: "For Health Coaching: Many extended health insurance plans DO cover consultations with Registered Nutritional Practitioners. Whether you're seeing us in Hamilton or virtually from Burlington, Ancaster, or surrounding areas, we provide detailed receipts for your claims. Check your benefits under 'nutritionist,' 'dietitian,' or 'complementary health practitioners.' For Skin Treatments: These are cosmetic procedures and are NOT covered by OHIP or most insurance plans.",
 			category: "insurance"
 		},
 		{
@@ -78,7 +78,7 @@
 		{
 			id: "choosing-package",
 			question: "What if I am not sure which package is right for me?",
-			answer: "That is completely normal! I recommend starting with our free 15-minute discovery call to discuss your goals and challenges. Based on our conversation, I can recommend the package that best fits your needs. You can also start with a Single Session to experience the process before committing to a larger package.",
+			answer: "That is completely normal! I recommend starting with our free 15-minute discovery call to discuss your goals and challenges. Whether you're visiting our Hamilton clinic or connecting virtually from anywhere in the Golden Horseshoe, we can discuss which package best fits your needs. You can also start with a Single Session to experience the process before committing to a larger package.",
 			category: "general"
 		},
 		{
@@ -134,10 +134,10 @@
 </script>
 
 <svelte:head>
-	<title>Complete Pricing Guide - Vicaria Health</title>
+	<title>Nutrition Coaching Pricing Hamilton ON | Vicaria Health</title>
 	<meta
 		name="description"
-		content="Detailed pricing breakdown for health coaching and skin treatments. Compare plans, understand insurance coverage, see step-by-step processes, and get all your questions answered."
+		content="Transparent pricing for nutrition counseling in Hamilton, Burlington, Ancaster & surrounding areas. Health coaching packages from $85. Insurance-friendly. Book your free consultation."
 	/>
 </svelte:head>
 
@@ -146,7 +146,7 @@
 	<div
 		class="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-primary/5 to-transparent -z-10"
 	></div>
-	<div class="container-custom text-center">
+	<div class="w-full mx-auto max-w-4xl text-center ">
 		<div
 			class="inline-flex items-center gap-2 bg-white/50 backdrop-blur-sm px-4 py-2 rounded-full border border-primary/10 mb-6"
 		>
@@ -158,11 +158,11 @@
 		<h1
 			class="text-5xl md:text-6xl font-bold text-charcoal mb-6 tracking-tight"
 		>
-			Complete Pricing <span class="text-primary">Guide</span>
+			Health Counseling <span class="text-primary">Pricing</span> in Hamilton
 		</h1>
 		<p class="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
-			Everything you need to know about our services, pricing, and process.
-			Transparent, detailed, and designed to help you make the best decision for your health.
+			Transparent pricing for health coaching services in Hamilton, Burlington, Ancaster, and surrounding areas.
+			Everything you need to know to make the best decision for your health.
 		</p>
 	</div>
 </section>
@@ -191,8 +191,8 @@
 				Your Journey to Wellness
 			</h2>
 			<p class="text-lg text-gray-600 max-w-2xl mx-auto">
-				Here is what you can expect when we work together. A structured
-				path designed for your success.
+				Here's what you can expect when we work together at our Hamilton clinic.
+				A structured path designed for your success, with in-person and virtual options available.
 			</p>
 		</div>
 
@@ -261,6 +261,6 @@
 
 <CTA
 	title="Ready to Get Started?"
-	description="Your health is your most valuable asset. Take the first step today with a free discovery call."
+	description="Join clients across Hamilton, Burlington, Ancaster, and the Golden Horseshoe area who've transformed their health. Start with a free 15-minute discovery call—in person at our Hamilton location or virtually."
 	badge="No Commitment"
 />
