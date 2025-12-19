@@ -48,7 +48,7 @@
 	// Local Business Schema for Google
 	const localBusinessSchema = {
 		'@context': 'https://schema.org',
-		'@type': 'HealthConsultant',
+		'@type':  "LocalBusiness",
 		name: 'Vicaria Health',
 		image: 'https://vicaria.ca/logo.png',
 		'@id': 'https://vicaria.ca',

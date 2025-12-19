@@ -62,8 +62,10 @@ We use a root-cause approach built on three pillars:
 **Testing That Gives Us Answers**  
 We don't make you eliminate foods randomly. Comprehensive stool testing, SIBO breath tests, and food sensitivity panels tell us what we're dealing with. Then we build your protocol around data, not hunches. No more guessing whether garlic is the problem or if it's the stress from your job.
 
-**Protocols That Target Your Specific Issues**  
+**Protocols That Target Your Specific Issues**
 IBS-D needs different strategies than IBS-C. SIBO requires a completely different approach than general inflammation. GERD that's medication-resistant? There are underlying causes we can work with. We use evidence-based frameworks—Low FODMAP (Monash trained), Bi-Phasic Diet for SIBO, gut-brain axis regulation—tailored to what testing reveals about your gut.
+
+If you have an IBS diagnosis and want targeted support specifically for IBS symptom management, our [IBS Nutrition Support](/service/ibs-nutrition-support) program provides specialized guidance for trigger identification and Low FODMAP implementation.
 
 **Nervous System Work That Lets Your Gut Heal**  
 Your gut and brain are in constant conversation. If your nervous system is stuck in stress mode, your digestion can't work right no matter what you eat. We help you regulate the vagus nerve and calm the gut-brain axis so your body can actually digest food properly.
@@ -86,7 +88,7 @@ Your gut and brain are in constant conversation. If your nervous system is stuck
 
 - You have IBS (any type—C, D, M, or unspecified) and conventional approaches aren't cutting it
 - You suspect SIBO or have been diagnosed but don't know what to do next
-- Chronic bloating is affecting your work, social life, or relationships
+- Chronic bloating is affecting your work, social life, or relationships (our [Bloating Relief Program](/service/bloating-relief) focuses specifically on reducing bloating and digestive discomfort)
 - GERD or acid reflux won't respond to medication alone
 - You've tried elimination diets but don't know how to reintroduce foods properly
 - Food sensitivities are controlling what you can eat

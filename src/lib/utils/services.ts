@@ -11,6 +11,7 @@ export interface ServiceMetadata {
 	category: 'health-coaching' | 'skin-treatments';
 	order?: number;
 	image: string;
+	benefits?: string[];
 }
 
 // Import all service markdown files with frontmatter

@@ -2,8 +2,32 @@
   "testimonials": [
     {
       "id": "google-0",
-      "name": "Ashley Pablo Mota",
+      "name": "Olaya Sibello",
       "location": "2 weeks ago",
+      "condition": "Verified Google Review",
+      "quote": "I came in for a small cosmetic treatment and felt a bit shy at first, but they were very warm and easy to talk to!\n\nThey took the time to explain everything clearly, and the place and equipment were very clean.\n\nWhat stood out most was how much time they give you. In a healthcare system that often feels rushed, they actually sit with you, listen, and make you feel like no concern is too small. Their experience really shows, and the consultation was very informative.",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWqlxwOhwukRADrAlhTTDhmfS8NptWXgKsUrBr7Kb-BAW0NiZWbCQ=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1764902176098,
+      "googleUrl": "https://www.google.com/maps/contrib/107843530968855928484/reviews"
+    },
+    {
+      "id": "google-1",
+      "name": "Yisel Peña",
+      "location": "2 weeks ago",
+      "condition": "Verified Google Review",
+      "quote": "I had an excellent experience at Vicaria Health in Hamilton. I went in to have some skin tags on my neck removed, and the entire process was smooth, quick, and very comfortable. The staff were friendly, professional, and attentive, explaining every step clearly and answering all my questions with patience and care.\n\nWhat impressed me even more is that Vicaria Health offers much more than skin tag removal. They also provide valuable information and guidance about healthy nutrition and overall healthy lifestyle habits. It’s a place where you feel supported not only during your procedure but also in your long-term wellness.\n\nThe clinic is clean, welcoming, and well-organized. I am very happy with the results and truly appreciate the care I received. I highly recommend Vicaria Health to anyone looking for quality service and a team that truly cares about their patients.",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIIcbGBqZWSJBjj1kjM5oYAPuXOAizwwjhuB-E3LHG9n7yn6A=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1764896916895,
+      "googleUrl": "https://www.google.com/maps/contrib/113899476775258600135/reviews"
+    },
+    {
+      "id": "google-3",
+      "name": "Ashley Pablo Mota",
+      "location": "a month ago",
       "condition": "Verified Google Review",
       "quote": "They helped give me tools to assist with my son's picky eating! Still a working progress but definitely moving in the right direction and he is at times much more willing to try new foods. I would recommend 💯",
       "rating": 5,
@@ -13,9 +37,9 @@
       "googleUrl": "https://www.google.com/maps/contrib/107573468543990469751/reviews"
     },
     {
-      "id": "google-1",
+      "id": "google-2",
       "name": "Katiuska Rivas",
-      "location": "4 months ago",
+      "location": "5 months ago",
       "condition": "Verified Google Review",
       "quote": "⭐️⭐️⭐️⭐️⭐️\nI honestly don’t have enough words to thank Vicaria Health. For years, I struggled with symptoms that no one seemed to take seriously—until I found them. They not only listened with compassion, but truly understood what I was going through. Thanks to their care, I finally got answers about my leaky gut and the other health issues that were affecting my life every day.\n\nTheir approach is gentle, human, and empowering. I felt seen, heard, and supported every step of the way. The difference this has made in my daily life is something I’ll always be grateful for. If you’re feeling lost or frustrated with your health, Vicaria Health is a place of hope and healing.",
       "rating": 5,
@@ -25,21 +49,9 @@
       "googleUrl": "https://www.google.com/maps/contrib/106096493192713275997/reviews"
     },
     {
-      "id": "google-3",
-      "name": "Ana Medina",
-      "location": "5 months ago",
-      "condition": "Verified Google Review",
-      "quote": "I had a wonderful results.\nI had a small spot that kept getting bigger and bigger, resembling a mole. They cauterized it, the scab fell off in 8 days, and my face was back to normal. Thank you so much. I highly recommend Vicaria Health; they're excellent.",
-      "rating": 5,
-      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUrzNEfvbpbqNM5HItK9mwDrB18wFQrNVBVc5bIkoEg_jx4WoiXRg=s128-c0x00000000-cc-rp-mo",
-      "source": "google",
-      "time": 1749768160545,
-      "googleUrl": "https://www.google.com/maps/contrib/102441723602347512397/reviews"
-    },
-    {
-      "id": "google-2",
+      "id": "google-4",
       "name": "Irina Perez",
-      "location": "5 months ago",
+      "location": "6 months ago",
       "condition": "Verified Google Review",
       "quote": "Yamilet and Maurin, both Cubans doctors are super friendly and knowledgeable. They explained me everything so simple and clear. I highly recommend to see them and ask them any medical question. I consulted them for a second opinion on my labs results and ultrasounds. I felt calmed to hear their opinions and recommendations. I also had skin tag removed twice and I had the best experience with this procedure and their professionalism.",
       "rating": 5,
@@ -47,21 +59,9 @@
       "source": "google",
       "time": 1749606916840,
       "googleUrl": "https://www.google.com/maps/contrib/104677083864797066387/reviews"
-    },
-    {
-      "id": "google-4",
-      "name": "Katuchy Anriyuni",
-      "location": "2 years ago",
-      "condition": "Verified Google Review",
-      "quote": "Amazing place! We were here couple months ago. We were so confortable and so well treated with Yamilet and Maurin.\nWe explained our situation, we could talk freely and they were so helpful and heard us.\nIf you need help with you mental and physical health this is your place.!",
-      "rating": 5,
-      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVz66ezFmwEEfv63r0Tp0blLDPAkqj1xmW0cFKnHfx-DccK7Kc=s128-c0x00000000-cc-rp-mo-ba2",
-      "source": "google",
-      "time": 1688741849382,
-      "googleUrl": "https://www.google.com/maps/contrib/118328131206235424992/reviews"
     }
   ],
   "googleRating": 5,
-  "totalReviews": 37,
-  "lastFetched": "2025-11-27T19:50:36.490Z"
+  "totalReviews": 39,
+  "lastFetched": "2025-12-19T03:26:14.049Z"
 }

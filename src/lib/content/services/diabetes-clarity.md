@@ -14,7 +14,7 @@ faqs:
   - question: "Will this replace my diabetes medication?"
     answer: "No. We work alongside your medical team to optimize nutrition and lifestyle. Any medication changes should be discussed with your doctor. Our goal is to help you achieve better blood sugar control through sustainable lifestyle changes."
   - question: "Do you work with Type 1 and Type 2 diabetes?"
-    answer: "Yes. We work with both Type 1 and Type 2 diabetes, as well as prediabetes. Our approach is personalized to your specific type and needs."
+    answer: "Yes. We work with both Type 1 and Type 2 diabetes, as well as prediabetes. Our approach is personalized to your specific type and needs. If you have prediabetes and want to focus specifically on reversal and prevention, our [Prediabetes Nutrition Support](/service/prediabetes-nutrition-support) program is designed for that."
   - question: "How quickly will I see results?"
     answer: "Most clients notice more stable blood sugar and energy within 2–4 weeks. A1C improvements typically show within 2–3 months of consistent implementation."
   - question: "Will I have to give up carbs completely?"

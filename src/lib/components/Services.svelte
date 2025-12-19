@@ -37,7 +37,7 @@
 			</header>
 
 			<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-				{#each healthCoachingServices as service, index}
+				{#each healthCoachingServices.slice(0,6) as service, index}
 					{@const IconComponent = iconMap[service.cardIcon] || Activity}
 					<a
 						href="/service/{service.slug}"
@@ -80,6 +80,17 @@
 						</div>
 					</a>
 				{/each}
+			</div>
+
+			<!-- View All Services Link -->
+			<div class="text-center">
+				<a
+					href="/service"
+					class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-white border-2 border-primary text-primary font-semibold hover:bg-primary hover:text-white transition-all duration-300 shadow-md hover:shadow-xl"
+				>
+					View All Services
+					<ArrowRight size={20} class="group-hover:translate-x-1 transition-transform" />
+				</a>
 			</div>
 		</div>
 
