@@ -1,52 +1,52 @@
 {
   "isActive": true,
-  "month": 12,
-  "year": 2025,
-  "servicePillar": "Cancer Recovery Support",
-  "servicePillarId": "cancer-recovery",
-  "offerFormat": "Free personalized plan",
-  "theme": "Energy Reset",
+  "month": 1,
+  "year": 2026,
+  "servicePillar": "Menopause Health",
+  "servicePillarId": "menopause-health",
+  "offerFormat": "Bonus session",
+  "theme": "Menopause Awareness",
   "scarcity": "Valid until the end of this month",
-  "softCTA": "See Offer Details",
-  "title": "Cancer Recovery Support offer: Free personalized plan with our Energy Reset theme",
-  "subtitle": "Regain your strength and vitality after cancer with nutrition and support tailored just for you.",
-  "offerLine": "Cancer Recovery Support → get a free personalized plan with our Energy Reset theme. Valid until the end of this month. See Offer Details.",
+  "softCTA": "Learn More",
+  "title": "Menopause Health offer: Bonus session with our Menopause Awareness theme",
+  "subtitle": "Struggling with hot flashes, sleep issues, or weight changes? Find support and relief tailored for you.",
+  "offerLine": "Menopause Health → get a bonus session with our Menopause Awareness theme. Valid until the end of this month. Learn More.",
   "whatYouGet": [
-    "Customized nutrition guidance to rebuild energy and support healing",
-    "Personalized strength recovery exercises tailored to your pace",
-    "Step-by-step weekly action plan to boost your daily vitality",
-    "Expert tips to manage fatigue and improve overall wellness",
-    "Email support for questions throughout your recovery journey",
-    "A clear roadmap designed specifically for post-cancer recovery"
+    "One personalized coaching bonus session focused on managing menopause symptoms",
+    "Tailored strategies to reduce hot flashes and improve sleep quality",
+    "Guidance on nutrition adjustments to support healthy weight management",
+    "Practical tools for tracking symptom changes and progress",
+    "Supportive, empathetic coaching to address emotional well-being",
+    "Access to expert advice and resources designed for menopause health"
   ],
   "whyItMatters": [
-    "Proper nutrition and strength rebuilding are vital for restoring your health after cancer treatment.",
-    "Our Energy Reset theme focuses on replenishing your body’s energy reserves safely and effectively.",
-    "Early support can reduce fatigue and improve quality of life during recovery.",
-    "We understand the unique challenges you face and provide compassionate, expert guidance."
+    "Menopause symptoms like hot flashes and sleep disruption impact daily life and overall health.",
+    "Targeted coaching helps you regain balance, improve sleep, and manage weight effectively.",
+    "Our compassionate approach ensures you feel heard and supported through this transition.",
+    "Taking action now with our Menopause Awareness theme can lead to lasting wellness benefits."
   ],
   "howToClaim": [
-    "Visit our website and click on the Energy Reset offer before this month ends.",
-    "Fill out a brief health questionnaire to help us personalize your plan.",
-    "Schedule your free consultation at a time that works for you.",
-    "Receive your tailored nutrition and strength recovery plan with ongoing support—no obligation."
+    "Visit our website or contact us before the end of this month to express interest.",
+    "Schedule your initial assessment to personalize your menopause health plan.",
+    "Receive your bonus coaching session as part of your tailored program.",
+    "Enjoy expert guidance with no pressure—your well-being is our priority."
   ],
   "faqs": [
     {
-      "question": "Who is eligible for this free personalized plan?",
-      "answer": "Anyone currently recovering from cancer who wants tailored nutrition and strength support can claim this offer."
+      "question": "Who is eligible for this menopause health bonus session?",
+      "answer": "This offer is for anyone experiencing menopause symptoms like hot flashes, sleep issues, or weight changes seeking personalized support."
     },
     {
-      "question": "What can I expect from the personalized plan?",
-      "answer": "You’ll receive a clear, step-by-step guide customized to your energy levels and recovery goals, including nutrition and gentle strength exercises."
+      "question": "What can I expect during the bonus coaching session?",
+      "answer": "You’ll receive focused guidance on managing specific menopause symptoms and actionable tips tailored to your lifestyle and health goals."
     },
     {
-      "question": "How much time will I need to commit to this plan?",
-      "answer": "The plan is designed to fit your pace, with manageable weekly steps typically requiring 30 minutes to an hour daily."
+      "question": "How much time should I set aside for the bonus session?",
+      "answer": "Each bonus session lasts about 45 minutes, providing enough time for personalized coaching without feeling overwhelming."
     },
     {
-      "question": "When will I start noticing improvements in my energy and strength?",
-      "answer": "Many clients begin to feel more energized within 2-4 weeks by following the plan consistently, though results vary individually."
+      "question": "When will I start to see results from this menopause health coaching?",
+      "answer": "Many clients notice improvements in symptoms like sleep and hot flashes within a few weeks, especially when applying personalized strategies consistently."
     }
   ]
 }
