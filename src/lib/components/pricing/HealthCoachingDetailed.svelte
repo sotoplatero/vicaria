@@ -300,6 +300,25 @@
 			</p>
 		</div>
 
+		<!-- Free Consultation Notice -->
+		<div class="max-w-4xl mx-auto mb-12">
+			<div class="bg-gradient-to-br from-green-50 to-sage-light/30 border-2 border-green-200 rounded-2xl p-8 text-center">
+				<div class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-green-100 mb-4">
+					<span class="text-3xl font-bold text-green-600">FREE</span>
+				</div>
+				<h3 class="text-2xl font-bold text-charcoal mb-3">
+					Start with a Free WhatsApp Consultation
+				</h3>
+				<p class="text-lg text-gray-700 mb-4 max-w-2xl mx-auto">
+					Before committing to any plan, chat with us for 15 minutes via WhatsApp (video optional).
+					Discuss your health goals, ask questions, and find out which plan is right for you.
+				</p>
+				<p class="text-gray-600">
+					No pressure. No obligation. Just honest conversation about your health.
+				</p>
+			</div>
+		</div>
+
 		<div class="space-y-16">
 			{#each plans as plan, index}
 				<div class="max-w-4xl mx-auto" id="plan-{plan.name.toLowerCase().replace(/\s+/g, '-')}">
@@ -435,7 +454,7 @@
 			</p>
 			<WhatsappButton message="Hi! I'd like to discuss Health Coaching options." variant="secondary" />
 			<p class="text-gray-600 mt-6 max-w-xl mx-auto">
-				Not sure which plan is right for you? Let's chat. Whether you're in Hamilton, Burlington, or the surrounding area, I'll help you choose the best option for your goals and situation.
+				Start with a free 15-minute consultation via WhatsApp. Not sure which plan is right for you? Let's chat—whether you're in Hamilton, Burlington, or the surrounding area, I'll help you choose the best option for your goals and situation.
 			</p>
 		</div>
 	</div>

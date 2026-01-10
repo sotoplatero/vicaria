@@ -12,7 +12,14 @@
 
 	const pricingTiers: PricingTier[] = [
 		{
-			name: 'Initial Consultation',
+			name: 'WhatsApp Consultation',
+			price: 'FREE',
+			priceNote: '15 minutes',
+			description: 'Initial consultation via WhatsApp (video optional)',
+			features: ['Discuss your concerns', 'Get expert advice', 'Decide if you want to proceed']
+		},
+		{
+			name: 'In-Person Consultation',
 			price: 60,
 			priceNote: '',
 			description: 'Comprehensive skin lesion assessment and identification',
@@ -39,7 +46,7 @@
 			</p>
 		</div>
 
-		<div class="max-w-3xl mx-auto grid sm:grid-cols-2 gap-6 mb-12">
+		<div class="max-w-5xl mx-auto grid sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
 			{#each pricingTiers as tier}
 				<div
 					class="rounded-2xl p-6 shadow-lg hover-lift border-2 transition-all bg-white border-gray-100"
@@ -83,7 +90,8 @@
 				<div class="text-sm text-gray-700 space-y-2">
 					<p class="font-semibold text-charcoal">Important to Know:</p>
 					<ul class="space-y-1 list-disc list-inside">
-						<li>Consultation fee: $60 CAD + taxes</li>
+						<li>Start with FREE 15-minute consultation via WhatsApp (video optional)</li>
+						<li>In-person consultation: $60 CAD + taxes (if you decide to proceed)</li>
 						<li>Treatment pricing: $20-$25 per lesion (based on size and location) + taxes</li>
 						<li>Payment required at time of service</li>
 						<li>These are cosmetic procedures not covered by OHIP</li>
@@ -108,7 +116,7 @@
 				</svg>
 			</a> -->
 			<p class="text-sm text-gray-600 mt-4">
-				$60 consultation includes comprehensive lesion assessment
+				Start with a free 15-minute consultation via WhatsApp
 			</p>
 		</div>
 	</div>

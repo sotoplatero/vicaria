@@ -15,6 +15,15 @@
 
 	const plans: PricingPlan[] = [
 		{
+			name: 'Free WhatsApp Consultation',
+			price: 0,
+			pricePerSession: '15 minutes',
+			description: 'Start with a free consultation via WhatsApp (video optional). Discuss your health goals and see if coaching is right for you.',
+			features: ['No commitment', 'Get expert advice', 'Learn about your options'],
+			ctaText: 'Start Free Chat',
+			highlighted: true
+		},
+		{
 			name: 'Single Session',
 			price: 85,
 			pricePerSession: 'per session',
@@ -119,14 +128,25 @@
 						<!-- Right Column: Price & CTA -->
 						<div class="md:w-56 flex-shrink-0 flex flex-col items-end gap-4">
 							<div class="text-right">
-								<div class="flex items-baseline justify-end gap-1">
-									<span class="text-3xl font-bold {plan.highlighted ? 'text-white' : 'text-charcoal'}">${plan.price}</span>
-									<span class=" {plan.highlighted ? 'text-white/80' : 'text-gray-500'}">CAD</span>
-								</div>
-								{#if plan.pricePerSession}
-									<p class=" mt-1 text-gray-600 font-semibold">
-										{plan.pricePerSession}
-									</p>
+								{#if plan.price === 0}
+									<div class="flex items-baseline justify-end gap-1">
+										<span class="text-3xl font-bold {plan.highlighted ? 'text-white' : 'text-green-600'}">FREE</span>
+									</div>
+									{#if plan.pricePerSession}
+										<p class="mt-1 {plan.highlighted ? 'text-white/80' : 'text-gray-600'} font-semibold">
+											{plan.pricePerSession}
+										</p>
+									{/if}
+								{:else}
+									<div class="flex items-baseline justify-end gap-1">
+										<span class="text-3xl font-bold {plan.highlighted ? 'text-white' : 'text-charcoal'}">${plan.price}</span>
+										<span class=" {plan.highlighted ? 'text-white/80' : 'text-gray-500'}">CAD</span>
+									</div>
+									{#if plan.pricePerSession}
+										<p class=" mt-1 text-gray-600 font-semibold">
+											{plan.pricePerSession}
+										</p>
+									{/if}
 								{/if}
 							</div>
 					</div>
@@ -168,9 +188,9 @@
 			<p class="text-xl text-gray-700 mb-6">
 				Ready to take the next step?
 			</p>
-			<WhatsappButton message="Hi! I’d like details about your Health Service, please." variant="secondary"/>
+			<WhatsappButton message="Hi! I'd like details about your Health Service, please." variant="secondary"/>
 			<p class=" text-gray-600 mt-4">
-				No pressure. Just an honest conversation about your health goals.
+				Start with a free 15-minute consultation via WhatsApp. No pressure, just an honest conversation about your health goals.
 			</p>
 		</div>
 	</div>

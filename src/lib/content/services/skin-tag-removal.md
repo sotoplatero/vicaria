@@ -22,7 +22,7 @@ faqs:
   - question: "Can I just cut it off myself?"
     answer: "Please don't. Home removal risks infection, excessive bleeding, and scarring. Plus, if it's not actually a skin tag (if it's a mole or something else), cutting it yourself could cause problems. Let us handle it safely."
   - question: "How much does it cost?"
-    answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you clear pricing during your consultation."
+    answer: "Initial consultation via WhatsApp is FREE (15 minutes, video optional). If you decide to proceed, the in-person consultation is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you clear pricing during your consultation."
   - question: "Will they come back?"
     answer: "The specific skin tags we remove won't grow back. But if you're prone to skin tags, new ones may develop elsewhere over time. We can remove those too."
 ---
@@ -137,4 +137,6 @@ We'll take a look, answer your questions, and get those skin tags removed so you
 
 Stop letting skin tags bother you.
 
-[**Chat with us a Free Consultation**](https://wa.me/13653369757)
+**Start with a free 15-minute consultation via WhatsApp** — discuss your concerns and get expert advice before booking (video optional).
+
+[**Chat with us on WhatsApp**](https://wa.me/13653369757)
