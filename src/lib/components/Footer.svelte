@@ -5,8 +5,8 @@
 	const currentYear = new Date().getFullYear();
 
 	const quickLinks = [
-		{ label: 'Home', href: '/' },
-		{ label: 'Services', href: '/#services' },
+		{ label: 'Free Consultation', href: '/free-consultation' },
+		{ label: 'Services', href: '/service' },
 		{ label: 'Pricing', href: '/pricing' },
 		{ label: 'About', href: '/about' },
 		{ label: 'Contact', href: '/contact' }

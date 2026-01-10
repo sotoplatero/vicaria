@@ -39,7 +39,6 @@
 				<!-- CTA -->
 				<div class="flex flex-col sm:flex-row gap-4 pt-4">
 					<WhatsAppButton
-						text="Free Consultation"
 						size="xl"
 						variant="primary"
 						message="Hi! Can you help me get started?"

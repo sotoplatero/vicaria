@@ -12,7 +12,7 @@
 	}
 
 	let {
-		text = 'Free Consultation',
+		text = 'Free Chat Consultation',
 		phoneNumber = '+13653369757',
 		message = 'Hi! Can you help me get started?',
 		size = 'lg',
