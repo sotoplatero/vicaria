@@ -1,7 +1,7 @@
 <script lang="ts">
-	import { ArrowRight } from '@lucide/svelte';
-	import type { ServiceMetadata } from '$lib/utils/services';
-	import { Activity, Heart, Users, Droplets, Sparkles } from '@lucide/svelte';
+	import { ArrowRight } from "@lucide/svelte";
+	import type { ServiceMetadata } from "$lib/utils/services";
+	import { Activity, Heart, Users, Droplets, Sparkles } from "@lucide/svelte";
 
 	interface Props {
 		services: ServiceMetadata[];
@@ -14,7 +14,7 @@
 		heart: Heart,
 		users: Users,
 		droplets: Droplets,
-		sparkles: Sparkles
+		sparkles: Sparkles,
 	};
 </script>
 
@@ -38,24 +38,38 @@
 				>
 					<div class="space-y-4">
 						<!-- Icon -->
-						<div class="w-14 h-14 rounded-xl bg-{service.cardColor}/10 flex items-center justify-center group-hover:scale-110 group-hover:rotate-3 transition-all">
-							<IconComponent class="text-{service.cardColor}" size={28} />
+						<div
+							class="w-14 h-14 rounded-xl bg-{service.cardColor}/10 flex items-center justify-center group-hover:scale-110 group-hover:rotate-3 transition-all"
+						>
+							<IconComponent
+								class="text-{service.cardColor}"
+								size={28}
+							/>
 						</div>
 
 						<!-- Title -->
-						<h3 class="text-xl font-bold text-charcoal group-hover:text-{service.cardColor} transition-colors">
+						<h3
+							class="text-xl font-bold text-charcoal group-hover:text-{service.cardColor} transition-colors"
+						>
 							{service.service}
 						</h3>
 
 						<!-- Pain Point -->
-						<p class="text-sm text-gray-600 leading-relaxed line-clamp-2">
+						<p
+							class="text-sm text-gray-600 leading-relaxed line-clamp-2"
+						>
 							{service.pain}
 						</p>
 
 						<!-- CTA -->
-						<div class="flex items-center gap-2 text-{service.cardColor} font-semibold text-sm group-hover:gap-3 transition-all">
+						<div
+							class="flex items-center gap-2 text-{service.cardColor} font-semibold text-sm group-hover:gap-3 transition-all"
+						>
 							Learn More
-							<ArrowRight size={16} class="group-hover:translate-x-1 transition-transform" />
+							<ArrowRight
+								size={16}
+								class="group-hover:translate-x-1 transition-transform"
+							/>
 						</div>
 					</div>
 				</a>
@@ -64,7 +78,7 @@
 
 		<div class="text-center mt-12">
 			<a
-				href="/#services"
+				href="/service"
 				class="btn btn-outline btn-primary btn-lg hover:bg-primary hover:text-white transition-all"
 			>
 				View All Services

@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Expert bloating relief support in Hamilton. Personalized nutrition guidance for chronic bloating, digestive discomfort, and bloating after eating. Get help with bloating near you."
 category: "health-coaching"
 order: 8
-image: "/images/vicaria-2.webp"
+image: "/images/vicaria-hero2.webp"
 faqs:
   - question: "Is bloating always related to IBS?"
     answer: "No. Bloating can be caused by many factors—food combinations, eating speed, stress, gut bacteria imbalances, food sensitivities, or digestive motility issues. While bloating is a common IBS symptom, many people experience chronic bloating without an IBS diagnosis. We work with both."

@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Blood pressure coaching in downtown Hamilton. Vicaria Health helps Hamilton residents from Westdale to Stoney Creek lower BP naturally. Evidence-based, personalized coaching."
 category: "health-coaching"
 order: 4
-image: "/images/vicaria.webp"
+image: "/images/vicaria-hero3.webp"
 faqs:
   - question: "Should I stop taking my blood pressure medication?"
     answer: "No. Never stop or adjust your medication without consulting your doctor. We work alongside your medical team to help you make lifestyle changes that support healthy blood pressure. Any medication changes should be made by your physician."

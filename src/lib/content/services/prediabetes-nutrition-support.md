@@ -9,7 +9,7 @@ city: "Hamilton"
 description: "Expert prediabetes nutrition support in Hamilton. Reverse prediabetes naturally with personalized coaching. Prediabetes dietitian helping you lower blood sugar and prevent Type 2 diabetes."
 category: "health-coaching"
 order: 9
-image: "/images/vicaria-2.webp"
+image: "/images/vicaria-hero2.webp"
 faqs:
   - question: "Can prediabetes actually be reversed?"
     answer: "Yes. Research shows that with the right nutrition and lifestyle changes, many people can reverse prediabetes and return blood sugar to normal levels. The key is addressing insulin resistance through strategic food choices, meal timing, and sustainable habit changes—not just 'eating less sugar.'"

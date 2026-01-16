@@ -25,7 +25,7 @@
 	});
 
 	const navItems = [
-		{ label: "Services", href: "#services" },
+		{ label: "Services", href: "/service" },
 		{ label: "How It Works", href: "#how-it-works" },
 		{ label: "Pricing", href: "/pricing" },
 		{ label: "Testimonials", href: "#testimonials" },
