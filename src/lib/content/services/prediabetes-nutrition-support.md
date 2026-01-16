@@ -4,7 +4,7 @@ pain: "Your blood sugar came back high. Your doctor said 'watch your diet' and s
 solution: "We help you reverse prediabetes through personalized nutrition strategies that stabilize blood sugar, reduce insulin resistance, and prevent progression to Type 2 diabetes."
 cardIcon: "activity"
 cardColor: "primary"
-title: "Prediabetes Nutritionist Near Me | Reverse Prediabetes in Hamilton"
+title: "Prediabetes Nutritionist in Hamilton"
 city: "Hamilton"
 description: "Expert prediabetes nutrition support in Hamilton. Reverse prediabetes naturally with personalized coaching. Prediabetes dietitian helping you lower blood sugar and prevent Type 2 diabetes."
 category: "health-coaching"
