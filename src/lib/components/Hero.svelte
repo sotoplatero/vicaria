@@ -33,10 +33,8 @@
 				<h1
 					class="text-4xl md:text-5xl lg:text-6xl font-bold text-charcoal tracking-tighter"
 				>
-					Hamilton's Most Trusted Nutritionist,
-					<span class="text-primary block mt-2"
-						>Finally, a Way to Feel Better</span
-					>
+					Hamilton's Most Trusted
+					<span class="text-primary">Trusted Nutritionist</span>
 				</h1>
 
 				<!-- Subheadline -->
@@ -59,7 +57,7 @@
 				</div>
 
 				<!-- Trust Indicators -->
-				<div class="flex flex-wrap gap-8 py-4">
+				<div class="flex flex-wrap gap-4 md:gap-8 py-4">
 					<div class="flex items-center gap-3 group">
 						<div
 							class="w-12 h-12 rounded-2xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-transform"
@@ -80,7 +78,7 @@
 						</div>
 						<div>
 							<div class="font-bold text-charcoal">
-								500+ Clients
+								100+ People
 							</div>
 							<div class="text-sm text-gray-500">
 								Transformed Lives
