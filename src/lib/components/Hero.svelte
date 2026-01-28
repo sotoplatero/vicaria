@@ -31,9 +31,9 @@
 			<div class="space-y-8 animate-fade-up">
 				<!-- Headline -->
 				<h1
-					class="text-4xl md:text-5xl lg:text-6xl font-bold text-charcoal leading-[0.9] tracking-tighter"
+					class="text-4xl md:text-5xl lg:text-6xl font-bold text-charcoal tracking-tighter"
 				>
-					Hamilton's Most Trusted Health Coach,
+					Hamilton's Most Trusted Nutritionist,
 					<span class="text-primary block mt-2"
 						>Finally, a Way to Feel Better</span
 					>
@@ -91,7 +91,7 @@
 			</div>
 
 			<!-- Image Column -->
-			<div class="hidden lg:block h-full overflow-visible">
+			<div class="hidden lg:block h-full flex items-end">
 				<img
 					src="/images/vicaria-hero.webp"
 					alt="Maurin Yamile - Registered Holistic Nutritionist"
@@ -100,7 +100,7 @@
 					fetchpriority="high"
 					loading="eager"
 					decoding="async"
-					class="h-full object-cover"
+					class="max-h-full object-cover"
 				/>
 			</div>
 		</div>
