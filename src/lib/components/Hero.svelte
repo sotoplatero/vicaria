@@ -26,12 +26,12 @@
 	</div>
 
 	<div class="container-custom relative z-10">
-		<div class="grid lg:grid-cols-2 gap-16 items-center">
+		<div class="grid lg:grid-cols-2 gap-8 items-center">
 			<!-- Content Column -->
-			<div class="space-y-8 animate-fade-up">
+			<div class="text-center lg:text-left space-y-8 animate-fade-up">
 				<!-- Headline -->
 				<h1
-					class="text-4xl md:text-5xl lg:text-6xl font-bold text-charcoal tracking-tighter"
+					class="text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal tracking-tighter"
 				>
 					Hamilton's Most Trusted
 					<span class="text-primary">Trusted Nutritionist</span>
@@ -57,7 +57,7 @@
 				</div>
 
 				<!-- Trust Indicators -->
-				<div class="flex flex-wrap gap-4 md:gap-8 py-4">
+				<div class="flex items-center gap-4 md:gap-8 py-4">
 					<div class="flex items-center gap-3 group">
 						<div
 							class="w-12 h-12 rounded-2xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-transform"
