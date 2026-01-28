@@ -33,7 +33,7 @@
 				<h1
 					class="text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal tracking-tighter"
 				>
-					Hamilton's Most Trusted
+					Hamilton's Most
 					<span class="text-primary">Trusted Nutritionist</span>
 				</h1>
 
