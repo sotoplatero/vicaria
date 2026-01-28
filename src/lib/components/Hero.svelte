@@ -6,7 +6,7 @@
 
 <section
 	id="hero"
-	class="relative min-h-screen flex items-center overflow-hidden bg-base-200"
+	class="relative min-h-[calc(100vh-6rem)] flex items-center justify-center overflow-hidden bg-base-200"
 >
 	<!-- Decorative Elements -->
 	<div class="absolute inset-0 overflow-hidden pointer-events-none">
@@ -25,27 +25,17 @@
 		></div>
 	</div>
 
-	<div class="container-custom relative z-10 lg:pt-24">
+	<div class="container-custom relative z-10">
 		<div class="grid lg:grid-cols-2 gap-16 items-center">
 			<!-- Content Column -->
 			<div class="space-y-8 animate-fade-up">
-				<!-- Badge -->
-				<div
-					class="inline-flex items-center gap-2 glass px-5 py-2.5 rounded-full shadow-sm animate-fade-in delay-100"
-				>
-					<Sparkles class="text-primary" size={18} />
-					<span class="text-sm font-medium text-primary"
-						>Hamilton's Most Trusted Health Coach</span
-					>
-				</div>
-
 				<!-- Headline -->
 				<h1
-					class="text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal leading-[0.9] tracking-tighter"
+					class="text-4xl md:text-5xl lg:text-6xl font-bold text-charcoal leading-[0.9] tracking-tighter"
 				>
-					Finally, a Way to Feel Better,
+					Hamilton's Most Trusted Health Coach,
 					<span class="text-primary block mt-2"
-						>Without Waiting Months</span
+						>Finally, a Way to Feel Better</span
 					>
 				</h1>
 

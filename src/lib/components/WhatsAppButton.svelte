@@ -1,43 +1,49 @@
 <script lang="ts">
-	import { ArrowRight } from '@lucide/svelte';
+	import { ArrowRight } from "@lucide/svelte";
 
 	interface Props {
 		text?: string;
 		phoneNumber?: string;
 		message?: string;
-		size?: 'sm' | 'md' | 'lg' | 'xl';
-		variant?: 'primary' | 'secondary' | 'accent';
+		size?: "sm" | "md" | "lg" | "xl";
+		variant?: "primary" | "secondary" | "accent";
 		class?: string;
 		showIcon?: boolean;
 	}
 
 	let {
-		text = 'Free Chat Consultation',
-		phoneNumber = '+13653369757',
-		message = 'Hi! Can you help me get started?',
-		size = 'lg',
-		variant = 'primary',
-		class: customClass = '',
-		showIcon = true
+		text = "Chat Consultation",
+		phoneNumber = "+13653369757",
+		message = "Hi! Can you help me get started?",
+		size = "lg",
+		variant = "primary",
+		class: customClass = "",
+		showIcon = true,
 	}: Props = $props();
 
 	const whatsappUrl = $derived(
-		`https://wa.me/${phoneNumber.replace(/\D/g, '')}?text=${encodeURIComponent(message)}`
+		`https://wa.me/${phoneNumber.replace(/\D/g, "")}?text=${encodeURIComponent(message)}`,
 	);
 
 	const sizeClasses = {
-		sm: 'btn-sm text-sm px-4',
-		md: 'btn-md text-base px-6',
-		lg: 'btn-lg text-lg px-8',
-		xl: 'btn-xl text-lg px-10'
+		sm: "btn-sm text-sm px-4",
+		md: "btn-md text-base px-6",
+		lg: "btn-lg text-lg px-8",
+		xl: "btn-xl text-lg px-10",
 	};
 
 	const buttonClass = $derived(
-		`btn btn-${variant} ${sizeClasses[size]} shadow-xl hover:shadow-2xl hover:-translate-y-1 transition-all group border-0 ${customClass}`
+		`btn btn-${variant} ${sizeClasses[size]} shadow-xl hover:shadow-2xl hover:-translate-y-1 transition-all group border-0 ${customClass}`,
 	);
 </script>
 
-<a href={whatsappUrl} target="_blank" rel="noopener noreferrer" class={buttonClass} data-umami-event="chat">
+<a
+	href={whatsappUrl}
+	target="_blank"
+	rel="noopener noreferrer"
+	class={buttonClass}
+	data-umami-event="chat"
+>
 	{#if showIcon}
 		<!-- WhatsApp Icon SVG -->
 		<svg
