@@ -41,11 +41,6 @@
 		content={metadata.description ||
 			"Professional health coaching services in Hamilton"}
 	/>
-	<meta
-		name="keywords"
-		content="{metadata.service}, {metadata.city}, health coaching, nutrition"
-	/>
-
 	<!-- Open Graph -->
 	<meta property="og:title" content={metadata.title} />
 	<meta property="og:description" content={metadata.description} />
@@ -117,7 +112,7 @@
 							>Services</a
 						>
 						<span class="mx-2">/</span>
-						<span class="text-charcoal">{metadata.city}</span>
+						<span class="text-charcoal">{metadata.title}</span>
 					</nav>
 
 					<!-- Title -->

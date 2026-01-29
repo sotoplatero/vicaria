@@ -29,7 +29,9 @@ You wake up drenched in sweat.
 Your waistline has expanded despite eating the same way. Brain fog hits at the worst moments. Mood swings come out of nowhere.
 Your doctor might have said "it's just menopause" and offered a prescription or nothing at all. You've tried cutting calories, working out more, maybe every supplement promised to "balance hormones" and nothing sticks.
 
-**Here's what no one tells you:** menopause doesn't have to feel like a slow decline. With the right nutrition, lifestyle strategy, and support, you can thrive through this transition not just survive it.
+**Here's what no one tells you:** What you're experiencing is normal, but it doesn't have to be your new normal. According to the North American Menopause Society, menopause affects approximately 1.3 million Canadian women annually, with perimenopause symptoms typically starting 4-7 years before menopause officially occurs. The Menopause Foundation reports that over 75% of women experience hot flashes, and nearly 50% deal with sleep disruption during this transition—but personalized nutrition and lifestyle strategies can reduce symptom severity by 40-60%.
+
+**Here's the truth:** Menopause doesn't have to feel like a slow decline. With the right nutrition, lifestyle strategy, and support, you can thrive through this transition not just survive it.
 
 At Vicaria Health, we work with women right here in Hamilton from Westdale to the Mountain, Dundas to Stoney Creek who are ready to reclaim their energy, confidence, and comfort in their own body.
 
@@ -46,11 +48,14 @@ You've probably tried:
 **The issue isn't lack of effort it's lack of a personalized, hormone-informed approach.**
 
 Menopause symptoms can be driven by:
-- Hormonal fluctuations and declining estrogen affecting metabolism and mood
-- Insulin resistance and blood sugar instability making weight management harder
-- Cortisol dysregulation from chronic stress amplifying hot flashes and sleep issues
-- Nutrient deficiencies (magnesium, B vitamins, omega-3s) worsening brain fog and fatigue
-- Gut health imbalances affecting hormone metabolism and inflammation
+- **Hormonal fluctuations and declining estrogen** affecting metabolism, mood, and body temperature regulation
+- **Insulin resistance and blood sugar instability** making weight management harder during perimenopause
+- **Cortisol dysregulation from chronic stress** amplifying hot flashes and sleep issues
+- **Nutrient deficiencies** (magnesium, B vitamins, omega-3s, vitamin D) worsening brain fog and fatigue
+- **Gut health imbalances** affecting hormone metabolism and inflammation
+- **Perimenopause transition effects** as ovarian function gradually declines
+
+This isn't just about "aging"—it's about a specific hormonal transition that requires targeted support. Whether you're dealing with vasomotor symptoms (hot flashes/night sweats), metabolic changes, or mood disruptions, personalized nutrition makes a difference.
 
 We don't guess. We assess your unique hormonal picture, test when needed, and create a clear plan that fits your life.
 
@@ -89,6 +94,7 @@ Strength training, movement timing, and recovery strategies that protect bone de
 - Weight gain around your midsection won't budge no matter what you try
 - Brain fog, memory lapses, and low energy are affecting your work and daily life
 - Mood swings, anxiety, or irritability are straining your relationships
+- You're experiencing [blood pressure changes](/service/blood-pressure-balance) that coincide with your transition (common during menopause)
 - You want a **science-based, personalized plan** not generic "eat less, move more" advice
 
 ---

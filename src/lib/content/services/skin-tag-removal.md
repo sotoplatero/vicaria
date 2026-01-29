@@ -16,7 +16,7 @@ image: "/images/services/skin-tag-removal.jpg"
 order: 1
 faqs:
   - question: "Does it hurt?"
-    answer: "Electrocautery causes minimal discomfort—most people describe it as a brief warm sensation or quick pinch. For sensitive areas or if you're particularly nervous, we can apply a topical numbing agent beforehand. Most people are surprised by how easy and quick it is."
+    answer: "Electrocautery causes minimal discomfort most people describe it as a brief warm sensation or quick pinch. For sensitive areas or if you're particularly nervous, we can apply a topical numbing agent beforehand. Most people are surprised by how easy and quick it is."
   - question: "Will it leave a scar?"
     answer: "Rarely. When done properly by medical professionals, skin tag removal typically heals without visible scarring. The area may be slightly pink for a few weeks, then it fades."
   - question: "Can I just cut it off myself?"
@@ -33,9 +33,9 @@ faqs:
 
 They snag on your necklace. They catch on your razor. They show up in photos and make you self-conscious.
 
-Skin tags are harmless, but they're annoying as hell.
+Skin tags (acrochordons) are harmless, but they're annoying as hell—and you're definitely not alone in dealing with them. According to research published in the International Journal of Dermatology, skin tags affect approximately 46% of the general population, with prevalence increasing with age. The National Institutes of Health reports that skin tags are most common in people over 40, affecting up to 59% of adults by age 70. They're associated with friction, skin-to-skin contact, hormonal changes, and metabolic factors—including insulin resistance.
 
-You've thought about cutting them off yourself (don't). You've tried those drugstore freeze kits (they don't work well). You just want them gone—safely, quickly, and without a fuss.
+You've thought about cutting them off yourself (don't). You've tried those drugstore freeze kits (they don't work well). You just want them gone safely, quickly, and without a fuss.
 
 **That's exactly what we do.**
 
@@ -51,7 +51,7 @@ Maybe you think they're not "serious enough" to bother a doctor about. Maybe you
 
 Removal takes minutes. It's straightforward. And you'll wonder why you didn't do it sooner.
 
-We see people from all over Hamilton—Westdale, the Mountain, Dundas, Ancaster—who finally got tired of dealing with skin tags and just wanted them handled by someone who knows what they're doing.
+We see people from all over Hamilton Westdale, the Mountain, Dundas, Ancaster who finally got tired of dealing with skin tags and just wanted them handled by someone who knows what they're doing.
 
 ## How We Remove Skin Tags
 
@@ -59,9 +59,9 @@ We use **electrocautery** a proven, precise medical technique that removes skin 
 
 **Here's how it works:**
 
-We apply a small electrical current directly to the skin tag at its base. This gently burns off the tissue and cauterizes (seals) the area instantly—which means no bleeding, minimal discomfort, and clean results.
+We apply a small electrical current directly to the skin tag at its base. This gently burns off the tissue and cauterizes (seals) the area instantly which means no bleeding, minimal discomfort, and clean results.
 
-The entire process takes just a few minutes per skin tag. Most people describe it as a brief warm sensation or slight pinch—nothing unbearable. For particularly sensitive areas, we can use a topical numbing agent to make it even more comfortable.
+The entire process takes just a few minutes per skin tag. Most people describe it as a brief warm sensation or slight pinch nothing unbearable. For particularly sensitive areas, we can use a topical numbing agent to make it even more comfortable.
 
 **Why electrocautery?**
 
@@ -104,20 +104,22 @@ Single treatment session using electrocautery
 - Minor redness or scabbing that heals within a week or two
 - Minimal scarring (usually none)
 - Clear instructions on keeping the area clean
-- You can go right back to your day—no downtime
+- You can go right back to your day no downtime
 
 ## Common Areas We Treat
 
-We remove skin tags from:
-- Neck
-- Underarms
-- Eyelids
-- Chest
-- Groin area
-- Under breasts
-- Anywhere they appear
+We remove skin tags (acrochordons) from:
+- **Neck and neckline** (jewelry irritation zones)
+- **Underarms** (friction from clothing and shaving)
+- **Eyelids** (carefully, with precision electrocautery)
+- **Chest and décolletage** (common in both men and women)
+- **Groin area** (skin-fold areas where friction occurs)
+- **Under breasts** (where skin-on-skin contact creates irritation)
+- **Anywhere they appear** on your body
 
-If you're not sure whether what you have is a skin tag, we'll take a look and let you know. Sometimes what looks like a skin tag is actually a [seborrheic keratosis](/service/seborrheic-keratosis-removal) (a brown, waxy growth), [milia](/service/milia-removal) (tiny white bumps), or [cherry angioma](/service/ruby-points-treatment) (small red spots)—we can tell the difference and treat each one appropriately.
+Skin tags often develop in areas of friction or skin folds, which is why they're so common in these specific locations. Many of our clients who develop skin tags also have [seborrheic keratosis](/service/seborrheic-keratosis-removal), [milia](/service/milia-removal), or [ruby points](/service/ruby-points-treatment)—we can address multiple concerns in the same session.
+
+If you're not sure whether what you have is a skin tag, we'll take a look and let you know. Sometimes what looks like a skin tag is actually a [seborrheic keratosis](/service/seborrheic-keratosis-removal) (a brown, waxy growth), [milia](/service/milia-removal) (tiny white bumps), or [cherry angioma](/service/ruby-points-treatment) (small red spots) we can tell the difference and treat each one appropriately.
 
 ## Why Choose Medical Doctors for Skin Tag Removal
 
@@ -133,10 +135,10 @@ If you're not sure whether what you have is a skin tag, we'll take a look and le
 
 We'll take a look, answer your questions, and get those skin tags removed so you can stop thinking about them.
 
-*Vicaria Health is located in downtown Hamilton and serves clients throughout the city—including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
+*Vicaria Health is located in downtown Hamilton and serves clients throughout the city including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
 
 Stop letting skin tags bother you.
 
-**Start with a free 15-minute consultation via WhatsApp** — discuss your concerns and get expert advice before booking (video optional).
+**Start with a free 15-minute consultation via WhatsApp**   discuss your concerns and get expert advice before booking (video optional).
 
 [**Chat with us on WhatsApp**](https://wa.me/13653369757)

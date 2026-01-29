@@ -14,7 +14,7 @@ faqs:
   - question: "Can you diagnose digestive conditions like IBS or SIBO?"
     answer: "No. Diagnosis requires medical evaluation. We work with clients who have existing diagnoses or ongoing digestive symptoms to identify triggers and create personalized nutrition strategies."
   - question: "Do you use the low FODMAP diet?"
-    answer: "Yes, when appropriate. We're Monash FODMAP trained and use it as a temporary diagnostic tool—not a permanent restriction. Our goal is to identify your specific triggers and expand your diet safely."
+    answer: "Yes, when appropriate. We're Monash FODMAP trained and use it as a temporary diagnostic tool not a permanent restriction. Our goal is to identify your specific triggers and expand your diet safely."
   - question: "How long until I feel better?"
     answer: "Many clients notice symptom improvement within 2–4 weeks as we identify and remove triggers. Long-term relief comes from understanding your unique patterns and building sustainable habits."
   - question: "Will I have to avoid foods forever?"
@@ -29,11 +29,11 @@ You plan your day around bathrooms.
 
 You can't eat before meetings because you never know how your stomach will react. That bloating after lunch? It's not normal, but it's become your normal.
 
-Maybe you have an IBS diagnosis. Maybe your doctor just shrugged and said "it's stress" or "try probiotics." You've cut gluten, dairy, maybe everything that tastes good—and you still feel like garbage.
+Maybe you have an IBS diagnosis. Maybe your doctor just shrugged and said "it's stress" or "try probiotics." You've cut gluten, dairy, maybe everything that tastes good and you still feel like garbage.
 
 **Here's what nobody's telling you:** Your gut isn't broken. It's responding to something. And generic elimination diets won't find it because they're guessing. We don't guess.
 
-We work with people right here in Hamilton—from Westdale to the Mountain, Dundas to Stoney Creek—who are done playing dietary whack-a-mole and ready for answers that actually stick.
+We work with people right here in Hamilton from Westdale to the Mountain, Dundas to Stoney Creek who are done playing dietary whack-a-mole and ready for answers that actually stick.
 
 ---
 
@@ -49,9 +49,9 @@ Some days are better. Most aren't. And you're exhausted from the guesswork.
 
 **The problem isn't that you haven't tried enough things. It's that you're treating symptoms without understanding root causes.**
 
-Your gut issues have triggers—specific, identifiable triggers. Could be SIBO. Could be motility issues. Could be your nervous system keeping your gut in fight-or-flight mode. Could be bile acid problems that look exactly like IBS-D but need completely different approaches.
+Your gut issues have triggers specific, identifiable triggers. Could be SIBO. Could be motility issues. Could be your nervous system keeping your gut in fight-or-flight mode. Could be bile acid problems that look exactly like IBS-D but need completely different approaches.
 
-At Vicaria Health, we're in downtown Hamilton. We see people in our office or virtually—whatever works for you. Whether you're walking over from Durand or logging in from Ancaster, we build protocols based on what's actually happening in your gut, not what worked for someone else.
+At Vicaria Health, we're in downtown Hamilton. We see people in our office or virtually whatever works for you. Whether you're walking over from Durand or logging in from Ancaster, we build protocols based on what's actually happening in your gut, not what worked for someone else.
 
 ---
 
@@ -63,7 +63,7 @@ We use a root-cause approach built on three pillars:
 We don't make you eliminate foods randomly. Comprehensive stool testing, SIBO breath tests, and food sensitivity panels tell us what we're dealing with. Then we build your protocol around data, not hunches. No more guessing whether garlic is the problem or if it's the stress from your job.
 
 **Protocols That Target Your Specific Issues**
-IBS-D needs different strategies than IBS-C. SIBO requires a completely different approach than general inflammation. GERD that's medication-resistant? There are underlying causes we can work with. We use evidence-based frameworks—Low FODMAP (Monash trained), Bi-Phasic Diet for SIBO, gut-brain axis regulation—tailored to what testing reveals about your gut.
+IBS-D needs different strategies than IBS-C. SIBO requires a completely different approach than general inflammation. GERD that's medication-resistant? There are underlying causes we can work with. We use evidence-based frameworks Low FODMAP (Monash trained), Bi-Phasic Diet for SIBO, gut-brain axis regulation tailored to what testing reveals about your gut.
 
 If you have an IBS diagnosis and want targeted support specifically for IBS symptom management, our [IBS Nutrition Support](/service/ibs-nutrition-support) program provides specialized guidance for trigger identification and Low FODMAP implementation.
 
@@ -86,7 +86,7 @@ Your gut and brain are in constant conversation. If your nervous system is stuck
 
 ## This Is for You If...
 
-- You have IBS (any type—C, D, M, or unspecified) and conventional approaches aren't cutting it
+- You have IBS (any type C, D, M, or unspecified) and conventional approaches aren't cutting it
 - You suspect SIBO or have been diagnosed but don't know what to do next
 - Chronic bloating is affecting your work, social life, or relationships (our [Bloating Relief Program](/service/bloating-relief) focuses specifically on reducing bloating and digestive discomfort)
 - GERD or acid reflux won't respond to medication alone
@@ -94,14 +94,14 @@ Your gut and brain are in constant conversation. If your nervous system is stuck
 - Food sensitivities are controlling what you can eat
 - You're ready to invest in actually solving this instead of just managing it
 
-We work with people across Hamilton—Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, Burlington—plus virtual clients throughout Ontario who want functional nutrition expertise without geographic limits.
+We work with people across Hamilton Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, Burlington plus virtual clients throughout Ontario who want functional nutrition expertise without geographic limits.
 
 ---
 
 ## Questions You're Probably Asking
 
 **How is this different from advice I can find online?**  
-Free advice is generic. We test to find your specific triggers, then build a protocol for your gut, not a theoretical average person. Plus, implementation matters—knowing you should try Low FODMAP is different from having someone guide you through elimination, reintroduction, and personalization phases properly.
+Free advice is generic. We test to find your specific triggers, then build a protocol for your gut, not a theoretical average person. Plus, implementation matters knowing you should try Low FODMAP is different from having someone guide you through elimination, reintroduction, and personalization phases properly.
 
 **Do I need to get tested, or can I just start?**  
 You can start without testing, but you'll get faster, more targeted results with data. Testing tells us whether you have SIBO, what's happening with your microbiome, if you have bile acid issues, and which foods your immune system actually reacts to. That cuts months off the trial-and-error process.
@@ -110,16 +110,16 @@ You can start without testing, but you'll get faster, more targeted results with
 Most people who "tried FODMAP" either didn't eliminate properly, didn't reintroduce systematically, or actually have SIBO (which needs treatment before FODMAP helps). We're Monash trained, meaning we implement the protocol the way the researchers who developed it intended. That makes a huge difference.
 
 **Will this work if I have SIBO?**  
-SIBO needs specific protocols—either herbal antimicrobials or prescription antibiotics, plus dietary support and prokinetic strategies to prevent recurrence. We work alongside your doctor or naturopath if you're doing medical treatment, or we can guide you through evidence-based herbal protocols. Most people see significant improvement within 6-12 weeks.
+SIBO needs specific protocols either herbal antimicrobials or prescription antibiotics, plus dietary support and prokinetic strategies to prevent recurrence. We work alongside your doctor or naturopath if you're doing medical treatment, or we can guide you through evidence-based herbal protocols. Most people see significant improvement within 6-12 weeks.
 
 **How long before I see results?**  
-Depends on what we're addressing. Nervous system regulation often shows benefits within 2-3 weeks. SIBO treatment takes 6-12 weeks. Low FODMAP elimination phase is 2-6 weeks, then reintroduction is another 6-8 weeks. We're not selling quick fixes—we're building sustainable gut health that lasts.
+Depends on what we're addressing. Nervous system regulation often shows benefits within 2-3 weeks. SIBO treatment takes 6-12 weeks. Low FODMAP elimination phase is 2-6 weeks, then reintroduction is another 6-8 weeks. We're not selling quick fixes we're building sustainable gut health that lasts.
 
 **Do you work with my doctor?**  
 Absolutely. We complement medical care, we don't replace it. Many of our clients are also seeing gastroenterologists or naturopaths. We're happy to communicate with your healthcare team and share relevant testing or progress updates.
 
 **What about the cost?**  
-Initial consultations include comprehensive intake and protocol development. Follow-up sessions provide ongoing support, troubleshooting, and protocol refinement. Testing is separate (we use third-party labs) but optional—you decide what makes sense for your situation and budget. Many people find that finally solving their gut issues saves money long-term compared to years of supplements that don't work.
+Initial consultations include comprehensive intake and protocol development. Follow-up sessions provide ongoing support, troubleshooting, and protocol refinement. Testing is separate (we use third-party labs) but optional you decide what makes sense for your situation and budget. Many people find that finally solving their gut issues saves money long-term compared to years of supplements that don't work.
 
 ---
 

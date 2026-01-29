@@ -16,7 +16,7 @@ faqs:
   - question: "Can you help during active treatment or only after?"
     answer: "Both. We support clients during active treatment (chemo, radiation) and in post-treatment recovery. Our approach is tailored to your current phase and needs."
   - question: "What if I have no appetite or food tastes bad?"
-    answer: "This is very common. We provide practical strategies to manage taste changes, nausea, and low appetite—focusing on nutrient-dense options that work for you right now."
+    answer: "This is very common. We provide practical strategies to manage taste changes, nausea, and low appetite focusing on nutrient-dense options that work for you right now."
   - question: "Will you tell me what foods prevent cancer?"
     answer: "We focus on evidence-based nutrition that supports overall health, immune function, and recovery. We avoid unproven claims and work with what research actually supports."
   - question: "Do you offer online coaching?"

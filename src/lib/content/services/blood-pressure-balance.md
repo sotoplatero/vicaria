@@ -33,6 +33,8 @@ You're trying. But three months later, you're back in that office and nothing's 
 
 The pills are doing their job, but you're tired of feeling like you're just managing a problem instead of actually fixing it.
 
+**Here's the reality:** According to Hypertension Canada, nearly 1 in 4 Canadian adults lives with high blood pressure, and many don't have it under control. The Heart and Stroke Foundation reports that high blood pressure is the number one risk factor for stroke and a major risk factor for heart disease—but lifestyle changes can lower systolic blood pressure by 4-11 mmHg, similar to the effect of some blood pressure medications.
+
 **Here's the thing:** Generic advice doesn't work because it doesn't fit your actual life.
 
 We help people right here in Hamilton from Westdale to the East End, Dundas to Stoney Creek build routines that actually stick. Not rules you follow for two weeks and then forget.
@@ -42,6 +44,10 @@ We help people right here in Hamilton from Westdale to the East End, Dundas to S
 ## Why "Cut the Salt" Isn't Getting You There
 
 You already know you should eat better and stress less. That's not new information.
+
+What you need is someone who understands your schedule, your food preferences, the reality of your day-to-day. Someone who won't hand you a meal plan you'll hate by Wednesday. Whether you're dealing with hypertension, cardiovascular health concerns, or want to prevent heart disease with lifestyle medicine, personalized support beats generic advice every time.
+
+That's what we do at Vicaria Health.
 
 What you need is someone who understands your schedule, your food preferences, the reality of your day-to-day. Someone who won't hand you a meal plan you'll hate by Wednesday.
 
@@ -83,6 +89,7 @@ The anxiety around checking your blood pressure can become its own cycle. We hel
 - You've been told your blood pressure is high (or creeping that way)
 - You want to take control naturally, not just add another pill
 - You've tried "eating better" but your numbers won't budge
+- You have metabolic concerns like [prediabetes](/service/prediabetes-nutrition-support) or [diabetes](/service/diabetes-clarity) that often accompany blood pressure issues
 - You're ready to actually invest in your health instead of just worrying about it
 
 We work with people from all over Hamilton and the surrounding areas Dundas, Waterdown, Binbrook, Stoney Creek, Burlington. If you can get to downtown Hamilton or hop on a video call, we can work together.

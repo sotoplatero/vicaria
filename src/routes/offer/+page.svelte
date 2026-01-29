@@ -20,11 +20,12 @@
 	const offer = offerData.isActive ? offerData : null;
 
 	// Transform FAQs to add IDs
-	const faqs = offer?.faqs.map((faq, index) => ({
-		id: `faq-${index}`,
-		question: faq.question,
-		answer: faq.answer
-	})) || [];
+	const faqs =
+		offer?.faqs.map((faq, index) => ({
+			id: `faq-${index}`,
+			question: faq.question,
+			answer: faq.answer,
+		})) || [];
 
 	// Map service pillar IDs to categories for styling
 	const categoryMap: Record<string, "health-coaching" | "skin-treatments"> = {
@@ -67,7 +68,9 @@
 		style="background-image: url('/images/vicaria-4.webp'); background-position: top;"
 	>
 		<!-- Dark overlay for text readability -->
-		<div class="absolute inset-0 bg-gradient-to-b from-charcoal/70 via-charcoal/50 to-warm-white/95"></div>
+		<div
+			class="absolute inset-0 bg-gradient-to-b from-charcoal/70 via-charcoal/50 to-warm-white/95"
+		></div>
 
 		<div class="container-custom text-center relative z-10 py-20">
 			<div class="flex items-center justify-center gap-3 mb-4">
@@ -242,8 +245,7 @@
 						</div>
 					{/each}
 				</div>
-
-		</div>
+			</div>
 		</div>
 	</section>
 
@@ -325,7 +327,7 @@
 
 						<p class="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
 							Take the first step toward better health today. No
-							commitment, no pressure—just real support.
+							commitment, no pressure just real support.
 						</p>
 
 						<a

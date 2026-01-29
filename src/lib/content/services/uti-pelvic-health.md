@@ -12,7 +12,7 @@ order: 6
 image: "/images/vicaria-4.webp"
 faqs:
   - question: "Can you treat active UTIs?"
-    answer: "No. We cannot diagnose or treat active infections—that requires medical care and antibiotics. We focus on prevention strategies and addressing the underlying factors that make you susceptible to recurrent UTIs."
+    answer: "No. We cannot diagnose or treat active infections that requires medical care and antibiotics. We focus on prevention strategies and addressing the underlying factors that make you susceptible to recurrent UTIs."
   - question: "How do you help prevent UTIs naturally?"
     answer: "We address multiple factors including hydration strategies, dietary changes, gut and vaginal microbiome support, proper hygiene habits, stress management, and identifying personal triggers that contribute to recurrence."
   - question: "How long until I see results?"
@@ -27,15 +27,15 @@ faqs:
 
 Another UTI. Again.
 
-You feel that familiar burning. The urgency. The dread of another round of antibiotics that might work for a few weeks—until it happens again.
+You feel that familiar burning. The urgency. The dread of another round of antibiotics that might work for a few weeks until it happens again.
 
 You've tried cranberry everything. You're meticulous about hygiene. You pee after sex, drink tons of water, avoid tight clothing. Your doctor says "some women are just prone to them" and hands you another prescription.
 
 But living on antibiotics isn't a plan. And you're tired of the constant fear that every twinge might be another infection starting.
 
-**Here's what no one tells you:** Recurrent UTIs aren't just bad luck. They're often a sign that something in your body's defense system needs support—whether that's your microbiome, your immune function, your hydration strategy, or factors you haven't even considered yet.
+**Here's what no one tells you:** Recurrent UTIs aren't just bad luck. They're often a sign that something in your body's defense system needs support whether that's your microbiome, your immune function, your hydration strategy, or factors you haven't even considered yet.
 
-At Vicaria Health, we work with women across Hamilton—from Westdale to the Mountain, Dundas to Stoney Creek—who are ready to break the UTI cycle with root-cause strategies that actually prevent infections instead of just treating them.
+At Vicaria Health, we work with women across Hamilton from Westdale to the Mountain, Dundas to Stoney Creek who are ready to break the UTI cycle with root-cause strategies that actually prevent infections instead of just treating them.
 
 ---
 
@@ -49,7 +49,7 @@ You already know the drill:
 - Feel better... for a while
 - Repeat in a few weeks or months
 
-**The problem?** Antibiotics kill the infection, but they don't address why you keep getting them. In fact, repeated antibiotic use can make the problem worse by disrupting your vaginal and gut microbiome—the very defenses that protect you from infections.
+**The problem?** Antibiotics kill the infection, but they don't address why you keep getting them. In fact, repeated antibiotic use can make the problem worse by disrupting your vaginal and gut microbiome the very defenses that protect you from infections.
 
 Recurrent UTIs can be driven by:
 - **Disrupted vaginal microbiome** Not enough protective lactobacilli to keep harmful bacteria in check
@@ -71,13 +71,13 @@ We use a functional, root-cause approach built on evidence-based strategies:
 Your vaginal and gut microbiome are your first line of defense. We use targeted probiotics, dietary strategies, and lifestyle interventions to rebuild protective bacterial populations that crowd out harmful strains.
 
 **2. Immune & Bladder Support**
-Nutrients like D-mannose, vitamin C, and targeted herbal antimicrobials can strengthen your urinary tract defenses and prevent bacterial adhesion—without the downsides of constant antibiotics.
+Nutrients like D-mannose, vitamin C, and targeted herbal antimicrobials can strengthen your urinary tract defenses and prevent bacterial adhesion without the downsides of constant antibiotics.
 
 **3. Hydration & Lifestyle Optimization**
 Most people don't drink enough water, or they drink it inconsistently. We teach strategic hydration, urination timing, and hygiene practices tailored to your lifestyle and triggers.
 
 **4. Root-Cause Investigation**
-When appropriate, we use functional testing (comprehensive stool analysis, vaginal microbiome testing, urinalysis) to understand exactly what's driving your recurrences—so we're not guessing.
+When appropriate, we use functional testing (comprehensive stool analysis, vaginal microbiome testing, urinalysis) to understand exactly what's driving your recurrences so we're not guessing.
 
 **5. Hormonal & Structural Considerations**
 If you're in perimenopause or menopause, low estrogen can thin the vaginal and urethral tissue, making infections more likely. We address this through nutrition and work with your doctor if vaginal estrogen therapy makes sense.
@@ -91,7 +91,7 @@ If you're in perimenopause or menopause, low estrogen can thin the vaginal and u
 - **Personalized plans** Your triggers and patterns are unique; your prevention strategy should be too
 - **Functional testing when needed** Microbiome analysis, immune markers, and metabolic testing to remove guesswork
 - **Work alongside your doctor** We complement medical care and can coordinate with your physician or urologist
-- **Local to Hamilton** Downtown clinic serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington—plus virtual clients across Ontario
+- **Local to Hamilton** Downtown clinic serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington plus virtual clients across Ontario
 - **Support for pelvic pain too** If you're dealing with chronic pelvic discomfort, painful intercourse, or interstitial cystitis symptoms, we address those as well
 
 ---
@@ -100,7 +100,7 @@ If you're in perimenopause or menopause, low estrogen can thin the vaginal and u
 
 - You've had 3+ UTIs in the past year (or multiple in a short period)
 - You're sick of taking antibiotics and worried about antibiotic resistance
-- UTIs happen after sex, travel, or stress—and you want to break the pattern
+- UTIs happen after sex, travel, or stress and you want to break the pattern
 - You're dealing with chronic pelvic pain, bladder urgency, or discomfort that your doctor can't explain
 - You're in perimenopause or menopause and UTIs have become more frequent
 - You want a **science-based prevention plan** not just "drink more cranberry juice" advice
@@ -110,7 +110,7 @@ If you're in perimenopause or menopause, low estrogen can thin the vaginal and u
 ## What Clients Ask
 
 **"Can I stop antibiotics completely?"**
-Not necessarily—and we don't recommend stopping treatment for an active infection. But the goal is to prevent infections so you don't need antibiotics in the first place. Some women go from monthly UTIs to none at all once we address root causes.
+Not necessarily and we don't recommend stopping treatment for an active infection. But the goal is to prevent infections so you don't need antibiotics in the first place. Some women go from monthly UTIs to none at all once we address root causes.
 
 **"Will I have to take supplements forever?"**
 Not usually. We use targeted interventions (probiotics, D-mannose, etc.) to restore balance, then transition you to a maintenance plan based on your needs. Some women stay on minimal support; others don't need anything long-term.
@@ -135,7 +135,7 @@ Recurrent UTIs shouldn't control your life.
 
 Chat with us a [**free 15-minute consultation**](https://wa.me/13653369757) today.
 
-We'll talk through your history, what you've tried, and whether a root-cause approach makes sense for your situation—so you can finally break the cycle and restore confidence in your body.
+We'll talk through your history, what you've tried, and whether a root-cause approach makes sense for your situation so you can finally break the cycle and restore confidence in your body.
 
 
 

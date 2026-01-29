@@ -32,7 +32,9 @@
 	onMount(() => {
 		isMounted = true;
 		// Check if user has dismissed the banner
-		const dismissed = localStorage.getItem(`offer-banner-${offer?.month}-${offer?.year}`);
+		const dismissed = localStorage.getItem(
+			`offer-banner-${offer?.month}-${offer?.year}`,
+		);
 		if (!dismissed && offer) {
 			isVisible = true;
 		}
@@ -42,7 +44,10 @@
 		isVisible = false;
 		// Remember dismissal for this month's offer
 		if (offer) {
-			localStorage.setItem(`offer-banner-${offer.month}-${offer.year}`, "true");
+			localStorage.setItem(
+				`offer-banner-${offer.month}-${offer.year}`,
+				"true",
+			);
 		}
 	}
 </script>
@@ -61,13 +66,16 @@
 					</div>
 					<div class="flex-1 min-w-0">
 						<p class="text-sm md:text-base font-semibold truncate">
-							<span class="hidden sm:inline">{offer.theme}: </span>
+							<span class="hidden sm:inline"
+								>{offer.theme}:
+							</span>
 							{offer.offerFormat}
-							<span class="hidden md:inline"> — {offer.scarcity}</span>
+							<span class="hidden md:inline">
+								{offer.scarcity}</span
+							>
 						</p>
 					</div>
 				</a>
-
 			</div>
 		</div>
 	</div>

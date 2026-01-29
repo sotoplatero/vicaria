@@ -91,7 +91,7 @@ Hamilton restaurants that often show up in food journals:
 ## Bloating Self-Test
 
 ![person checking list on paper](https://images.unsplash.com/photo-1587614382346-4ec71fff46e6)
-*Checklist visual—simple, clean, relatable.*
+*Checklist visual simple, clean, relatable.*
 
 You may want support if:
 

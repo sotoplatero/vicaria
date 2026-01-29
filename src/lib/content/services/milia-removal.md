@@ -20,9 +20,9 @@ faqs:
   - question: "Will it leave scars?"
     answer: "When done properly by medical professionals, milia extraction leaves minimal to no scarring. The micro-openings we create are incredibly small and heal cleanly within days."
   - question: "Can I just squeeze them myself?"
-    answer: "Please don't. Milia don't have a surface opening like pimples do, so squeezing won't work—it'll just irritate your skin, cause redness, and potentially lead to scarring or infection. Let us handle it safely."
+    answer: "Please don't. Milia don't have a surface opening like pimples do, so squeezing won't work it'll just irritate your skin, cause redness, and potentially lead to scarring or infection. Let us handle it safely."
   - question: "Will they come back?"
-    answer: "The specific milia we remove won't come back. However, if you're prone to milia, new ones may develop over time—especially if you use heavy skincare products or have sun damage. We can remove new ones as they appear."
+    answer: "The specific milia we remove won't come back. However, if you're prone to milia, new ones may develop over time especially if you use heavy skincare products or have sun damage. We can remove new ones as they appear."
   - question: "Can I wear makeup after?"
     answer: "We recommend waiting 24 hours to let the tiny openings close completely. After that, makeup is fine."
   - question: "How much does it cost?"
@@ -34,13 +34,13 @@ faqs:
 
 They look like tiny white pearls under your skin.
 
-You've tried exfoliating. You've tried expensive creams. You've definitely considered squeezing them (it doesn't work). They just sit there—around your eyes, on your cheeks, across your nose—refusing to budge.
+You've tried exfoliating. You've tried expensive creams. You've definitely considered squeezing them (it doesn't work). They just sit there around your eyes, on your cheeks, across your nose refusing to budge.
 
 **Here's the truth:** Milia aren't like pimples or blackheads. They're tiny keratin cysts trapped under the skin's surface. No amount of scrubbing or popping will make them go away.
 
 But professional extraction? That works. Fast.
 
-At Vicaria Health, we remove milia safely and effectively—so you can stop obsessing over those little white bumps and get back to feeling confident in your skin.
+At Vicaria Health, we remove milia safely and effectively so you can stop obsessing over those little white bumps and get back to feeling confident in your skin.
 
 ---
 
@@ -48,7 +48,7 @@ At Vicaria Health, we remove milia safely and effectively—so you can stop obse
 
 Let's clear this up.
 
-Milia (singular: milium) are small, hard, white bumps caused by keratin—the same protein that makes up your hair and nails—getting trapped beneath your skin's surface.
+Milia (singular: milium) are small, hard, white bumps caused by keratin the same protein that makes up your hair and nails getting trapped beneath your skin's surface.
 
 They're incredibly common and can show up at any age, though they're especially frequent in:
 - Newborns (baby milia usually go away on their own)
@@ -61,7 +61,7 @@ They're incredibly common and can show up at any age, though they're especially 
 - Forehead
 - Sometimes on the chest or genitals
 
-Milia are **not** whiteheads. They're **not** pimples. They don't have an opening to the skin's surface, which is why squeezing them doesn't work—and can actually cause scarring or infection.
+Milia are **not** whiteheads. They're **not** pimples. They don't have an opening to the skin's surface, which is why squeezing them doesn't work and can actually cause scarring or infection.
 
 ---
 
@@ -127,9 +127,9 @@ Before you commit to treatment, see what's actually possible. These are real res
 
 **After Extraction:**
 - Tiny red marks where the milia were (these fade within a few days)
-- Minimal to no discomfort—most people feel nothing afterward
+- Minimal to no discomfort most people feel nothing afterward
 - You can wear makeup the next day if you want
-- No downtime needed—go right back to your day
+- No downtime needed go right back to your day
 
 **Aftercare is simple:**
 - Keep the area clean
@@ -162,10 +162,10 @@ Most people feel a tiny pinch when we create the opening, but it's brief and ver
 When done properly by medical professionals, milia extraction leaves minimal to no scarring. The micro-openings we create are incredibly small and heal cleanly within days.
 
 **Can I just squeeze them myself?**
-Please don't. Milia don't have a surface opening like pimples do, so squeezing won't work—it'll just irritate your skin, cause redness, and potentially lead to scarring or infection. Let us handle it safely.
+Please don't. Milia don't have a surface opening like pimples do, so squeezing won't work it'll just irritate your skin, cause redness, and potentially lead to scarring or infection. Let us handle it safely.
 
 **Will they come back?**
-The specific milia we remove won't come back. However, if you're prone to milia, new ones may develop over time—especially if you use heavy skincare products or have sun damage. We can remove new ones as they appear.
+The specific milia we remove won't come back. However, if you're prone to milia, new ones may develop over time especially if you use heavy skincare products or have sun damage. We can remove new ones as they appear.
 
 **Can I wear makeup after?**
 We recommend waiting 24 hours to let the tiny openings close completely. After that, makeup is fine.
@@ -196,7 +196,7 @@ No problem. We'll examine the bumps and let you know exactly what they are. Some
 We'll examine your skin, confirm what those white bumps are, and remove them safely so you can stop worrying about them.
 
 
-*Vicaria Health is located in downtown Hamilton and serves clients throughout the city—including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
+*Vicaria Health is located in downtown Hamilton and serves clients throughout the city including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
 
 Stop hiding those white bumps under makeup.
 

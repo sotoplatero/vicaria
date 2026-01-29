@@ -14,9 +14,9 @@ faqs:
   - question: "Is this different from seeing a general dietitian?"
     answer: "Yes. General dietitians provide broad nutrition advice. An IBS nutritionist focuses specifically on digestive symptom patterns, trigger identification, and IBS-specific protocols like Low FODMAP. We understand the nuances of IBS subtypes (IBS-D, IBS-C, IBS-M) and tailor strategies accordingly."
   - question: "Do you help with Low FODMAP diets?"
-    answer: "Absolutely. We're trained in proper Low FODMAP implementation—including when to use it, when NOT to use it, and how to reintroduce foods safely. Most people who 'tried FODMAP and it didn't work' either didn't eliminate properly or got stuck in restriction mode. We guide you through the full process correctly."
+    answer: "Absolutely. We're trained in proper Low FODMAP implementation including when to use it, when NOT to use it, and how to reintroduce foods safely. Most people who 'tried FODMAP and it didn't work' either didn't eliminate properly or got stuck in restriction mode. We guide you through the full process correctly."
   - question: "Can nutrition help IBS without medication?"
-    answer: "For many people, yes. Nutrition is often the primary intervention for IBS symptom management. That said, we work alongside your medical team—not instead of them. Some clients use nutrition as their main strategy, others combine it with medication or other therapies."
+    answer: "For many people, yes. Nutrition is often the primary intervention for IBS symptom management. That said, we work alongside your medical team not instead of them. Some clients use nutrition as their main strategy, others combine it with medication or other therapies."
   - question: "How long does it take to see improvement?"
     answer: "Most clients notice symptom changes within 2-4 weeks as we identify and adjust triggers. Building long-term stability takes 2-3 months as we fine-tune your personalized approach and establish sustainable eating patterns."
   - question: "Do you offer virtual sessions?"
@@ -31,9 +31,11 @@ You've been here before: standing in front of the fridge, trying to remember wha
 
 If you're searching for an IBS dietitian near you, you already know generic nutrition advice doesn't cut it. "Eat more fiber." "Avoid spicy foods." "Just relax." None of that helps when your symptoms feel random and your triggers seem invisible.
 
+**You're not dealing with a rare problem.** According to the International Foundation for Gastrointestinal Disorders (IFFGD), IBS affects 10-15% of adults worldwide, and it's one of the most common reasons people visit gastroenterologists. The Canadian Digestive Health Foundation reports that IBS impacts over 5 million Canadians—yet most struggle to find effective, personalized management strategies.
+
 **You don't need more diet rules. You need someone who understands IBS specifically** and can help you figure out what's actually going on in your gut.
 
-That's exactly what we do. We work with people in Hamilton—and virtually across Ontario—who are tired of guessing and ready for a systematic, personalized approach to managing IBS through nutrition.
+That's exactly what we do. We work with people in Hamilton and virtually across Ontario who are tired of guessing and ready for a systematic, personalized approach to managing IBS through nutrition.
 
 ---
 
@@ -42,14 +44,17 @@ That's exactly what we do. We work with people in Hamilton—and virtually acros
 This is for you if you're dealing with:
 
 - **Ongoing bloating, gas, or abdominal pain** that disrupts your day
-- **Alternating constipation and diarrhea** (or mostly one or the other)
+- **Alternating constipation and diarrhea** (or mostly one or the other)—IBS-D, IBS-C, or IBS-M
 - **Symptoms triggered by food** but you can't figure out the pattern
 - **IBS diagnosis or suspected IBS** and you don't know where to start
 - **Tried generic diets** (gluten-free, dairy-free, "clean eating") without lasting success
 - **Avoiding more and more foods** out of fear, with no clear improvement
 - **Social anxiety around eating** because you never know how your body will react
+- **Gut-brain axis issues** where stress directly triggers your digestive symptoms
 
-If you're planning your life around bathroom access or turning down invitations because food situations feel unpredictable—**this is for you.**
+Many of our clients come to us with [chronic digestive problems](/service/chronic-digestive-problems) or [bloating relief](/service/bloating-relief) needs before we identify IBS as the root cause. We work with all of it.
+
+If you're planning your life around bathroom access or turning down invitations because food situations feel unpredictable **this is for you.**
 
 We serve clients throughout Hamilton (Westdale, Dundas, Ancaster, Stoney Creek, the Mountain) and virtually across Ontario. Whether you're looking for a dietician for IBS near you or prefer remote support, we'll build a plan that fits your life.
 
@@ -69,7 +74,7 @@ That meal plan that worked for your friend with IBS? Probably won't work for you
 
 ### We Use a Symptom-Driven Approach
 
-Instead of eliminating random "common IBS triggers," we track your actual symptoms to identify what's really causing problems. We're looking for connections you might not see on your own—timing patterns, food combinations, stress interactions, sleep impacts.
+Instead of eliminating random "common IBS triggers," we track your actual symptoms to identify what's really causing problems. We're looking for connections you might not see on your own timing patterns, food combinations, stress interactions, sleep impacts.
 
 ### We Know When to Use Low FODMAP (and When Not To)
 
@@ -81,7 +86,7 @@ Low FODMAP isn't a lifelong diet. It's a diagnostic tool. We're trained FODMAP n
 
 **If you're looking for a dietician for IBS near you who actually understands these nuances, you're in the right place.**
 
-We're located in downtown Hamilton and work with clients across the city—plus virtual clients who want IBS-specific expertise without geographic limits.
+We're located in downtown Hamilton and work with clients across the city plus virtual clients who want IBS-specific expertise without geographic limits.
 
 ---
 
@@ -93,7 +98,7 @@ You've probably heard of the Low FODMAP diet. Maybe you've tried it. Maybe you'r
 
 ### When Low FODMAP Helps
 
-Low FODMAP is one of the most effective interventions for IBS—**when used correctly**. Research shows about 75% of people with IBS see symptom improvement during the elimination phase.
+Low FODMAP is one of the most effective interventions for IBS **when used correctly**. Research shows about 75% of people with IBS see symptom improvement during the elimination phase.
 
 It works best for:
 - IBS with bloating and gas as primary symptoms
@@ -159,7 +164,7 @@ Based on your assessment, we build your initial protocol. This might include:
 - Targeted elimination (Low FODMAP or other approaches)
 - Specific fiber adjustments based on your IBS subtype
 - Meal timing and eating rhythm strategies
-- Supplements if appropriate (we don't guess—we recommend based on evidence)
+- Supplements if appropriate (we don't guess we recommend based on evidence)
 
 **You'll know exactly what to do, why you're doing it, and what to expect.**
 
@@ -193,11 +198,11 @@ We're located in downtown Hamilton and work with clients across the city:
 - **Virtual sessions** for clients anywhere in Ontario
 - **Flexible scheduling** because we know IBS doesn't respect a 9-5 schedule
 
-Whether you're in Westdale, on the Mountain, in Dundas, Ancaster, Waterdown, Stoney Creek, or Burlington—**you have options.**
+Whether you're in Westdale, on the Mountain, in Dundas, Ancaster, Waterdown, Stoney Creek, or Burlington **you have options.**
 
 Looking for a **nutritionist specializing in IBS near you** who actually gets it? You're in the right place.
 
-Many of our IBS clients prefer virtual sessions (no commute stress, no worrying about symptoms during travel). Others appreciate in-person support. Both work equally well—**you choose what fits your needs.**
+Many of our IBS clients prefer virtual sessions (no commute stress, no worrying about symptoms during travel). Others appreciate in-person support. Both work equally well **you choose what fits your needs.**
 
 ---
 
@@ -205,7 +210,7 @@ Many of our IBS clients prefer virtual sessions (no commute stress, no worrying 
 
 **Is this different from seeing a general dietitian?**
 
-Yes. A general dietitian covers broad nutrition topics. We focus specifically on IBS—symptom patterns, trigger identification, IBS-specific protocols like Low FODMAP, and the gut-brain connection that most practitioners miss.
+Yes. A general dietitian covers broad nutrition topics. We focus specifically on IBS symptom patterns, trigger identification, IBS-specific protocols like Low FODMAP, and the gut-brain connection that most practitioners miss.
 
 We've worked with clients who saw general dietitians and got generic advice ("eat more fiber," "avoid dairy") that didn't address their specific triggers or IBS subtype.
 
@@ -223,7 +228,7 @@ We're **FODMAP nutritionists** who use the protocol strategically, not as a perm
 
 For many people, yes. Nutrition is often the primary intervention for IBS symptom management. Research shows dietary changes can be as effective as medication for many IBS patients.
 
-That said, we work alongside your medical team—we don't replace them. Some clients manage IBS primarily through nutrition. Others combine it with medications or other therapies.
+That said, we work alongside your medical team we don't replace them. Some clients manage IBS primarily through nutrition. Others combine it with medications or other therapies.
 
 **How long does it take to see improvement?**
 
@@ -246,7 +251,7 @@ Most elimination diets fail for predictable reasons:
 - No systematic reintroduction (getting stuck in restriction)
 - Not addressing other IBS factors (stress, eating patterns, gut-brain axis)
 
-**We use evidence-based, systematic approaches** that identify YOUR specific patterns and help you build a sustainable, diverse diet—not permanent restriction.
+**We use evidence-based, systematic approaches** that identify YOUR specific patterns and help you build a sustainable, diverse diet not permanent restriction.
 
 If you've tried elimination before and it didn't work, that doesn't mean YOU failed. It usually means the approach was flawed.
 
@@ -254,7 +259,7 @@ If you've tried elimination before and it didn't work, that doesn't mean YOU fai
 
 We offer a free 15-minute consultation to discuss your IBS symptoms, what you've tried, and whether our approach makes sense for your situation.
 
-Program details and pricing are covered during that conversation based on your specific needs. No pressure, no sales pitch—just an honest discussion about what it takes to manage IBS effectively.
+Program details and pricing are covered during that conversation based on your specific needs. No pressure, no sales pitch just an honest discussion about what it takes to manage IBS effectively.
 
 ---
 

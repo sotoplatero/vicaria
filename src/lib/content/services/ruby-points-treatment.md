@@ -16,17 +16,17 @@ image: "/images/services/skin-tag-removal.jpg"
 order: 3
 faqs:
   - question: "Does it hurt?"
-    answer: "Most people describe it as a brief warm sensation or tiny pinch. The process is very quick—seconds per ruby point—so any discomfort is over almost immediately. We work efficiently and gently."
+    answer: "Most people describe it as a brief warm sensation or tiny pinch. The process is very quick seconds per ruby point so any discomfort is over almost immediately. We work efficiently and gently."
   - question: "Will it leave scars?"
     answer: "When done properly by medical professionals, ruby point removal leaves minimal to no scarring. You may have slight discoloration for a few weeks while the skin heals, but it typically fades completely."
   - question: "Are ruby points dangerous?"
-    answer: "No. Cherry angiomas are benign and won't turn into cancer. However, they can bleed if scratched or irritated because they're made of blood vessels. If you notice sudden changes in size, shape, or color, it's worth having a doctor examine them—but most ruby points are completely harmless."
+    answer: "No. Cherry angiomas are benign and won't turn into cancer. However, they can bleed if scratched or irritated because they're made of blood vessels. If you notice sudden changes in size, shape, or color, it's worth having a doctor examine them but most ruby points are completely harmless."
   - question: "Will they come back?"
     answer: "The specific ruby points we remove won't grow back. However, if you're prone to developing cherry angiomas, new ones may appear elsewhere over time. We can treat those as they develop."
   - question: "How much does it cost?"
     answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you transparent pricing during your consultation."
   - question: "Can I just leave them alone?"
-    answer: "Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons—they want clear, even-toned skin without red spots. It's entirely your choice."
+    answer: "Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons they want clear, even-toned skin without red spots. It's entirely your choice."
 ---
 <script>
   import BeforeAfter from '$lib/components/service/BeforeAfter.svelte';
@@ -34,13 +34,13 @@ faqs:
 
 They look like tiny red dots scattered across your skin.
 
-Maybe you've had one or two for years. Maybe they're multiplying—showing up on your chest, arms, stomach, back. They're small, bright red, and they stand out every time you look in the mirror.
+Maybe you've had one or two for years. Maybe they're multiplying showing up on your chest, arms, stomach, back. They're small, bright red, and they stand out every time you look in the mirror.
 
-You've Googled them. You've wondered if they're dangerous. You know they're not [skin tags](/service/skin-tag-removal) (those are flesh-colored and hang off), not [milia](/service/milia-removal) (those are white bumps), and not [seborrheic keratoses](/service/seborrheic-keratosis-removal) (those are brown and waxy). These are something different—small red spots that won't go away.
+You've Googled them. You've wondered if they're dangerous. You know they're not [skin tags](/service/skin-tag-removal) (those are flesh-colored and hang off), not [milia](/service/milia-removal) (those are white bumps), and not [seborrheic keratoses](/service/seborrheic-keratosis-removal) (those are brown and waxy). These are something different small red spots that won't go away.
 
 You've thought about covering them with makeup or just learning to live with them.
 
-**Here's what you need to know:** Ruby points (also called cherry angiomas) are harmless. But they're stubborn—they won't fade or disappear on their own. And they tend to multiply as you age.
+**Here's what you need to know:** Ruby points (also called cherry angiomas) are harmless. But they're stubborn they won't fade or disappear on their own. And they tend to multiply as you age.
 
 The good news? We can remove them quickly, safely, and permanently.
 
@@ -50,7 +50,7 @@ The good news? We can remove them quickly, safely, and permanently.
 
 Let's get clear on what these are.
 
-Ruby points—medically called cherry angiomas—are small, bright red bumps made of clustered blood vessels. They're incredibly common, especially in adults over 30.
+Ruby points medically called cherry angiomas are small, bright red bumps made of clustered blood vessels. They're incredibly common, especially in adults over 30.
 
 **What they look like:**
 - Tiny red or purple dots (usually 1-4mm in diameter)
@@ -65,7 +65,7 @@ Ruby points—medically called cherry angiomas—are small, bright red bumps mad
 - Face and scalp
 - Legs
 
-They're **benign**—not cancerous, not dangerous. But if you bump or scratch one, it can bleed quite a bit because they're made of blood vessels.
+They're **benign** not cancerous, not dangerous. But if you bump or scratch one, it can bleed quite a bit because they're made of blood vessels.
 
 Most people develop more ruby points as they age. They don't go away on their own, and there's no cream or lotion that will make them disappear.
 
@@ -81,13 +81,13 @@ Maybe you've tried covering them with makeup. Maybe you've resigned yourself to 
 
 **Here's the reality:** Ruby point removal is straightforward, quick, and done by medical professionals. Most people wish they'd done it sooner.
 
-We see patients from all over Hamilton—Westdale, the Mountain, Dundas, Ancaster, Stoney Creek—who are tired of seeing red spots multiply and just want clear, even-toned skin.
+We see patients from all over Hamilton Westdale, the Mountain, Dundas, Ancaster, Stoney Creek who are tired of seeing red spots multiply and just want clear, even-toned skin.
 
 ---
 
 ## How We Remove Ruby Points
 
-We use **electrocautery**—a precise, medical technique that removes cherry angiomas cleanly and effectively.
+We use **electrocautery** a precise, medical technique that removes cherry angiomas cleanly and effectively.
 
 **Here's how it works:**
 
@@ -130,13 +130,13 @@ Before you commit to treatment, see what's actually possible. These are real res
 
 **After Treatment:**
 - Small scabs where the ruby points were (these fall off within a week or two)
-- Minimal discomfort—most people feel nothing afterward
+- Minimal discomfort most people feel nothing afterward
 - Keep the area clean and dry while it heals
-- No downtime needed—you can return to normal activities right away
+- No downtime needed you can return to normal activities right away
 
 **Healing:**
 - Treated areas form tiny scabs that fall off naturally
-- Don't pick at them—let them heal on their own
+- Don't pick at them let them heal on their own
 - Once healed, skin tone evens out and the red spots are gone
 - Minimal to no scarring when done properly
 
@@ -160,13 +160,13 @@ Even sensitive areas are safe when treated by medical professionals using proper
 ## Frequently Asked Questions
 
 **Does it hurt?**
-Most people describe it as a brief warm sensation or tiny pinch. The process is very quick—seconds per ruby point—so any discomfort is over almost immediately. We work efficiently and gently.
+Most people describe it as a brief warm sensation or tiny pinch. The process is very quick seconds per ruby point so any discomfort is over almost immediately. We work efficiently and gently.
 
 **Will it leave scars?**
 When done properly by medical professionals, ruby point removal leaves minimal to no scarring. You may have slight discoloration for a few weeks while the skin heals, but it typically fades completely.
 
 **Are ruby points dangerous?**
-No. Cherry angiomas are benign and won't turn into cancer. However, they can bleed if scratched or irritated because they're made of blood vessels. If you notice sudden changes in size, shape, or color, it's worth having a doctor examine them—but most ruby points are completely harmless.
+No. Cherry angiomas are benign and won't turn into cancer. However, they can bleed if scratched or irritated because they're made of blood vessels. If you notice sudden changes in size, shape, or color, it's worth having a doctor examine them but most ruby points are completely harmless.
 
 **Will they come back?**
 The specific ruby points we remove won't grow back. However, if you're prone to developing cherry angiomas, new ones may appear elsewhere over time. We can treat those as they develop.
@@ -175,7 +175,7 @@ The specific ruby points we remove won't grow back. However, if you're prone to 
 Pricing depends on how many ruby points you're having removed. We'll give you transparent pricing during your consultation. Most people find it more affordable than expected.
 
 **Can I just leave them alone?**
-Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons—they want clear, even-toned skin without red spots. It's entirely your choice.
+Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons they want clear, even-toned skin without red spots. It's entirely your choice.
 
 **What if they start bleeding?**
 If you accidentally scratch or irritate a ruby point and it bleeds, apply gentle pressure with a clean cloth until the bleeding stops. They can bleed more than you'd expect because they're clusters of blood vessels, but the bleeding will stop. If it happens frequently, that's a good reason to have them removed.

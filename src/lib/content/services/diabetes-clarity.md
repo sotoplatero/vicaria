@@ -27,13 +27,13 @@ faqs:
 
 You check your blood sugar religiously. You count every carb. You follow the meal plan your doctor printed out.
 
-And still—your numbers swing wildly. Your energy crashes at 2 PM. You're always thinking about food but never sure what's actually safe to eat.
+And still your numbers swing wildly. Your energy crashes at 2 PM. You're always thinking about food but never sure what's actually safe to eat.
 
 Your A1C creeps up despite your best efforts. Your doctor mentions adding another medication. You feel like you're doing everything right, but nothing's actually improving.
 
-**Here's what nobody tells you:** Generic diabetes advice doesn't work because it doesn't account for your unique metabolism, lifestyle, or the other factors driving your blood sugar instability.
+**Here's what nobody tells you:** You're not alone. According to Diabetes Canada, approximately 11.7 million Canadians are living with diabetes or prediabetes—and many struggle with blood sugar management despite their best efforts. The CDC's Diabetes Prevention Program research shows that personalized nutrition and lifestyle changes can reduce the risk of developing Type 2 diabetes by 58% and lower A1C by 0.5-1.5% with the right support. Generic diabetes advice doesn't work because it doesn't account for your unique metabolism, lifestyle, or the other factors driving your blood sugar instability.
 
-We work with people right here in Hamilton—from Westdale to the Mountain, Dundas to Stoney Creek—who are tired of guessing and ready for a personalized approach that actually brings stability and freedom.
+We work with people right here in Hamilton from Westdale to the Mountain, Dundas to Stoney Creek who are tired of guessing and ready for a personalized approach that actually brings stability and freedom.
 
 ---
 
@@ -56,8 +56,9 @@ Your glucose levels are affected by:
 - **Inflammation and gut health** Underlying inflammation makes insulin less effective
 - **Activity patterns** Not just "exercise more" but strategic movement timing around meals
 - **Medication timing** How and when you take your medications affects their effectiveness
+- **Insulin resistance patterns** Understanding your body's response to glucose and insulin
 
-At Vicaria Health, we're in downtown Hamilton. We see people in our office or virtually—whatever works for you. Whether you're walking over from Durand or logging in from Ancaster, we build protocols based on your specific patterns, not textbook recommendations.
+At Vicaria Health, we're in downtown Hamilton. We see people in our office or virtually whatever works for you. Whether you're walking over from Durand or logging in from Ancaster, we build protocols based on your specific patterns, not textbook recommendations.
 
 ---
 
@@ -66,7 +67,7 @@ At Vicaria Health, we're in downtown Hamilton. We see people in our office or vi
 We use a root-cause, personalized approach built on three pillars:
 
 **Food Strategies That Work With Your Real Life**
-No bland, restrictive meal plans you'll hate by Wednesday. We show you how to build plates that stabilize blood sugar while including foods you actually enjoy—even meals from your favorite Hamilton spots. You'll learn meal timing, food pairing, and portion strategies that keep your glucose steady without obsessive counting.
+No bland, restrictive meal plans you'll hate by Wednesday. We show you how to build plates that stabilize blood sugar while including foods you actually enjoy even meals from your favorite Hamilton spots. You'll learn meal timing, food pairing, and portion strategies that keep your glucose steady without obsessive counting.
 
 **Lifestyle Patterns That Lower Insulin Resistance**
 Sleep quality, stress management, and movement timing all dramatically impact blood sugar. We help you optimize these factors so your body becomes more insulin-sensitive and your medications work better. Small shifts in your daily rhythm can drop your A1C by a full point or more.
@@ -98,29 +99,29 @@ Chronic stress keeps your blood sugar elevated no matter how perfectly you eat. 
 - You want to prevent diabetes complications and take control now
 - You're ready to invest in real solutions instead of just managing symptoms
 
-We work with people from all over Hamilton and the surrounding areas—Dundas, Waterdown, Binbrook, Stoney Creek, Burlington. If you can get to downtown Hamilton or hop on a video call, we can work together.
+We work with people from all over Hamilton and the surrounding areas Dundas, Waterdown, Binbrook, Stoney Creek, Burlington. If you can get to downtown Hamilton or hop on a video call, we can work together.
 
 ---
 
 ## Questions You Probably Have
 
 **Will this replace my medication?**
-No. We work alongside your doctor, not instead of them. Many of our clients eventually reduce their medication dosages with their physician's approval as their blood sugar stabilizes and insulin sensitivity improves. But that's a decision you make with your doctor—we never touch your medications.
+No. We work alongside your doctor, not instead of them. Many of our clients eventually reduce their medication dosages with their physician's approval as their blood sugar stabilizes and insulin sensitivity improves. But that's a decision you make with your doctor we never touch your medications.
 
 **Do you work with Type 1 diabetes?**
 Yes. While Type 1 requires insulin, we help optimize meal timing, carb counting accuracy, insulin-to-carb ratios, and lifestyle factors that affect insulin sensitivity. Many Type 1 clients see more stable glucose patterns and reduced insulin requirements.
 
 **How fast will I see results?**
-Most people notice more stable energy and fewer blood sugar swings within 2-3 weeks. A1C changes take 8-12 weeks to show up on lab work since it reflects a 3-month average. Consistency is key—this isn't a quick fix, but sustainable change that lasts.
+Most people notice more stable energy and fewer blood sugar swings within 2-3 weeks. A1C changes take 8-12 weeks to show up on lab work since it reflects a 3-month average. Consistency is key this isn't a quick fix, but sustainable change that lasts.
 
 **What if I'm prediabetic, not diabetic yet?**
-Perfect. This is the ideal time to intervene. With the right nutrition and lifestyle changes, many people reverse prediabetes and never progress to full diabetes. Prevention is way easier than management.
+Perfect. This is the ideal time to intervene. With the right nutrition and lifestyle changes, many people reverse prediabetes and never progress to full diabetes. Prevention is way easier than management. If you're specifically focused on prediabetes reversal, our [Prediabetes Nutrition Support](/service/prediabetes-nutrition-support) program specializes in that exact transition.
 
 **Do I have to give up all the foods I love?**
-No. We don't do deprivation diets. You'll learn how to include foods you enjoy while keeping blood sugar stable. It's about strategy—food pairing, portion awareness, timing—not restriction.
+No. We don't do deprivation diets. You'll learn how to include foods you enjoy while keeping blood sugar stable. It's about strategy food pairing, portion awareness, timing not restriction.
 
 **How much time does this take?**
-We meet once a week for 30-45 minutes. The changes you make don't add hours to your day—they replace habits you're already doing. Small tweaks, not a life overhaul.
+We meet once a week for 30-45 minutes. The changes you make don't add hours to your day they replace habits you're already doing. Small tweaks, not a life overhaul.
 
 **What about continuous glucose monitors (CGMs)?**
 If you have one, we can use your CGM data to fine-tune your protocol in real-time. If you don't, we can guide you on whether getting one would be helpful or work with traditional finger-stick readings.
@@ -129,7 +130,7 @@ If you have one, we can use your CGM data to fine-tune your protocol in real-tim
 Absolutely. We encourage it. Many of our clients share their progress with their doctors, and most physicians are thrilled to see genuine improvement. We're happy to communicate with your healthcare team.
 
 **What if I've already tried everything?**
-Good. That means you know what doesn't work. Most people who come to us have tried multiple approaches without lasting success. The difference here is we don't do cookie-cutter protocols—we build something specific to your metabolism, patterns, and life.
+Good. That means you know what doesn't work. Most people who come to us have tried multiple approaches without lasting success. The difference here is we don't do cookie-cutter protocols we build something specific to your metabolism, patterns, and life.
 
 ---
 
