@@ -21,9 +21,10 @@
 </svelte:head>
 
 <div data-theme="vicaria">
+	<a href="#main-content" class="skip-to-content">Skip to main content</a>
 	<OfferBanner />
 	<Header />
-	<main>
+	<main id="main-content">
 		{@render children?.()}
 	</main>
 	<Footer />

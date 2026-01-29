@@ -39,7 +39,10 @@
       "Bash(git -C \"C:\\Users\\soto\\projects\\vicaria\" log --oneline -10)",
       "Bash(pnpm run generate:quiz:*)",
       "Bash(git commit -m \"$(cat <<''EOF''\nfix: update GitHub Actions to use pnpm v10\n\nUpdate both workflows to use pnpm v10 to match local development\nenvironment and resolve lockfile compatibility issues.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
-      "Bash(git push)"
+      "Bash(git push)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "mcp__plugin_playwright_playwright__browser_close"
     ],
     "deny": [],
     "ask": []

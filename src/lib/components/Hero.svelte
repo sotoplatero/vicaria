@@ -28,13 +28,15 @@
 	<div class="container-custom relative z-10">
 		<div class="grid lg:grid-cols-2 gap-16 items-center">
 			<!-- Content Column -->
-			<div class="text-center lg:text-left space-y-4 animate-fade-up">
+			<div class="text-center lg:text-left space-y-4 animate-staggered">
 				<!-- Headline -->
 				<h1
 					class="text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal tracking-tighter"
 				>
 					Hamilton's Most
-					<span class="text-primary">Trusted Nutritionist</span>
+					<span class="gradient-text-premium"
+						>Trusted Nutritionist</span
+					>
 				</h1>
 
 				<!-- Subheadline -->
@@ -98,7 +100,8 @@
 					fetchpriority="high"
 					loading="eager"
 					decoding="async"
-					class="max-h-full object-cover"
+					style="aspect-ratio: 800/1200;"
+					class="max-h-full object-cover transition-transform hover:scale-102 duration-500"
 				/>
 			</div>
 		</div>

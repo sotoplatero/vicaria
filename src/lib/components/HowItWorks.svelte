@@ -1,55 +1,69 @@
 <script lang="ts">
-	import { MessageCircle, FileText, TrendingUp } from '@lucide/svelte';
-	import WhatsAppButton from './WhatsAppButton.svelte';
+	import { MessageCircle, FileText, TrendingUp } from "@lucide/svelte";
+	import WhatsAppButton from "./WhatsAppButton.svelte";
 
 	const steps = [
 		{
 			number: 1,
 			icon: MessageCircle,
-			title: 'Chat With Us on WhatsApp',
-			description: 'Send us a message directly on WhatsApp to discuss your health goals and current challenges. ',
-			duration: 'Instant reply',
-			color: 'primary'
+			title: "Chat With Us on WhatsApp",
+			description:
+				"Send us a message directly on WhatsApp to discuss your health goals and current challenges. ",
+			duration: "Instant reply",
+			colorClass: "bg-primary",
 		},
 		{
 			number: 2,
 			icon: FileText,
-			title: 'Get Your Personalized Plan',
-			description: 'Receive a customized nutrition plan tailored to your symptoms, lifestyle, and preferences.',
-			duration: 'Within 48 hours',
-			color: 'secondary'
+			title: "Get Your Personalized Plan",
+			description:
+				"Receive a customized nutrition plan tailored to your symptoms, lifestyle, and preferences.",
+			duration: "Within 48 hours",
+			colorClass: "bg-secondary",
 		},
 		{
 			number: 3,
 			icon: TrendingUp,
-			title: 'Start Your Healing Journey',
-			description: 'Begin implementing your plan with ongoing support, check-ins, and adjustments.',
-			duration: 'Ongoing',
-			color: 'accent'
-		}
+			title: "Start Your Healing Journey",
+			description:
+				"Begin implementing your plan with ongoing support, check-ins, and adjustments.",
+			duration: "Ongoing",
+			colorClass: "bg-accent",
+		},
 	];
 </script>
 
-<section id="how-it-works" class="section-padding bg-gradient-to-b from-warm-white to-base-200 relative overflow-hidden">
+<section
+	id="how-it-works"
+	class="section-padding bg-gradient-to-b from-warm-white to-base-200 relative overflow-hidden"
+>
 	<!-- Background decoration -->
-	<div class="absolute top-1/2 left-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl"></div>
-	<div class="absolute bottom-0 right-0 w-96 h-96 bg-secondary/5 rounded-full blur-3xl"></div>
+	<div
+		class="absolute top-1/2 left-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl"
+	></div>
+	<div
+		class="absolute bottom-0 right-0 w-96 h-96 bg-secondary/5 rounded-full blur-3xl"
+	></div>
 
 	<div class="container-custom relative z-10">
 		<!-- Section Header -->
 		<div class="text-center max-w-3xl mx-auto mb-24 space-y-6">
-			<div class="inline-flex items-center gap-2 glass px-5 py-2.5 rounded-full shadow-sm">
-				<span class="w-2 h-2 rounded-full bg-secondary animate-pulse"></span>
-				<span class="text-sm font-medium text-secondary">Simple Process</span>
+			<div class="badge badge-primary badge-outline">
+				<span class="w-2 h-2 rounded-full bg-primary animate-pulse"
+				></span>
+				Simple Process
 			</div>
 
-			<h2 class="text-4xl md:text-5xl lg:text-6xl font-bold text-charcoal leading-tight tracking-tight">
+			<h2
+				class="text-4xl md:text-5xl lg:text-6xl font-bold text-charcoal leading-tight tracking-tight"
+			>
 				Your Path to Better Health
 				<span class="text-secondary block">in 3 Simple Steps</span>
 			</h2>
 
 			<p class="text-xl text-gray-600 leading-relaxed font-light">
-				Getting started is easy. We've streamlined the process so you can begin feeling better as soon as possible.
+				Getting started is easy. We've streamlined the process so you
+				can begin feeling better as soon as possible.
 			</p>
 		</div>
 
@@ -57,36 +71,65 @@
 		<div class="max-w-6xl mx-auto">
 			<div class="grid lg:grid-cols-3 gap-12 relative">
 				<!-- Connection Line (Desktop) -->
-				<div class="hidden lg:block absolute top-16 left-[16.66%] right-[16.66%] h-0.5 bg-gradient-to-r from-primary via-secondary to-accent"></div>
+				<div
+					class="hidden lg:block absolute top-16 left-[16.66%] right-[16.66%] h-0.5 bg-gradient-to-r from-primary via-secondary to-accent"
+				></div>
 
 				{#each steps as step, index}
-					<div class="relative" style="animation-delay: {index * 150}ms">
+					<div
+						class="relative"
+						style="animation-delay: {index * 150}ms"
+					>
 						<!-- Step Card -->
-						<div class="group text-center relative bg-white rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-500 overflow-hidden border border-gray-100">
+						<div
+							class="card-premium group text-center relative bg-white rounded-3xl shadow-premium hover:shadow-premium-hover transition-all duration-500 overflow-hidden border border-gray-100 hover-premium"
+						>
 							<!-- Gradient overlay on hover -->
-							<div class="absolute inset-0 bg-gradient-to-br from-{step.color}/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+							<div
+								class="absolute inset-0 bg-gradient-to-br from-primary/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"
+							></div>
 
 							<div class="relative p-8 space-y-6">
 								<!-- Number Badge -->
 								<div class="relative inline-flex">
-									<div class="w-16 h-16 rounded-2xl bg-secondary text-white font-bold text-2xl flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:rotate-3 group-hover:bg-primary transition-all duration-300">
+									<div
+										class="w-16 h-16 rounded-2xl {step.colorClass} text-white font-bold text-2xl flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:rotate-3 group-hover:bg-primary transition-all duration-300"
+									>
 										{step.number}
 									</div>
 									<!-- Glow effect -->
-									<div class="absolute inset-0 bg-accent/30 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+									<div
+										class="absolute inset-0 bg-accent/30 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+									></div>
 								</div>
 
 								<!-- Content -->
 								<div class="space-y-3">
-									<h3 class="text-2xl font-bold text-charcoal group-hover:text-primary transition-colors">
+									<h3
+										class="text-2xl font-bold text-charcoal group-hover:text-primary transition-colors"
+									>
 										{step.title}
 									</h3>
 
-									<div class="inline-flex items-center gap-2 bg-secondary/10 px-3 py-1.5 rounded-full">
-										<svg class="w-4 h-4 text-secondary" fill="currentColor" viewBox="0 0 20 20">
-											<path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd" />
+									<div
+										class="inline-flex items-center gap-2 bg-secondary/10 px-3 py-1.5 rounded-full"
+									>
+										<svg
+											class="w-4 h-4 text-secondary"
+											fill="currentColor"
+											viewBox="0 0 20 20"
+											aria-hidden="true"
+										>
+											<path
+												fill-rule="evenodd"
+												d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z"
+												clip-rule="evenodd"
+											/>
 										</svg>
-										<span class="text-sm font-medium text-secondary">{step.duration}</span>
+										<span
+											class="text-sm font-medium text-secondary"
+											>{step.duration}</span
+										>
 									</div>
 
 									<p class="text-gray-600 leading-relaxed">
@@ -96,14 +139,25 @@
 							</div>
 
 							<!-- Bottom highlight bar -->
-							<div class="h-1 bg-gradient-to-r from-{step.color}/0 via-{step.color} to-{step.color}/0 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500"></div>
+							<div
+								class="h-1 bg-gradient-to-r from-primary/0 via-primary to-primary/0 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500"
+							></div>
 						</div>
 
 						<!-- Arrow Connector (Mobile) -->
 						{#if index < steps.length - 1}
 							<div class="flex lg:hidden justify-center my-8">
-								<svg class="w-8 h-8 text-{step.color}/30" fill="currentColor" viewBox="0 0 20 20">
-									<path fill-rule="evenodd" d="M14.707 10.293a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 111.414-1.414L9 12.586V5a1 1 0 012 0v7.586l2.293-2.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+								<svg
+									class="w-8 h-8 text-primary/30"
+									fill="currentColor"
+									viewBox="0 0 20 20"
+									aria-hidden="true"
+								>
+									<path
+										fill-rule="evenodd"
+										d="M14.707 10.293a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 111.414-1.414L9 12.586V5a1 1 0 012 0v7.586l2.293-2.293a1 1 0 011.414 0z"
+										clip-rule="evenodd"
+									/>
 								</svg>
 							</div>
 						{/if}
@@ -115,14 +169,17 @@
 		<!-- Bottom CTA -->
 		<div class="text-center mt-20 space-y-8">
 			<div class="space-y-4">
-				<h3 class="text-3xl md:text-4xl font-bold text-charcoal">Ready to Transform Your Health?</h3>
+				<h3 class="text-3xl md:text-4xl font-bold text-charcoal">
+					Ready to Transform Your Health?
+				</h3>
 				<p class="text-lg text-gray-600 max-w-2xl mx-auto">
-					Join hundreds of satisfied clients who have transformed their health with personalized nutrition coaching.
+					Join hundreds of satisfied clients who have transformed
+					their health with personalized nutrition coaching.
 				</p>
 			</div>
 
 			<div class="flex flex-col sm:flex-row gap-4 justify-center">
-				<WhatsAppButton size="xl" variant="primary"	/>
+				<WhatsAppButton size="xl" variant="primary" />
 			</div>
 		</div>
 	</div>
