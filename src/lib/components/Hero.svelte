@@ -34,9 +34,7 @@
 					class="text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal tracking-tighter"
 				>
 					Hamilton's Most
-					<span class="gradient-text-premium"
-						>Trusted Nutritionist</span
-					>
+					<span class="text-primary">Trusted Nutritionist</span>
 				</h1>
 
 				<!-- Subheadline -->

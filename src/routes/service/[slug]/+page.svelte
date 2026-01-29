@@ -41,6 +41,7 @@
 		content={metadata.description ||
 			"Professional health coaching services in Hamilton"}
 	/>
+	<link rel="canonical" href={data?.canonical} />
 	<!-- Open Graph -->
 	<meta property="og:title" content={metadata.title} />
 	<meta property="og:description" content={metadata.description} />

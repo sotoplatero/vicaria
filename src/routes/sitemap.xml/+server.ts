@@ -12,12 +12,21 @@ export async function GET() {
 	const staticPages = Object.keys(pageFiles)
 		.map((path) => {
 			// Convert file path to URL path
-			// /src/routes/+page.svelte -> ''
-			// /src/routes/about/+page.svelte -> 'about'
+			// /src/routes/+page.svelte -> /
+			// /src/routes/about/+page.svelte -> /about
 			let url = path
 				.replace('/src/routes', '')
-				.replace("+page.svelte", '')
-				.replace(/\/$/, ''); //	 Remove leading slash
+				.replace('/+page.svelte', '')
+				.replace('+page.svelte', '');
+
+			// Ensure URL starts with /
+			if (!url.startsWith('/')) {
+				url = '/' + url;
+			}
+			// Remove trailing slash (except for root)
+			if (url !== '/' && url.endsWith('/')) {
+				url = url.slice(0, -1);
+			}
 
 			// Exclude dynamic routes (with brackets) and special routes
 			if (url.includes('[') || url.includes('sitemap') || url.includes('robots')) {
@@ -26,39 +35,31 @@ export async function GET() {
 
 			// Determine priority based on page
 			let priority = 0.8;
-			let changefreq = 'monthly';
 
-			if (url === '') {
-				// Home page
+			if (url === '/') {
 				priority = 1.0;
-				changefreq = 'weekly';
-			} else if (url === 'contact' || url === 'about') {
-				// Important pages
+			} else if (url === '/service' || url.startsWith('/service/')) {
 				priority = 0.9;
-				changefreq = 'weekly';
+			} else if (url === '/contact' || url === '/about' || url === '/free-consultation') {
+				priority = 0.9;
 			}
 
-			return {
-				url,
-				changefreq,
-				priority,
-				lastmod: new Date().toISOString()
-			};
+			return { url, priority };
 		})
-		.filter(Boolean); // Remove null entries
+		.filter((page): page is { url: string; priority: number } => page !== null);
 
 	// Dynamic service pages
 	const servicePages = services.map((service) => ({
 		url: `/service/${service.slug}`,
-		changefreq: 'weekly',
-		priority: 0.9,
-		lastmod: new Date().toISOString()
+		priority: 0.9
 	}));
 
 	// Combine all pages
 	const pages = [...staticPages, ...servicePages];
 
 	// Generate XML sitemap
+	// Note: lastmod omitted because we can't track actual content modification dates
+	// Note: changefreq omitted because Google ignores it (confirmed by Google)
 	const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${pages
@@ -66,8 +67,6 @@ ${pages
 		(page) => `
 	<url>
 		<loc>${site}${page.url}</loc>
-		<lastmod>${page.lastmod}</lastmod>
-		<changefreq>${page.changefreq}</changefreq>
 		<priority>${page.priority}</priority>
 	</url>`
 	)
