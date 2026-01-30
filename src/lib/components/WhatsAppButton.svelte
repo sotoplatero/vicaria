@@ -73,7 +73,7 @@
 	};
 
 	const buttonClass = $derived(
-		`btn btn-${variant} ${sizeClasses[size]} btn-glow shadow-xl hover:shadow-2xl transition-all group border-0 ${customClass}`,
+		`btn btn-${variant} ${sizeClasses[size]} shadow-xl hover:shadow-2xl transition-all group border-0 ${customClass}`,
 	);
 </script>
 
