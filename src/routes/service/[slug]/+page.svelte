@@ -81,7 +81,7 @@
 <!-- Hero Section with Image -->
 {#if metadata.service}
 	<section
-		class="relative min-h-[70vh] flex items-center overflow-hidden bg-base-100"
+		class="relative min-h-[70vh] flex items-center overflow-hidden bg-base-100 px-4"
 	>
 		<!-- Decorative Elements -->
 		<div class="absolute inset-0 overflow-hidden pointer-events-none">
@@ -100,7 +100,7 @@
 		<div class="container-custom relative z-10">
 			<div class="grid lg:grid-cols-2 gap-12 items-center">
 				<!-- Left Column: Content -->
-				<div class="space-y-8">
+				<div class="space-y-8 text-center lg:text-left">
 					<!-- Breadcrumb -->
 					<nav class="text-sm text-gray-500">
 						<a href="/" class="hover:text-primary transition-colors"
@@ -129,18 +129,6 @@
 							{metadata.pain}
 						</p>
 					</div>
-
-					<!-- Solution -->
-					<!-- <div class="alert alert-accent p-4 bg-primary/10 border-l-4 border-primary alert-soft">
-							<div class="flex items-start gap-4">
-								<div class="text-left">
-									<h2 class="font-bold text-xl mb-2">Here's How We Help</h2>
-									<p class="text-lg leading-relaxed">{metadata.solution}</p>
-								</div>
-							</div>
-						</div> -->
-
-					<!-- CTA -->
 
 					<div class="pt-4">
 						<WhatsAppButton variant="secondary" size="xl" />

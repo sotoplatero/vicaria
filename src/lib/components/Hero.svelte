@@ -6,7 +6,7 @@
 
 <section
 	id="hero"
-	class="relative min-h-[calc(100vh-6rem)] flex items-center justify-center overflow-hidden bg-base-200"
+	class="relative min-h-[calc(100dvh-6rem)] flex items-center justify-center overflow-hidden bg-base-200"
 >
 	<!-- Decorative Elements -->
 	<div class="absolute inset-0 overflow-hidden pointer-events-none">
@@ -47,11 +47,11 @@
 				</p>
 
 				<!-- CTA -->
-				<div class="flex flex-col sm:flex-row gap-4 pt-4">
+				<div class="flex justify-center lg:justify-start">
 					<WhatsAppButton
 						size="xl"
 						variant="primary"
-						message="Hi! Can you help me get started?"
+						message="Hi! I'm interested in your services."
 						animatedBorder={true}
 					/>
 				</div>
@@ -70,7 +70,7 @@
 						</div>
 					</div>
 
-					<div class="flex items-center gap-3 group">
+					<div class="flex gap-3 group">
 						<div
 							class="w-12 h-12 rounded-2xl bg-secondary/10 flex items-center justify-center group-hover:scale-110 transition-transform"
 						>
