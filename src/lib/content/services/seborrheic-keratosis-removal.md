@@ -14,6 +14,11 @@ description: "Professional seborrheic keratosis removal in downtown Hamilton by 
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
 order: 2
+author: "Dr. Maurin Casella"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Yamilet Pina, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Does it hurt?"
     answer: "Most people describe it as a brief warm sensation or light pinch. If you're concerned, we can use a topical numbing agent to make it even more comfortable. The procedure is quick much easier than most people expect."
@@ -42,6 +47,8 @@ You've tried fading creams. You've Googled "how to remove seborrheic keratosis a
 **Here's the truth:** Seborrheic keratoses are harmless, but they're stubborn as hell. Creams won't touch them. Home remedies don't work. And trying to scrape them off yourself is a recipe for infection and scarring.
 
 **The good news?** We remove them every day. Safely. Effectively. So you can stop worrying about them.
+
+> **Ready to get rid of those stubborn growths?** [Book a free 15-minute consultation](/free-consultation) to discuss your concerns and get expert advice. Video optional.
 
 ---
 
@@ -82,6 +89,8 @@ We see patients from all over Hamilton Westdale, the Mountain, Dundas, Ancaster,
 ---
 
 ## How We Remove Seborrheic Keratoses
+
+![Diagram showing the electrocautery removal process for seborrheic keratosis including layer-by-layer removal and cauterization](/images/services/sk-removal-electrocautery-process.webp)
 
 We use **electrocautery** a precise, medical-grade technique that removes the growths cleanly and safely.
 
@@ -158,6 +167,8 @@ Please don't. Home removal methods (freezing kits, acids, scraping) can cause in
 
 ---
 
+![Infographic showing types of seborrheic keratosis appearances including flat spots, raised bumps, waxy patches, and thickened lesions](/images/services/sk-types-appearance.webp)
+
 ## Why Choose Medical Doctors for Seborrheic Keratosis Removal
 
 **We're physicians, not estheticians.** That distinction matters when you're treating skin lesions.
@@ -167,6 +178,24 @@ Please don't. Home removal methods (freezing kits, acids, scraping) can cause in
 ✓ **We catch concerning growths** If something looks off, we know and we'll refer for biopsy if needed
 ✓ **Safe for all skin types** We adjust our technique to prevent pigmentation issues, especially on darker skin
 ✓ **Located in downtown Hamilton** Easy access from anywhere in the city
+
+---
+
+## Seborrheic Keratosis Removal Pricing
+
+Our pricing is transparent and straightforward:
+
+**Consultation:**
+- **Free WhatsApp Consultation:** 15 minutes to discuss your concerns and get expert advice (video optional)
+- **In-Person Consultation:** $60 CAD + taxes — examination, identification, and treatment planning
+
+**Treatment:**
+- **Seborrheic Keratosis Removal:** $20-$25 per lesion (based on size and location) + taxes
+- Multiple lesions can be treated in one session
+
+We provide clear pricing during your consultation so you know exactly what to expect.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
 
 ---
 
@@ -181,4 +210,32 @@ We'll examine your skin growths, confirm what they are, answer your questions, a
 Stop letting stubborn brown spots bother you.
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
+
+---
+
+## Frequently Asked Questions About Seborrheic Keratosis Removal
+
+### Does it hurt?
+
+Most people describe it as a brief warm sensation or light pinch. If you're concerned, we can use a topical numbing agent to make it even more comfortable. The procedure is quick — much easier than most people expect.
+
+### Will it leave a scar?
+
+When done properly by medical professionals, scarring is rare and usually minimal. The area may look slightly pink for a few weeks, then it fades to match your surrounding skin tone.
+
+### Can I just ignore them?
+
+You can — they're harmless. But many people remove them because they're cosmetically bothersome, get irritated by clothing or jewelry, or simply want clearer skin. It's totally your call.
+
+### Are they dangerous?
+
+No. Seborrheic keratoses are benign and won't turn into cancer. However, some skin cancers (like melanoma) can look similar. That's why it's smart to have a doctor examine any new or changing skin growth.
+
+### How much does it cost?
+
+Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you transparent pricing during your consultation.
+
+### Will they come back?
+
+The specific growths we remove won't grow back. But if you're prone to seborrheic keratoses, new ones may develop elsewhere over time. That's normal — and we can remove those too when they appear.
 

@@ -10,6 +10,11 @@ description: "Compassionate integrative cancer recovery nutrition coaching in do
 category: "health-coaching"
 order: 1
 image: "/images/vicaria-hero1.webp"
+author: "Dr. Yamilet Pina"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Maurin Casella, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Is this a replacement for my oncologist?"
     answer: "No. We work alongside your oncology team to provide nutrition and lifestyle support during and after cancer treatment. We complement medical care, not replace it."
@@ -42,10 +47,14 @@ After treatment, many people struggle with:
 - Fear of eating the “wrong foods” and increasing cancer risk  
 - Confusion from conflicting advice online
 
-**The problem isn’t your willpower it’s that post-cancer recovery is complex.**  
-Your body has unique needs after chemo, radiation, surgery, or targeted therapy. You need a plan tailored to you, not generic “healthy eating” rules.
+**The problem isn't your willpower it's that post-cancer recovery is complex.**
+Your body has unique needs after chemo, radiation, surgery, or targeted therapy. You need a plan tailored to you, not generic "healthy eating" rules.
+
+> **Ready to start your recovery with expert support?** [Book a free 15-minute consultation](/free-consultation) and let's discuss your specific needs. No commitment required.
 
 ## How We Help You Recover Safely
+
+![Diagram showing post-cancer recovery nutrition pillars including anti-inflammatory foods, gut repair, immune support, and energy restoration](/images/services/cancer-recovery-nutrition-pillars.webp)
 
 Our approach combines compassion with evidence-based strategies:
 
@@ -68,6 +77,8 @@ We walk with you, helping you rebuild confidence around food and your body.
 - **Local to Hamilton** Downtown location, serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington + virtual coaching across Ontario  
 - **Collaboration with your healthcare team** We complement your oncologist’s plan, not replace it  
 - **Compassion-first coaching** We know recovery is emotional and physical; we guide both
+
+![Infographic showing cancer recovery timeline phases from active treatment through long-term vitality](/images/services/cancer-recovery-timeline.webp)
 
 ## Is This Coaching for You?
 
@@ -97,9 +108,52 @@ Yes. We see clients in person at our downtown Hamilton clinic and virtually acro
 **Is testing required?**
 Not always. We can start with a thorough intake and adapt if lab insights could speed up recovery.
 
+## Investment in Your Cancer Recovery
+
+Our health coaching packages are designed to give you the sustained support needed during this important phase.
+
+**Health Coaching Packages:**
+- **3-Session Package:** $240 CAD - Perfect for getting started with foundational recovery nutrition
+- **6-Session Package:** $450 CAD - Comprehensive support with ongoing adjustments (Most Popular)
+- **12-Session Program:** $840 CAD - Full recovery transformation with extended support
+
+All packages include personalized protocols, email support between sessions, and coordination with your medical team. Many extended health insurance plans cover consultations with Registered Nutritional Practitioners.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Start Your Recovery With Confidence
 
-You’ve done the hard part now let’s rebuild your strength and energy safely.
+You've done the hard part now let's rebuild your strength and energy safely.
 
-Chat with us for [**free 15-minute consultation**](https://wa.me/13653369757) today.  
+Chat with us for [**free 15-minute consultation**](https://wa.me/13653369757) today.
 No pressure. Just an honest conversation about how nutrition can support your healing journey.
+
+---
+
+## Frequently Asked Questions About Cancer Recovery Coaching
+
+### Is this a replacement for my oncologist?
+
+No. We work alongside your oncology team to provide nutrition and lifestyle support during and after cancer treatment. We complement medical care, not replace it.
+
+### Can you help during active treatment or only after?
+
+Both. We support clients during active treatment (chemo, radiation) and in post-treatment recovery. Our approach is tailored to your current phase and needs.
+
+### What if I have no appetite or food tastes bad?
+
+This is very common. We provide practical strategies to manage taste changes, nausea, and low appetite — focusing on nutrient-dense options that work for you right now.
+
+### Will you tell me what foods prevent cancer?
+
+We focus on evidence-based nutrition that supports overall health, immune function, and recovery. We avoid unproven claims and work with what research actually supports.
+
+### Do you offer online coaching?
+
+Yes. We see clients in person at our downtown Hamilton office and virtually across Ontario.
+
+### How much does coaching cost?
+
+We offer a free 15-minute consultation to understand your situation and discuss how we can support you. [View our pricing](/pricing) or [contact us](/contact) for details.

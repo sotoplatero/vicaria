@@ -14,6 +14,11 @@ description: "Expert ruby points and cherry angioma treatment in Hamilton. Safe,
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
 order: 3
+author: "Dr. Maurin Casella"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Yamilet Pina, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Does it hurt?"
     answer: "Most people describe it as a brief warm sensation or tiny pinch. The process is very quick seconds per ruby point so any discomfort is over almost immediately. We work efficiently and gently."
@@ -83,9 +88,13 @@ Maybe you've tried covering them with makeup. Maybe you've resigned yourself to 
 
 We see patients from all over Hamilton Westdale, the Mountain, Dundas, Ancaster, Stoney Creek who are tired of seeing red spots multiply and just want clear, even-toned skin.
 
+> **Ready to get rid of those red spots?** [Book a free 15-minute consultation](/free-consultation) to discuss your concerns and get expert advice. Video optional.
+
 ---
 
 ## How We Remove Ruby Points
+
+![Diagram showing the electrocautery process for ruby point removal including blood vessel cauterization and healing stages](/images/services/ruby-points-electrocautery-process.webp)
 
 We use **electrocautery** a precise, medical technique that removes cherry angiomas cleanly and effectively.
 
@@ -142,6 +151,8 @@ Before you commit to treatment, see what's actually possible. These are real res
 
 ---
 
+![Infographic showing common ruby point locations on the body including chest, arms, back, and shoulders](/images/services/ruby-points-common-locations.webp)
+
 ## Common Areas We Treat
 
 We safely remove ruby points from:
@@ -194,13 +205,58 @@ If you accidentally scratch or irritate a ruby point and it bleeds, apply gentle
 
 ---
 
+## Ruby Point Treatment Pricing
+
+Our pricing is transparent and straightforward:
+
+**Consultation:**
+- **Free WhatsApp Consultation:** 15 minutes to discuss your concerns and get expert advice (video optional)
+- **In-Person Consultation:** $60 CAD + taxes — examination, identification, and treatment planning
+
+**Treatment:**
+- **Ruby Point Removal:** $20-$25 per lesion (based on size and location) + taxes
+- Multiple ruby points can be treated in one session
+
+We provide clear pricing during your consultation so you know exactly what to expect.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Ready for Clear, Even Skin?
 
 We'll examine your ruby points, answer your questions, and remove them safely so you can stop thinking about those red spots.
-
 
 *Vicaria Health is located in downtown Hamilton and serves clients throughout the city, including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
 
 Stop feeling self-conscious about red spots.
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
+
+---
+
+## Frequently Asked Questions About Ruby Point Treatment
+
+### Does it hurt?
+
+Most people describe it as a brief warm sensation or tiny pinch. The process is very quick — seconds per ruby point — so any discomfort is over almost immediately. We work efficiently and gently.
+
+### Will it leave scars?
+
+When done properly by medical professionals, ruby point removal leaves minimal to no scarring. You may have slight discoloration for a few weeks while the skin heals, but it typically fades completely.
+
+### Are ruby points dangerous?
+
+No. Cherry angiomas are benign and won't turn into cancer. However, they can bleed if scratched or irritated because they're made of blood vessels. If you notice sudden changes in size, shape, or color, it's worth having a doctor examine them — but most ruby points are completely harmless.
+
+### Will they come back?
+
+The specific ruby points we remove won't grow back. However, if you're prone to developing cherry angiomas, new ones may appear elsewhere over time. We can treat those as they develop.
+
+### How much does it cost?
+
+Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you transparent pricing during your consultation.
+
+### Can I just leave them alone?
+
+Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons — they want clear, even-toned skin without red spots. It's entirely your choice.

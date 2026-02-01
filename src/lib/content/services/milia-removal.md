@@ -14,6 +14,11 @@ description: "Expert milia removal in Hamilton. Safe, effective extraction for s
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
 order: 4
+author: "Dr. Maurin Casella"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Yamilet Pina, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Does it hurt?"
     answer: "Most people feel a tiny pinch when we create the opening, but it's brief and very tolerable. The extraction itself is painless. We work gently and quickly."
@@ -77,9 +82,13 @@ You've probably tried:
 
 **Professional extraction is the only reliable way to remove milia.**
 
+> **Ready to get rid of those white bumps?** [Book a free 15-minute consultation](/free-consultation) to discuss your concerns and get expert advice. Video optional.
+
 ---
 
 ## How We Remove Milia Safely
+
+![Diagram showing the milia extraction process step by step including sterile preparation, micro-incision, and keratin removal](/images/services/milia-extraction-process.webp)
 
 We use a simple, proven technique: **sterile extraction**.
 
@@ -138,6 +147,8 @@ Before you commit to treatment, see what's actually possible. These are real res
 
 ---
 
+![Infographic showing common milia locations on the face including around eyes, cheeks, nose, and forehead](/images/services/milia-common-locations.webp)
+
 ## Common Areas We Treat
 
 We safely remove milia from:
@@ -191,13 +202,58 @@ No problem. We'll examine the bumps and let you know exactly what they are. Some
 
 ---
 
+## Milia Removal Pricing
+
+Our pricing is transparent and straightforward:
+
+**Consultation:**
+- **Free WhatsApp Consultation:** 15 minutes to discuss your concerns and get expert advice (video optional)
+- **In-Person Consultation:** $60 CAD + taxes — examination, identification, and treatment planning
+
+**Treatment:**
+- **Milia Extraction:** $20-$25 per lesion (based on size and location) + taxes
+- Multiple milia can be removed in one session
+
+We provide clear pricing during your consultation so you know exactly what to expect.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Ready for Smooth, Clear Skin?
 
 We'll examine your skin, confirm what those white bumps are, and remove them safely so you can stop worrying about them.
-
 
 *Vicaria Health is located in downtown Hamilton and serves clients throughout the city including Westdale, Hamilton Mountain, Dundas, Ancaster, Waterdown, Stoney Creek, and Burlington.*
 
 Stop hiding those white bumps under makeup.
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
+
+---
+
+## Frequently Asked Questions About Milia Removal
+
+### Does it hurt?
+
+Most people feel a tiny pinch when we create the opening, but it's brief and very tolerable. The extraction itself is painless. We work gently and quickly.
+
+### Will it leave scars?
+
+When done properly by medical professionals, milia extraction leaves minimal to no scarring. The micro-openings we create are incredibly small and heal cleanly within days.
+
+### Can I just squeeze them myself?
+
+Please don't. Milia don't have a surface opening like pimples do, so squeezing won't work — it'll just irritate your skin, cause redness, and potentially lead to scarring or infection. Let us handle it safely.
+
+### Will they come back?
+
+The specific milia we remove won't come back. However, if you're prone to milia, new ones may develop over time — especially if you use heavy skincare products or have sun damage. We can remove new ones as they appear.
+
+### Can I wear makeup after?
+
+We recommend waiting 24 hours to let the tiny openings close completely. After that, makeup is fine.
+
+### How much does it cost?
+
+Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. Most people find it more affordable than they expected.

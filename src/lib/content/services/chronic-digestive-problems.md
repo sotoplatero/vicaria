@@ -10,6 +10,11 @@ description: "Expert IBS and digestive health coaching in downtown Hamilton. Vic
 category: "health-coaching"
 order: 2
 image: "/images/vicaria-2.webp"
+author: "Dr. Yamilet Pina"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Maurin Casella, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Can you diagnose digestive conditions like IBS or SIBO?"
     answer: "No. Diagnosis requires medical evaluation. We work with clients who have existing diagnoses or ongoing digestive symptoms to identify triggers and create personalized nutrition strategies."
@@ -53,9 +58,13 @@ Your gut issues have triggers specific, identifiable triggers. Could be SIBO. Co
 
 At Vicaria Health, we're in downtown Hamilton. We see people in our office or virtually whatever works for you. Whether you're walking over from Durand or logging in from Ancaster, we build protocols based on what's actually happening in your gut, not what worked for someone else.
 
+> **Ready to find out what's really causing your digestive issues?** [Book a free 15-minute consultation](/free-consultation) and let's discuss your specific situation. No commitment required.
+
 ---
 
 ## How We Actually Fix Digestive Issues
+
+![Diagram showing root causes of chronic digestive problems including SIBO, gut dysbiosis, nervous system dysregulation, and food sensitivities](/images/services/digestive-root-causes-diagram.webp)
 
 We use a root-cause approach built on three pillars:
 
@@ -83,6 +92,8 @@ Your gut and brain are in constant conversation. If your nervous system is stuck
 * **Work alongside your doctor** We complement your medical care and communicate with your healthcare team
 
 ---
+
+![Infographic comparing symptom-based treatment versus root-cause functional approach for digestive issues](/images/services/digestive-functional-approach.webp)
 
 ## This Is for You If...
 
@@ -123,6 +134,21 @@ Initial consultations include comprehensive intake and protocol development. Fol
 
 ---
 
+## Investment in Your Digestive Health
+
+Our health coaching packages are designed to give you the sustained support needed for real, lasting digestive relief.
+
+**Health Coaching Packages:**
+- **3-Session Package:** $240 CAD - Perfect for initial assessment and trigger identification
+- **6-Session Package:** $450 CAD - Comprehensive support with testing guidance and ongoing adjustments (Most Popular)
+- **12-Session Program:** $840 CAD - Full transformation for complex digestive conditions like SIBO and IBS
+
+All packages include personalized protocols, email support between sessions, and coordination with your medical team. Many extended health insurance plans cover consultations with Registered Nutritional Practitioners.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Let's Find Out What's Really Going On
 
 We'll talk about your symptoms, what you've already tried, and whether functional testing and root-cause protocols make sense for your situation.
@@ -132,3 +158,31 @@ No pressure. No sales pitch. Just an honest conversation about what it takes to 
 Ready to stop planning your life around your gut?
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
+
+---
+
+## Frequently Asked Questions About Digestive Health Coaching
+
+### Can you diagnose digestive conditions like IBS or SIBO?
+
+No. Diagnosis requires medical evaluation. We work with clients who have existing diagnoses or ongoing digestive symptoms to identify triggers and create personalized nutrition strategies.
+
+### Do you use the low FODMAP diet?
+
+Yes, when appropriate. We're Monash FODMAP trained and use it as a temporary diagnostic tool — not a permanent restriction. Our goal is to identify your specific triggers and expand your diet safely.
+
+### How long until I feel better?
+
+Many clients notice symptom improvement within 2–4 weeks as we identify and remove triggers. Long-term relief comes from understanding your unique patterns and building sustainable habits.
+
+### Will I have to avoid foods forever?
+
+No. Our approach is about finding what works for your body, not permanent restriction. We help you build a diverse, satisfying diet that doesn't trigger symptoms.
+
+### Do you offer virtual sessions?
+
+Yes. We see clients both in person at our downtown Hamilton office and virtually across Ontario.
+
+### What does coaching cost?
+
+We offer a free 15-minute consultation to discuss your digestive concerns and how we can help. [View our pricing](/pricing) or [contact us](/contact) for details.

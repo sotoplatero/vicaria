@@ -10,6 +10,11 @@ description: "Professional UTI prevention and pelvic health coaching in Hamilton
 category: "health-coaching"
 order: 6
 image: "/images/vicaria-4.webp"
+author: "Dr. Yamilet Pina"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Maurin Casella, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Can you treat active UTIs?"
     answer: "No. We cannot diagnose or treat active infections that requires medical care and antibiotics. We focus on prevention strategies and addressing the underlying factors that make you susceptible to recurrent UTIs."
@@ -61,9 +66,13 @@ Recurrent UTIs can be driven by:
 
 We don't just treat symptoms. We investigate and address the underlying patterns that make you susceptible.
 
+> **Ready to break the UTI cycle?** [Book a free 15-minute consultation](/free-consultation) and let's discuss your specific situation. No commitment required.
+
 ---
 
 ## How We Help You Prevent Recurrent UTIs
+
+![Diagram showing UTI recurrence factors including microbiome disruption, immune function, hydration, and hormonal changes](/images/services/uti-recurrence-factors.webp)
 
 We use a functional, root-cause approach built on evidence-based strategies:
 
@@ -95,6 +104,8 @@ If you're in perimenopause or menopause, low estrogen can thin the vaginal and u
 - **Support for pelvic pain too** If you're dealing with chronic pelvic discomfort, painful intercourse, or interstitial cystitis symptoms, we address those as well
 
 ---
+
+![Infographic showing the UTI prevention strategy including microbiome restoration, immune support, and lifestyle optimization](/images/services/uti-prevention-strategy.webp)
 
 ## This Is for You If…
 
@@ -129,6 +140,21 @@ We provide supportive nutrition and lifestyle strategies for IC symptoms, but di
 
 ---
 
+## Investment in Your Urinary & Pelvic Health
+
+Our health coaching packages are designed to give you the sustained support needed for real, lasting UTI prevention.
+
+**Health Coaching Packages:**
+- **3-Session Package:** $240 CAD - Perfect for initial assessment and prevention strategy setup
+- **6-Session Package:** $450 CAD - Comprehensive support with microbiome restoration and ongoing adjustments (Most Popular)
+- **12-Session Program:** $840 CAD - Full transformation for complex recurrent UTI patterns
+
+All packages include personalized protocols, email support between sessions, and coordination with your medical team. Many extended health insurance plans cover consultations with Registered Nutritional Practitioners.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Stop Living in Fear of the Next Infection
 
 Recurrent UTIs shouldn't control your life.
@@ -136,6 +162,34 @@ Recurrent UTIs shouldn't control your life.
 Chat with us a [**free 15-minute consultation**](https://wa.me/13653369757) today.
 
 We'll talk through your history, what you've tried, and whether a root-cause approach makes sense for your situation so you can finally break the cycle and restore confidence in your body.
+
+---
+
+## Frequently Asked Questions About UTI Prevention Coaching
+
+### Can you treat active UTIs?
+
+No. We cannot diagnose or treat active infections — that requires medical care and antibiotics. We focus on prevention strategies and addressing the underlying factors that make you susceptible to recurrent UTIs.
+
+### How do you help prevent UTIs naturally?
+
+We address multiple factors including hydration strategies, dietary changes, gut and vaginal microbiome support, proper hygiene habits, stress management, and identifying personal triggers that contribute to recurrence.
+
+### How long until I see results?
+
+Many clients experience fewer infections within 2–3 months as we implement protective strategies. Long-term prevention improves with consistent habits over time.
+
+### Do you work with pelvic pain conditions?
+
+We provide supportive coaching for lifestyle and dietary factors that may contribute to pelvic discomfort. For diagnosis and medical treatment of pelvic pain conditions, you'll need to work with a physician or pelvic health specialist.
+
+### Is this available online?
+
+Yes. We offer both in-person sessions at our downtown Hamilton office and virtual coaching across Ontario.
+
+### What does coaching cost?
+
+We offer a free 15-minute consultation to discuss your specific situation and how we can help. [View our pricing](/pricing) or [contact us](/contact) for details.
 
 
 
