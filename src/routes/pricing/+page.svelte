@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Clock, Calendar, Sparkles, Shield } from "@lucide/svelte";
+	import { Clock, Calendar, Sparkles, Shield, ArrowRight } from "@lucide/svelte";
 	import CTA from "$lib/components/CTA.svelte";
 	import FAQ from "$lib/components/FAQ.svelte";
 	import PricingSystemExplanation from "$lib/components/pricing/PricingSystemExplanation.svelte";
@@ -174,6 +174,56 @@
 
 <!-- Pricing System Explanation -->
 <PricingSystemExplanation />
+
+<!-- Services We Offer - Interlinking Section -->
+<section class="py-16 bg-white">
+	<div class="container-custom">
+		<div class="max-w-5xl mx-auto">
+			<div class="text-center mb-10">
+				<h2 class="text-3xl font-bold text-charcoal mb-4">
+					Our Health Coaching Programs
+				</h2>
+				<p class="text-lg text-gray-600 max-w-2xl mx-auto">
+					Our health coaching packages include specialized support for a variety of conditions. Each program is tailored to your specific needs.
+				</p>
+			</div>
+
+			<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+				<a href="/service/bloating-relief" class="group flex items-center gap-3 p-4 bg-sage-light/10 rounded-xl hover:bg-sage-light/20 transition-colors">
+					<span class="w-2 h-2 rounded-full bg-primary"></span>
+					<span class="text-charcoal group-hover:text-primary transition-colors">Bloating & digestive issues</span>
+				</a>
+				<a href="/service/blood-pressure-balance" class="group flex items-center gap-3 p-4 bg-sage-light/10 rounded-xl hover:bg-sage-light/20 transition-colors">
+					<span class="w-2 h-2 rounded-full bg-primary"></span>
+					<span class="text-charcoal group-hover:text-primary transition-colors">Blood pressure management</span>
+				</a>
+				<a href="/service/diabetes-clarity" class="group flex items-center gap-3 p-4 bg-sage-light/10 rounded-xl hover:bg-sage-light/20 transition-colors">
+					<span class="w-2 h-2 rounded-full bg-primary"></span>
+					<span class="text-charcoal group-hover:text-primary transition-colors">Diabetes & blood sugar control</span>
+				</a>
+				<a href="/service/prediabetes-nutrition-support" class="group flex items-center gap-3 p-4 bg-sage-light/10 rounded-xl hover:bg-sage-light/20 transition-colors">
+					<span class="w-2 h-2 rounded-full bg-primary"></span>
+					<span class="text-charcoal group-hover:text-primary transition-colors">Prediabetes reversal</span>
+				</a>
+				<a href="/service/ibs-nutrition-support" class="group flex items-center gap-3 p-4 bg-sage-light/10 rounded-xl hover:bg-sage-light/20 transition-colors">
+					<span class="w-2 h-2 rounded-full bg-primary"></span>
+					<span class="text-charcoal group-hover:text-primary transition-colors">IBS & gut health</span>
+				</a>
+				<a href="/service/menopause-health-coaching" class="group flex items-center gap-3 p-4 bg-sage-light/10 rounded-xl hover:bg-sage-light/20 transition-colors">
+					<span class="w-2 h-2 rounded-full bg-primary"></span>
+					<span class="text-charcoal group-hover:text-primary transition-colors">Menopause symptom relief</span>
+				</a>
+			</div>
+
+			<div class="text-center mt-8">
+				<a href="/service" class="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all">
+					View all our services
+					<ArrowRight size={18} />
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
 
 <!-- Health Coaching - Detailed Breakdown -->
 <HealthCoachingDetailed />

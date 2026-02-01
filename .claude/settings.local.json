@@ -42,7 +42,10 @@
       "Bash(git push)",
       "mcp__plugin_playwright_playwright__browser_navigate",
       "mcp__plugin_playwright_playwright__browser_take_screenshot",
-      "mcp__plugin_playwright_playwright__browser_close"
+      "mcp__plugin_playwright_playwright__browser_close",
+      "Bash(wc:*)",
+      "Bash(find:*)",
+      "Bash(pnpm build)"
     ],
     "deny": [],
     "ask": []

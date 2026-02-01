@@ -1,3 +1,8 @@
+export interface FAQ {
+	question: string;
+	answer: string;
+}
+
 export interface ServiceMetadata {
 	slug: string;
 	service: string;
@@ -12,6 +17,13 @@ export interface ServiceMetadata {
 	order?: number;
 	image: string;
 	benefits?: string[];
+	faqs?: FAQ[];
+	// Author and E-E-A-T fields
+	author?: string;
+	authorCredentials?: string;
+	reviewedBy?: string;
+	datePublished?: string;
+	dateModified?: string;
 }
 
 // Import all service markdown files with frontmatter

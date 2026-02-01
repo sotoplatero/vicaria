@@ -10,6 +10,11 @@ description: "Blood pressure coaching in downtown Hamilton. Vicaria Health helps
 category: "health-coaching"
 order: 4
 image: "/images/vicaria-hero3.webp"
+author: "Dr. Yamilet Pina"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Maurin Casella, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Should I stop taking my blood pressure medication?"
     answer: "No. Never stop or adjust your medication without consulting your doctor. We work alongside your medical team to help you make lifestyle changes that support healthy blood pressure. Any medication changes should be made by your physician."
@@ -56,6 +61,8 @@ That's what we do at Vicaria Health.
 We're in downtown Hamilton, but we work with people all over the city whether you're walking over from Durand or driving in from Ancaster. Some folks come to our office. Others prefer virtual sessions from home.
 
 Either way, we meet you where you are.
+
+> **Ready to take control of your blood pressure naturally?** [Book a free 15-minute consultation](/free-consultation) and let's discuss your specific situation. No commitment required.
 
 ---
 
@@ -118,6 +125,21 @@ Absolutely. We encourage it. Many of our clients share their progress with their
 
 ---
 
+## Investment in Your Blood Pressure Health
+
+Our health coaching packages are designed to give you the sustained support needed for real, lasting change.
+
+**Health Coaching Packages:**
+- **3-Session Package:** $240 CAD - Perfect for getting started with foundational lifestyle changes
+- **6-Session Package:** $450 CAD - Comprehensive support with ongoing adjustments (Most Popular)
+- **12-Session Program:** $840 CAD - Full transformation for complex cardiovascular health needs
+
+All packages include personalized protocols, email support between sessions, and detailed progress tracking. Many extended health insurance plans cover consultations with Registered Nutritional Practitioners.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Let's Talk
 
 We'll talk about where you're at, what you're hoping for, and whether this approach makes sense for you.
@@ -129,4 +151,32 @@ No pressure. No sales pitch. Just a real conversation about what's possible.
 Ready to stop worrying about your numbers and start controlling them?
 
 [**Free Consultation with us**](https://wa.me/13653369757)
+
+---
+
+## Frequently Asked Questions About Blood Pressure Coaching
+
+### Should I stop taking my blood pressure medication?
+
+No. Never stop or adjust your medication without consulting your doctor. We work alongside your medical team to help you make lifestyle changes that support healthy blood pressure. Any medication changes should be made by your physician.
+
+### How long until I see results?
+
+Many clients notice improvements in their blood pressure readings within 3–6 weeks of implementing our strategies. Long-term results depend on consistency and individual factors.
+
+### Is this just about reducing salt?
+
+No. While sodium management is important, we address multiple factors including stress management, sleep quality, potassium-rich foods, movement, and overall dietary patterns that influence blood pressure.
+
+### Can you help if I have white coat hypertension?
+
+Yes. We help you understand your triggers and develop strategies to manage anxiety around blood pressure monitoring, plus lifestyle approaches to support overall cardiovascular health.
+
+### Do you offer online coaching?
+
+Yes. We see clients in person at our downtown Hamilton clinic and virtually across Ontario.
+
+### What does coaching cost?
+
+We offer a free 15-minute consultation to discuss your situation and our coaching programs. [View our pricing](/pricing) or [contact us](/contact) for details.
 

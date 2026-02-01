@@ -10,6 +10,11 @@ description: "Expert bloating relief support in Hamilton. Personalized nutrition
 category: "health-coaching"
 order: 8
 image: "/images/vicaria-hero2.webp"
+author: "Dr. Yamilet Pina"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Maurin Casella, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Is bloating always related to IBS?"
     answer: "No. Bloating can be caused by many factors food combinations, eating speed, stress, gut bacteria imbalances, food sensitivities, or digestive motility issues. While bloating is a common IBS symptom, many people experience chronic bloating without an IBS diagnosis. We work with both."
@@ -95,6 +100,8 @@ You don't need an IBS diagnosis to have a sensitive gut. Food intolerances, mild
 **This is why random elimination diets fail.** They're addressing symptoms without understanding root causes.
 
 If you're looking for chronic bloating help that actually targets what's happening in YOUR gut not just generic advice **that's exactly what this program does.**
+
+> **Ready to identify your bloating triggers?** [Book a free 15-minute consultation](/free-consultation) and let's discuss your specific situation. No commitment required.
 
 ---
 
@@ -251,6 +258,21 @@ Virtual is perfect if you're outside Hamilton, prefer the convenience of home se
 
 ---
 
+## Investment in Your Bloating Relief
+
+Our health coaching packages are designed to give you the sustained support needed for real, lasting change.
+
+**Health Coaching Packages:**
+- **3-Session Package:** $240 CAD - Perfect for identifying your specific bloating triggers
+- **6-Session Package:** $450 CAD - Comprehensive support with ongoing adjustments (Most Popular)
+- **12-Session Program:** $840 CAD - Full transformation for complex digestive issues
+
+All packages include personalized protocols, email support between sessions, and detailed food/symptom tracking guidance. Many extended health insurance plans cover consultations with Registered Nutritional Practitioners.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Get Help With Chronic Bloating
 
 Stop planning your life around bloating. Stop avoiding foods out of fear without knowing if they're actually triggers. Stop feeling uncomfortable in your own body.
@@ -266,3 +288,31 @@ We'll talk about:
 **No commitment required. Just a real conversation about solving this for good.**
 
 Book your free 15-minute consultation and let's figure out what's really going on.
+
+---
+
+## Frequently Asked Questions About Bloating Relief
+
+### Is bloating always related to IBS?
+
+No. Bloating can be caused by many factors — food combinations, eating speed, stress, gut bacteria imbalances, food sensitivities, or digestive motility issues. While bloating is a common IBS symptom, many people experience chronic bloating without an IBS diagnosis. We work with both. If you have IBS and need specialized [IBS nutrition support](/service/ibs-nutrition-support), we understand how to work with that.
+
+### How long does it take to reduce bloating?
+
+Most clients notice improvement within 1-3 weeks as we identify and adjust major triggers. Some see changes within days when we address obvious patterns like eating speed or specific food combinations. Building long-term stability takes 4-8 weeks as we fine-tune your approach.
+
+### Do I need to follow a restrictive diet?
+
+No. Restrictive diets often make bloating worse by creating stress and limiting beneficial foods. We use strategic, temporary adjustments to identify YOUR specific triggers, then build the most diverse diet possible that doesn't cause bloating. The goal is freedom, not restriction.
+
+### Can stress cause bloating?
+
+Absolutely. Stress affects digestion directly — it slows stomach emptying, changes gut bacteria, and can trigger bloating even with foods you normally tolerate. We address both food triggers AND the nervous system patterns that contribute to digestive bloating.
+
+### What if I'm already avoiding foods and still bloating?
+
+This is very common. Random elimination rarely works because bloating triggers are often about combinations, timing, and how you eat — not just what you eat. We use a systematic approach to find your actual patterns instead of guessing.
+
+### Do you offer virtual sessions?
+
+Yes. We see clients both in person in Hamilton and virtually across Ontario. Bloating relief support works well remotely since we focus on patterns, triggers, and practical strategies you implement at home.

@@ -10,6 +10,11 @@ description: "Expert menopause health coaching in downtown Hamilton. Personalize
 category: "health-coaching"
 order: 5
 image: "/images/vicaria-hero7.webp"
+author: "Dr. Yamilet Pina"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Maurin Casella, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Is this a replacement for my doctor or HRT?"
     answer: "No. We work alongside your medical team. Whether you're on hormone replacement therapy (HRT) or not, we help optimize nutrition and lifestyle to support your transition and improve how you feel day-to-day."
@@ -58,6 +63,8 @@ Menopause symptoms can be driven by:
 This isn't just about "aging"—it's about a specific hormonal transition that requires targeted support. Whether you're dealing with vasomotor symptoms (hot flashes/night sweats), metabolic changes, or mood disruptions, personalized nutrition makes a difference.
 
 We don't guess. We assess your unique hormonal picture, test when needed, and create a clear plan that fits your life.
+
+> **Ready to start feeling like yourself again?** [Book a free 15-minute consultation](/free-consultation) and let's discuss your specific symptoms and goals. No commitment required.
 
 ---
 
@@ -121,6 +128,21 @@ Not always. We can start without it, but when appropriate, we use targeted hormo
 
 ---
 
+## Investment in Your Menopause Health
+
+Our health coaching packages are designed to give you the sustained support needed for real, lasting change during this important transition.
+
+**Health Coaching Packages:**
+- **3-Session Package:** $240 CAD - Perfect for getting started with foundational hormone-supportive strategies
+- **6-Session Package:** $450 CAD - Comprehensive support with testing guidance and ongoing adjustments (Most Popular)
+- **12-Session Program:** $840 CAD - Full transformation for complex menopausal health needs
+
+All packages include personalized protocols, email support between sessions, and detailed guidance on supplements and testing when appropriate. Many extended health insurance plans cover consultations with Registered Nutritional Practitioners.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Take the First Step Toward Feeling Like Yourself Again
 
 Stop accepting exhaustion, weight gain, and mood swings as "just part of aging."
@@ -128,3 +150,31 @@ Stop accepting exhaustion, weight gain, and mood swings as "just part of aging."
 We'll talk through your symptoms, history, and next steps so you can finally have a plan to navigate menopause with energy, clarity, and confidence.
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
+
+---
+
+## Frequently Asked Questions About Menopause Health Coaching
+
+### Is this a replacement for my doctor or HRT?
+
+No. We work alongside your medical team. Whether you're on hormone replacement therapy (HRT) or not, we help optimize nutrition and lifestyle to support your transition and improve how you feel day-to-day.
+
+### Do I need to be officially in menopause to work with you?
+
+No. We work with women in perimenopause, menopause, and post-menopause. If you're experiencing symptoms, we can help.
+
+### How long until I feel improvement?
+
+Most women notice better sleep, more stable energy, and fewer hot flashes within 3–4 weeks. Deeper changes in body composition and metabolic health typically take 2–3 months.
+
+### Will I have to cut out all carbs or follow a restrictive diet?
+
+No. We create sustainable, hormone-supportive eating patterns tailored to your lifestyle. No extremes, no deprivation.
+
+### Do you work online?
+
+Yes. We see clients in person at our downtown Hamilton office and virtually across Ontario.
+
+### Will testing be required?
+
+Not always. We can start without it, but when appropriate, we use targeted hormone panels and metabolic markers to accelerate results and remove guesswork.

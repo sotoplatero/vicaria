@@ -14,6 +14,11 @@ description: "Professional skin tag removal in downtown Hamilton by medical doct
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
 order: 1
+author: "Dr. Maurin Casella"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Yamilet Pina, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Does it hurt?"
     answer: "Electrocautery causes minimal discomfort most people describe it as a brief warm sensation or quick pinch. For sensitive areas or if you're particularly nervous, we can apply a topical numbing agent beforehand. Most people are surprised by how easy and quick it is."
@@ -52,6 +57,8 @@ Maybe you think they're not "serious enough" to bother a doctor about. Maybe you
 Removal takes minutes. It's straightforward. And you'll wonder why you didn't do it sooner.
 
 We see people from all over Hamilton Westdale, the Mountain, Dundas, Ancaster who finally got tired of dealing with skin tags and just wanted them handled by someone who knows what they're doing.
+
+> **Ready to get rid of your skin tags?** [Book a free 15-minute consultation](/free-consultation) to discuss your concerns and get expert advice before booking. Video optional.
 
 ## How We Remove Skin Tags
 
@@ -131,6 +138,24 @@ If you're not sure whether what you have is a skin tag, we'll take a look and le
 - **Safe for all skin types**: We adjust technique for darker skin tones to prevent pigmentation issues
 - **Located in downtown Hamilton**: Easy to reach from anywhere in the city
 
+## Skin Tag Removal Pricing
+
+Our pricing is transparent and straightforward:
+
+**Consultation:**
+- **Free WhatsApp Consultation:** 15 minutes to discuss your concerns and get expert advice (video optional)
+- **In-Person Consultation:** $60 CAD + taxes — examination, identification, and treatment planning
+
+**Treatment:**
+- **Skin Tag Removal:** $20-$25 per lesion (based on size and location) + taxes
+- Multiple skin tags can be removed in one session
+
+We provide clear pricing during your consultation so you know exactly what to expect. Many clients remove multiple skin tags at once for convenience.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Ready to Get Rid of Them?
 
 We'll take a look, answer your questions, and get those skin tags removed so you can stop thinking about them.
@@ -139,6 +164,30 @@ We'll take a look, answer your questions, and get those skin tags removed so you
 
 Stop letting skin tags bother you.
 
-**Start with a free 15-minute consultation via WhatsApp**   discuss your concerns and get expert advice before booking (video optional).
+**Start with a free 15-minute consultation via WhatsApp** — discuss your concerns and get expert advice before booking (video optional).
 
 [**Chat with us on WhatsApp**](https://wa.me/13653369757)
+
+---
+
+## Frequently Asked Questions About Skin Tag Removal
+
+### Does it hurt?
+
+Electrocautery causes minimal discomfort — most people describe it as a brief warm sensation or quick pinch. For sensitive areas or if you're particularly nervous, we can apply a topical numbing agent beforehand. Most people are surprised by how easy and quick it is.
+
+### Will it leave a scar?
+
+Rarely. When done properly by medical professionals, skin tag removal typically heals without visible scarring. The area may be slightly pink for a few weeks, then it fades.
+
+### Can I just cut it off myself?
+
+Please don't. Home removal risks infection, excessive bleeding, and scarring. Plus, if it's not actually a skin tag (if it's a mole or something else), cutting it yourself could cause problems. Let us handle it safely.
+
+### How much does it cost?
+
+Initial consultation via WhatsApp is FREE (15 minutes, video optional). If you decide to proceed, the in-person consultation is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you clear pricing during your consultation.
+
+### Will they come back?
+
+The specific skin tags we remove won't grow back. But if you're prone to skin tags, new ones may develop elsewhere over time. We can remove those too.

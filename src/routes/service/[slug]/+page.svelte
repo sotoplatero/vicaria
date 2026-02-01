@@ -3,9 +3,8 @@
 	import Header from "$lib/components/Header.svelte";
 	import CTA from "$lib/components/CTA.svelte";
 	import RelatedServices from "$lib/components/service/RelatedServices.svelte";
-	import HealthCoachingPricing from "$lib/components/service/HealthCoachingPricing.svelte";
-	import SkinTreatmentPricing from "$lib/components/service/SkinTreatmentPricing.svelte";
-	import ServiceFAQ from "$lib/components/service/ServiceFAQ.svelte";
+	import AuthorByline from "$lib/components/service/AuthorByline.svelte";
+	import AuthorBox from "$lib/components/service/AuthorBox.svelte";
 	import WhatsAppButton from "$lib/components/WhatsAppButton.svelte";
 	import { getRelatedServices } from "$lib/utils/services";
 	import { page } from "$app/stores";
@@ -42,39 +41,144 @@
 			"Professional health coaching services in Hamilton"}
 	/>
 	<link rel="canonical" href={data?.canonical} />
+
 	<!-- Open Graph -->
 	<meta property="og:title" content={metadata.title} />
 	<meta property="og:description" content={metadata.description} />
 	<meta property="og:type" content="website" />
+	<meta property="og:url" content={data?.canonical} />
+	<meta property="og:image" content={`https://vicaria.ca${metadata.image}`} />
+	<meta property="og:site_name" content="Vicaria Health" />
+	<meta property="og:locale" content="en_CA" />
 
-	<!-- Structured Data -->
-	{#if metadata.service}
-		{@html `
-			<script type="application/ld+json">
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content={metadata.title} />
+	<meta name="twitter:description" content={metadata.description} />
+	<meta
+		name="twitter:image"
+		content={`https://vicaria.ca${metadata.image}`}
+	/>
+
+	<!-- BreadcrumbList Schema -->
+	{@html `<script type="application/ld+json">${JSON.stringify({
+		"@context": "https://schema.org",
+		"@type": "BreadcrumbList",
+		itemListElement: [
 			{
-				"@context": "https://schema.org",
+				"@type": "ListItem",
+				position: 1,
+				name: "Home",
+				item: "https://vicaria.ca",
+			},
+			{
+				"@type": "ListItem",
+				position: 2,
+				name: "Services",
+				item: "https://vicaria.ca/service",
+			},
+			{
+				"@type": "ListItem",
+				position: 3,
+				name: metadata.title,
+				item: data?.canonical,
+			},
+		],
+	})}<\/script>`}
+
+	<!-- Service Schema -->
+	{#if metadata.service}
+		{@html `<script type="application/ld+json">${JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "Service",
+			name: metadata.service,
+			description: metadata.description,
+			provider: {
 				"@type": "MedicalBusiness",
-				"name": "${metadata.title} - Vicaria Health",
-				"description": "${metadata.description}",
-				"address": {
+				name: "Vicaria Health",
+				address: {
 					"@type": "PostalAddress",
-					"streetAddress": "Unit 2B 144 James St S",
-					"addressLocality": "Hamilton",
-					"addressRegion": "ON",
-					"postalCode": "L8P3A2",
-					"addressCountry": "CA"
+					streetAddress: "Unit 2B 144 James St S",
+					addressLocality: "Hamilton",
+					addressRegion: "ON",
+					postalCode: "L8P 3A2",
+					addressCountry: "CA",
 				},
-				"telephone": "+1365-336-9757",
-				"email": "[email protected]",
-				"url": "https://vicaria.ca",
-				"priceRange": "$$",
-				"areaServed": {
-					"@type": "City",
-					"name": "${metadata.city}"
-				}
-			}
-			<\/script>
-		`}
+				telephone: "+1-365-336-9757",
+				email: "[email protected]",
+				url: "https://vicaria.ca",
+				priceRange: "$$",
+				sameAs: [
+					"https://www.instagram.com/vicariahealth",
+					"https://www.facebook.com/vicariahealth",
+				],
+			},
+			areaServed: {
+				"@type": "City",
+				name: metadata.city || "Hamilton",
+			},
+			url: data?.canonical,
+			image: `https://vicaria.ca${metadata.image}`,
+		})}<\/script>`}
+	{/if}
+
+	<!-- FAQPage Schema (when FAQs exist) -->
+	{#if hasFAQs}
+		{@html `<script type="application/ld+json">${JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			mainEntity: metadata.faqs.map(
+				(faq: { question: string; answer: string }) => ({
+					"@type": "Question",
+					name: faq.question,
+					acceptedAnswer: {
+						"@type": "Answer",
+						text: faq.answer,
+					},
+				}),
+			),
+		})}<\/script>`}
+	{/if}
+
+	<!-- MedicalWebPage Schema with Author -->
+	{#if metadata.author}
+		{@html `<script type="application/ld+json">${JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "MedicalWebPage",
+			specialty: isHealthCoaching ? "Nutrition" : "Dermatology",
+			name: metadata.title,
+			description: metadata.description,
+			url: data?.canonical,
+			datePublished: metadata.datePublished || "2024-06-01",
+			dateModified:
+				metadata.dateModified || new Date().toISOString().split("T")[0],
+			author: {
+				"@type": "Person",
+				name: metadata.author,
+				jobTitle: "Health Coach",
+				description:
+					metadata.authorCredentials ||
+					"Medical doctor with 20+ years experience",
+				url: "https://vicaria.ca/about",
+			},
+			...(metadata.reviewedBy
+				? {
+						reviewedBy: {
+							"@type": "Person",
+							name: metadata.reviewedBy,
+							jobTitle: "Medical Doctor",
+						},
+						lastReviewed:
+							metadata.dateModified ||
+							new Date().toISOString().split("T")[0],
+					}
+				: {}),
+			publisher: {
+				"@type": "Organization",
+				name: "Vicaria Health",
+				url: "https://vicaria.ca",
+			},
+		})}<\/script>`}
 	{/if}
 </svelte:head>
 
@@ -177,25 +281,35 @@
 <!-- Main Content from MD -->
 <article class="section-padding bg-white">
 	<div class="container-custom">
-		<div
-			class="max-w-4xl mx-auto prose prose-lg prose-headings:font-bold prose-headings:text-charcoal prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-strong:text-primary prose-ul:text-gray-700 prose-ol:text-gray-700"
-		>
-			<data.content />
+		<div class="max-w-3xl mx-auto">
+			<!-- Author Byline -->
+
+			<!-- Content -->
+			<div
+				class="prose prose-lg prose-headings:font-bold prose-headings:text-charcoal prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-strong:text-primary prose-ul:text-gray-700 prose-ol:text-gray-700"
+			>
+				{#if metadata.author}
+					<AuthorByline
+						author={metadata.author}
+						authorCredentials={metadata.authorCredentials}
+						reviewedBy={metadata.reviewedBy}
+						dateModified={metadata.dateModified}
+					/>
+				{/if}
+				<data.content />
+			</div>
+
+			<!-- Author Box -->
+			{#if metadata.author}
+				<AuthorBox
+					author={metadata.author}
+					authorCredentials={metadata.authorCredentials}
+					category={metadata.category}
+				/>
+			{/if}
 		</div>
 	</div>
 </article>
-
-{#if isHealthCoaching}
-	<HealthCoachingPricing />
-{/if}
-
-{#if isSkinTreatment}
-	<SkinTreatmentPricing />
-{/if}
-
-{#if hasFAQs}
-	<ServiceFAQ faqs={metadata.faqs} />
-{/if}
 
 {#if relatedServices.length > 0}
 	<RelatedServices services={relatedServices} />

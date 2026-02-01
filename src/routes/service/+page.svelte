@@ -98,6 +98,29 @@
 			},
 		],
 	};
+
+	// ItemList schema for all services
+	const itemListSchema = {
+		"@context": "https://schema.org",
+		"@type": "ItemList",
+		name: "Vicaria Health Services",
+		description:
+			"Complete list of health coaching and skin treatment services offered by Vicaria Health in Hamilton, Ontario.",
+		itemListElement: [
+			...healthCoachingServices.map((service, index) => ({
+				"@type": "ListItem",
+				position: index + 1,
+				name: service.service,
+				url: `https://vicaria.ca/service/${service.slug}`,
+			})),
+			...skinTreatmentServices.map((service, index) => ({
+				"@type": "ListItem",
+				position: healthCoachingServices.length + index + 1,
+				name: service.service,
+				url: `https://vicaria.ca/service/${service.slug}`,
+			})),
+		],
+	};
 </script>
 
 <svelte:head>
@@ -129,6 +152,8 @@
 		property="og:image"
 		content="https://vicaria.ca/images/vicaria-hero.webp"
 	/>
+	<meta property="og:site_name" content="Vicaria Health" />
+	<meta property="og:locale" content="en_CA" />
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image" />
@@ -140,6 +165,10 @@
 		name="twitter:description"
 		content="Expert nutrition counseling and skin treatments in Hamilton, Ontario."
 	/>
+	<meta
+		name="twitter:image"
+		content="https://vicaria.ca/images/vicaria-hero.webp"
+	/>
 
 	<!-- Canonical URL -->
 	<link rel="canonical" href="https://vicaria.ca/service" />
@@ -147,6 +176,7 @@
 	<!-- Structured Data -->
 	{@html `<script type="application/ld+json">${JSON.stringify(medicalBusinessSchema)}<\/script>`}
 	{@html `<script type="application/ld+json">${JSON.stringify(breadcrumbSchema)}<\/script>`}
+	{@html `<script type="application/ld+json">${JSON.stringify(itemListSchema)}<\/script>`}
 </svelte:head>
 
 <!-- Hero Section -->
@@ -295,7 +325,8 @@
 			{#each healthCoachingServices as service, index}
 				{@const IconComponent =
 					iconMap[service.cardIcon.toLowerCase()] || Activity}
-				<article
+				<a
+					href="/service/{service.slug}"
 					class="group relative bg-warm-white rounded-3xl p-8 hover-lift border border-gray-100 transition-all duration-300"
 					style="animation-delay: {index * 100}ms"
 				>
@@ -328,22 +359,8 @@
 								{service.solution}
 							</blockquote>
 						</div>
-
-						<!-- CTA -->
-						<div class="pt-4">
-							<a
-								href="/service/{service.slug}"
-								class="inline-flex items-center gap-2 text-primary font-semibold group-hover:gap-3 transition-all"
-							>
-								Learn More
-								<ArrowRight
-									size={18}
-									class="group-hover:translate-x-1 transition-transform"
-								/>
-							</a>
-						</div>
 					</div>
-				</article>
+				</a>
 			{/each}
 		</div>
 	</div>

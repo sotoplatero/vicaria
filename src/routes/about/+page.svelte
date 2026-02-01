@@ -138,8 +138,64 @@
 	</div>
 </section>
 
-<!-- Mission Statement -->
+<!-- Our Specialties Section -->
 <section class="section-padding bg-warm-white">
+	<div class="container-custom">
+		<div class="max-w-6xl mx-auto space-y-12">
+			<div class="text-center max-w-3xl mx-auto">
+				<h2 class="text-4xl md:text-5xl font-bold text-charcoal mb-4">
+					Our Specialties
+				</h2>
+				<p class="text-xl text-gray-600">
+					We provide evidence-based health coaching for a wide range of conditions, combining medical expertise with personalized nutrition strategies.
+				</p>
+			</div>
+
+			<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+				<!-- Health Coaching Services -->
+				<a href="/service/bloating-relief" class="group bg-white rounded-2xl p-6 hover-lift border border-gray-100 shadow-sm hover:border-primary/30 transition-all">
+					<h3 class="font-bold text-lg text-charcoal group-hover:text-primary transition-colors mb-2">Bloating Relief</h3>
+					<p class="text-gray-600 text-sm">Expert digestive support to identify triggers and eliminate uncomfortable bloating.</p>
+				</a>
+
+				<a href="/service/diabetes-clarity" class="group bg-white rounded-2xl p-6 hover-lift border border-gray-100 shadow-sm hover:border-primary/30 transition-all">
+					<h3 class="font-bold text-lg text-charcoal group-hover:text-primary transition-colors mb-2">Diabetes Clarity Coaching</h3>
+					<p class="text-gray-600 text-sm">Blood sugar management through personalized nutrition and lifestyle modifications.</p>
+				</a>
+
+				<a href="/service/ibs-nutrition-support" class="group bg-white rounded-2xl p-6 hover-lift border border-gray-100 shadow-sm hover:border-primary/30 transition-all">
+					<h3 class="font-bold text-lg text-charcoal group-hover:text-primary transition-colors mb-2">IBS Nutrition Support</h3>
+					<p class="text-gray-600 text-sm">FODMAP guidance and gut-healing protocols for lasting digestive relief.</p>
+				</a>
+
+				<a href="/service/blood-pressure-balance" class="group bg-white rounded-2xl p-6 hover-lift border border-gray-100 shadow-sm hover:border-primary/30 transition-all">
+					<h3 class="font-bold text-lg text-charcoal group-hover:text-primary transition-colors mb-2">Blood Pressure Balance</h3>
+					<p class="text-gray-600 text-sm">Natural strategies to manage hypertension through diet and lifestyle changes.</p>
+				</a>
+
+				<a href="/service/prediabetes-nutrition-support" class="group bg-white rounded-2xl p-6 hover-lift border border-gray-100 shadow-sm hover:border-primary/30 transition-all">
+					<h3 class="font-bold text-lg text-charcoal group-hover:text-primary transition-colors mb-2">Prediabetes Support</h3>
+					<p class="text-gray-600 text-sm">Reverse prediabetes naturally with evidence-based nutrition coaching.</p>
+				</a>
+
+				<a href="/service/menopause-health-coaching" class="group bg-white rounded-2xl p-6 hover-lift border border-gray-100 shadow-sm hover:border-primary/30 transition-all">
+					<h3 class="font-bold text-lg text-charcoal group-hover:text-primary transition-colors mb-2">Menopause Health Coaching</h3>
+					<p class="text-gray-600 text-sm">Navigate hormonal changes with nutrition strategies for symptom relief.</p>
+				</a>
+			</div>
+
+			<div class="text-center pt-4">
+				<a href="/service" class="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all">
+					View all our services
+					<ArrowRight size={18} />
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Mission Statement -->
+<section class="section-padding bg-gradient-to-b from-warm-white to-sage-light/10">
 	<div class="container-custom">
 		<div class="max-w-5xl mx-auto">
 			<div class="relative bg-primary rounded-3xl overflow-hidden shadow-2xl">

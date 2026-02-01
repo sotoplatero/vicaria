@@ -10,6 +10,11 @@ description: "Trusted diabetes coaching in Hamilton. Lower your A1C and stabiliz
 category: "health-coaching"
 order: 3
 image: "/images/vicaria-hero5.webp"
+author: "Dr. Yamilet Pina"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Maurin Casella, MD"
+datePublished: "2024-06-01"
+dateModified: "2025-01-15"
 faqs:
   - question: "Will this replace my diabetes medication?"
     answer: "No. We work alongside your medical team to optimize nutrition and lifestyle. Any medication changes should be discussed with your doctor. Our goal is to help you achieve better blood sugar control through sustainable lifestyle changes."
@@ -59,6 +64,8 @@ Your glucose levels are affected by:
 - **Insulin resistance patterns** Understanding your body's response to glucose and insulin
 
 At Vicaria Health, we're in downtown Hamilton. We see people in our office or virtually whatever works for you. Whether you're walking over from Durand or logging in from Ancaster, we build protocols based on your specific patterns, not textbook recommendations.
+
+> **Ready to gain clarity on your blood sugar management?** [Book a free 15-minute consultation](/free-consultation) and let's discuss your specific situation. No commitment required.
 
 ---
 
@@ -134,6 +141,21 @@ Good. That means you know what doesn't work. Most people who come to us have tri
 
 ---
 
+## Investment in Your Diabetes Management
+
+Our health coaching packages are designed to give you the sustained support needed for real, lasting blood sugar control.
+
+**Health Coaching Packages:**
+- **3-Session Package:** $240 CAD - Perfect for getting started with blood sugar stabilization strategies
+- **6-Session Package:** $450 CAD - Comprehensive support with CGM analysis and ongoing adjustments (Most Popular)
+- **12-Session Program:** $840 CAD - Full transformation for complex diabetes management needs
+
+All packages include personalized meal protocols, email support between sessions, blood sugar pattern analysis, and medication-timing optimization guidance. Many extended health insurance plans cover consultations with Registered Nutritional Practitioners.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
 ## Let's Talk
 
 We'll talk about where you're at, what you're hoping for, and whether this approach makes sense for you.
@@ -145,3 +167,31 @@ No pressure. No sales pitch. Just a real conversation about what's possible.
 Ready to stop guessing and start living with confidence?
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
+
+---
+
+## Frequently Asked Questions About Diabetes Coaching
+
+### Will this replace my diabetes medication?
+
+No. We work alongside your medical team to optimize nutrition and lifestyle. Any medication changes should be discussed with your doctor. Our goal is to help you achieve better blood sugar control through sustainable lifestyle changes.
+
+### Do you work with Type 1 and Type 2 diabetes?
+
+Yes. We work with both Type 1 and Type 2 diabetes, as well as prediabetes. Our approach is personalized to your specific type and needs. If you have prediabetes and want to focus specifically on reversal and prevention, our [Prediabetes Nutrition Support](/service/prediabetes-nutrition-support) program is designed for that.
+
+### How quickly will I see results?
+
+Most clients notice more stable blood sugar and energy within 2–4 weeks. A1C improvements typically show within 2–3 months of consistent implementation.
+
+### Will I have to give up carbs completely?
+
+No. We teach you how to include carbs strategically while maintaining stable blood sugar. Our approach focuses on balance, not restriction.
+
+### Do you offer virtual coaching?
+
+Yes. We see clients both in person at our downtown Hamilton office and virtually across Ontario.
+
+### How much does coaching cost?
+
+We offer a free 15-minute consultation to discuss your needs and our program options. [View our pricing](/pricing) or [contact us](/contact) for details.

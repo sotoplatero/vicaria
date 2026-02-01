@@ -396,7 +396,7 @@
 <!-- What We Help With (Brief) -->
 <section class="py-16 bg-white">
 	<div class="container-custom">
-		<div class="max-w-3xl mx-auto text-center">
+		<div class="max-w-4xl mx-auto text-center">
 			<h2 class="text-3xl md:text-4xl font-bold text-charcoal mb-8">
 				Common Questions We Get
 			</h2>
@@ -408,7 +408,7 @@
 						"Can you remove these skin tags on my neck?"
 					</h3>
 					<p class="text-gray-600 text-sm">
-						We do skin tag removal, milia removal, ruby points, and
+						We do <a href="/service/skin-tag-removal" class="text-primary hover:underline">skin tag removal</a>, milia removal, ruby points, and
 						seborrheic keratosis. <a
 							href="/service"
 							class="text-primary hover:underline"
@@ -424,7 +424,7 @@
 					</h3>
 					<p class="text-gray-600 text-sm">
 						We offer personalized health coaching for digestive
-						issues, IBS, bloating, and more. <a
+						issues, <a href="/service/ibs-nutrition-support" class="text-primary hover:underline">IBS</a>, <a href="/service/bloating-relief" class="text-primary hover:underline">bloating</a>, and more. <a
 							href="/service"
 							class="text-primary hover:underline"
 							>See health coaching →</a
@@ -435,22 +435,41 @@
 					class="p-6 bg-warm-white rounded-xl border border-gray-100"
 				>
 					<h3 class="font-bold text-charcoal mb-2">
-						"How much does it cost to get this looked at?"
+						"I'm struggling with diabetes/prediabetes. Can you help?"
 					</h3>
 					<p class="text-gray-600 text-sm">
-						That's exactly what we'll tell you upfront, before you
-						spend anything.
+						Our <a href="/service/diabetes-clarity" class="text-primary hover:underline">diabetes clarity coaching</a> and <a href="/service/prediabetes-nutrition-support" class="text-primary hover:underline">prediabetes support</a> programs help you manage blood sugar naturally.
 					</p>
 				</div>
 				<div
 					class="p-6 bg-warm-white rounded-xl border border-gray-100"
 				>
 					<h3 class="font-bold text-charcoal mb-2">
-						"Do I really need to come in, or can we do this online?"
+						"My blood pressure is high. Can nutrition help?"
 					</h3>
 					<p class="text-gray-600 text-sm">
-						Depends on what you need. We'll discuss that during the
-						free chat.
+						Our <a href="/service/blood-pressure-balance" class="text-primary hover:underline">blood pressure balance program</a> uses evidence-based nutrition strategies to support healthy blood pressure.
+					</p>
+				</div>
+				<div
+					class="p-6 bg-warm-white rounded-xl border border-gray-100"
+				>
+					<h3 class="font-bold text-charcoal mb-2">
+						"I'm going through menopause and struggling."
+					</h3>
+					<p class="text-gray-600 text-sm">
+						Our <a href="/service/menopause-health-coaching" class="text-primary hover:underline">menopause health coaching</a> helps you navigate hormonal changes with nutrition and lifestyle strategies.
+					</p>
+				</div>
+				<div
+					class="p-6 bg-warm-white rounded-xl border border-gray-100"
+				>
+					<h3 class="font-bold text-charcoal mb-2">
+						"How much does it cost to get this looked at?"
+					</h3>
+					<p class="text-gray-600 text-sm">
+						That's exactly what we'll tell you upfront, before you
+						spend anything. <a href="/pricing" class="text-primary hover:underline">See our pricing →</a>
 					</p>
 				</div>
 			</div>
