@@ -55,6 +55,9 @@ You're doing all that. But your numbers still don't make sense.
 **The problem isn't that you're not trying hard enough. It's that blood sugar control is more complex than a simple carb count.**
 
 Your glucose levels are affected by:
+
+![Infographic showing factors that affect blood sugar: meal timing, sleep quality, stress, inflammation, activity patterns, and medication timing](/images/services/diabetes-blood-sugar-factors.webp)
+
 - **Meal timing and composition** When you eat and how you combine foods matters as much as what you eat
 - **Sleep quality** Poor sleep spikes morning blood sugar and increases insulin resistance
 - **Stress and cortisol** Chronic stress keeps your glucose elevated even when you eat perfectly
@@ -72,6 +75,8 @@ At Vicaria Health, we're in downtown Hamilton. We see people in our office or vi
 ## How We Actually Help You Manage Diabetes
 
 We use a root-cause, personalized approach built on three pillars:
+
+![Chart showing stable blood sugar patterns vs unstable patterns throughout the day](/images/services/diabetes-blood-sugar-chart.webp)
 
 **Food Strategies That Work With Your Real Life**
 No bland, restrictive meal plans you'll hate by Wednesday. We show you how to build plates that stabilize blood sugar while including foods you actually enjoy even meals from your favorite Hamilton spots. You'll learn meal timing, food pairing, and portion strategies that keep your glucose steady without obsessive counting.

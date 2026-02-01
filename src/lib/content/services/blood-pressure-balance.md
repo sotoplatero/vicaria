@@ -70,6 +70,8 @@ Either way, we meet you where you are.
 
 We focus on three areas that move the needle:
 
+![Infographic showing lifestyle factors that affect blood pressure: nutrition, sleep, stress, and movement](/images/services/blood-pressure-lifestyle-factors.webp)
+
 **Food That Works for Your Life**  
 No bland chicken breast and steamed broccoli. We show you how to eat foods you genuinely enjoy including meals from your favorite Hamilton spots while supporting healthy blood pressure. You'd be surprised what actually works once you know how to put a plate together.
 
@@ -82,6 +84,8 @@ The anxiety around checking your blood pressure can become its own cycle. We hel
 ---
 
 ## What Makes Vicaria Health Different
+
+![Chart comparing our personalized approach vs generic DASH diet recommendations](/images/services/blood-pressure-approach-comparison.webp)
 
 ✓ **We're local**   Based in downtown Hamilton, serving the whole city and surrounding areas  
 ✓ **Evidence-based approach**   We use methods proven to support cardiovascular health  

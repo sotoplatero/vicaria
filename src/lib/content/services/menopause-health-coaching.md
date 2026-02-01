@@ -53,6 +53,9 @@ You've probably tried:
 **The issue isn't lack of effort it's lack of a personalized, hormone-informed approach.**
 
 Menopause symptoms can be driven by:
+
+![Diagram showing how hormones, nutrition, and lifestyle connect during menopause transition](/images/services/menopause-hormone-nutrition-connection.webp)
+
 - **Hormonal fluctuations and declining estrogen** affecting metabolism, mood, and body temperature regulation
 - **Insulin resistance and blood sugar instability** making weight management harder during perimenopause
 - **Cortisol dysregulation from chronic stress** amplifying hot flashes and sleep issues
@@ -71,6 +74,8 @@ We don't guess. We assess your unique hormonal picture, test when needed, and cr
 ## How We Actually Help You Navigate Menopause
 
 We use a root-cause, functional approach built on three pillars:
+
+![Infographic showing menopause symptom management strategies: nutrition, stress reduction, sleep optimization, and movement](/images/services/menopause-symptom-management.webp)
 
 **Hormone-Supportive Nutrition That Works With Your Body**
 We build an eating pattern that stabilizes blood sugar, supports healthy estrogen metabolism, and prevents the metabolic slowdown that drives weight gain.

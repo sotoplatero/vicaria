@@ -72,6 +72,8 @@ The entire process takes just a few minutes per skin tag. Most people describe i
 
 **Why electrocautery?**
 
+![Infographic showing the electrocautery skin tag removal process: consultation, preparation, removal, and aftercare](/images/services/skin-tag-removal-process.webp)
+
 ✓ **Immediate results**: The skin tag is removed on the spot
 
 ✓ **No bleeding**: Cauterization seals the area instantly

@@ -103,6 +103,8 @@ You've probably heard of the Low FODMAP diet. Maybe you've tried it. Maybe you'r
 
 **Here's what you need to know about working with a Low FODMAP diet dietitian:**
 
+![Infographic showing the 3 phases of Low FODMAP: Elimination, Reintroduction, and Personalization](/images/services/ibs-fodmap-phases.webp)
+
 ### When Low FODMAP Helps
 
 Low FODMAP is one of the most effective interventions for IBS **when used correctly**. Research shows about 75% of people with IBS see symptom improvement during the elimination phase.
@@ -153,6 +155,8 @@ If you're searching for a nutritionist specializing in IBS near you who knows ho
 Working with us isn't about following a pre-made meal plan or checking in once a month. It's systematic, personalized, and designed to actually solve the problem.
 
 **Here's the process:**
+
+![Diagram showing IBS trigger categories: food triggers, stress triggers, eating habits, and gut-brain connection](/images/services/ibs-trigger-categories.webp)
 
 ### 1. Initial IBS Symptom Assessment
 

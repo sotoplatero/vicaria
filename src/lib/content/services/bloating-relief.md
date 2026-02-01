@@ -82,6 +82,8 @@ Here's what most people don't understand about bloating: it's rarely about one "
 
 **Common bloating triggers we see:**
 
+![Diagram showing common bloating triggers: food combinations, eating speed, gut bacteria imbalances, and stress](/images/services/bloating-triggers-diagram.webp)
+
 ### Food Combinations That Ferment
 Certain food combinations ferment in your gut, producing gas and bloating. Fruit after a heavy meal. High-fiber foods with specific starches. Protein + certain carbs. These aren't "bad" foods they're just wrong combinations for YOUR digestion.
 
@@ -136,6 +138,8 @@ We're located in downtown Hamilton and work with clients across the city plus vi
 This isn't about giving you a list of "bad foods" and sending you on your way. It's a systematic process designed to find YOUR triggers and build sustainable relief.
 
 **Here's what we do:**
+
+![Infographic showing the 4-step bloating relief process: assessment, trigger identification, personalized adjustments, and monitoring](/images/services/bloating-relief-process.webp)
 
 ### 1. Bloating Pattern Assessment
 

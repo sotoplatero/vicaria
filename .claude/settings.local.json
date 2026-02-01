@@ -45,7 +45,9 @@
       "mcp__plugin_playwright_playwright__browser_close",
       "Bash(wc:*)",
       "Bash(find:*)",
-      "Bash(pnpm build)"
+      "Bash(pnpm build)",
+      "Bash(cwebp:*)",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []

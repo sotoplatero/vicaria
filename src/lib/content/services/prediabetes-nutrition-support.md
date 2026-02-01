@@ -95,6 +95,8 @@ Some of it helped at first. Then it stopped working. Or you couldn't stick with 
 
 **Here's why most prediabetes advice fails:**
 
+![Infographic showing A1C ranges: Normal (below 5.7%), Prediabetes (5.7-6.4%), and Diabetes (6.5% and above)](/images/services/prediabetes-a1c-range.webp)
+
 ### It Treats All Carbs the Same
 
 Not all carbs affect blood sugar equally. A sweet potato with chicken and broccoli affects your blood sugar differently than white rice alone. Berries with Greek yogurt hit differently than a banana on an empty stomach.
@@ -135,6 +137,8 @@ If you're looking for prediabetes nutrition coaching that goes beyond "eat less 
 Reversing prediabetes isn't about willpower or deprivation. It's about addressing insulin resistance systematically and building habits that stabilize blood sugar naturally.
 
 **Here's how we do it:**
+
+![Timeline showing typical prediabetes reversal journey: weeks 1-4 initial changes, weeks 4-8 stabilization, months 2-3 A1C improvement](/images/services/prediabetes-reversal-timeline.webp)
 
 ### Strategic Carb Choices (Not Elimination)
 
