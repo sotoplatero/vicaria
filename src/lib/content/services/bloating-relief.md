@@ -4,7 +4,7 @@ pain: "Your stomach feels like a balloon by 3 PM. You're bloated after every mea
 solution: "We identify what's causing your bloating food combinations, timing, stress patterns and build a personalized plan that brings lasting relief without restrictive diets."
 cardIcon: "activity"
 cardColor: "primary"
-title: "Bloating Relief Program in Hamilton"
+title: "Personalized Bloating Relief Program in Hamilton"
 city: "Hamilton"
 description: "Expert bloating relief support in Hamilton. Personalized nutrition for chronic bloating, digestive discomfort, and bloating after eating. Find lasting relief today."
 category: "health-coaching"

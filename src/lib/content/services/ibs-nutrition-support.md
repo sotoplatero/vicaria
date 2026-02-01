@@ -4,7 +4,7 @@ pain: "You've tried every diet. You track every meal. But IBS still controls you
 solution: "We help you identify your specific IBS triggers and build a personalized nutrition strategy that brings stability and freedom back to your life."
 cardIcon: "activity"
 cardColor: "primary"
-title: "IBS Dietitian Support in Hamilton"
+title: "Expert IBS Dietitian Support in Hamilton"
 city: "Hamilton"
 description: "Expert IBS dietitian in Hamilton offering personalized nutrition support. Specialized Low FODMAP guidance, trigger identification, and symptom management. Work with a nutritionist specializing in IBS near you."
 category: "health-coaching"

@@ -4,7 +4,7 @@ pain: "Hot flashes, weight gain, brain fog, and mood swings that make you feel l
 solution: "We help you navigate menopause with personalized nutrition, hormone-supportive strategies, and lifestyle changes that restore energy, clarity, and confidence."
 cardIcon: "heart"
 cardColor: "primary"
-title: "Menopause Health Coaching in Hamilton"
+title: "Empowered Menopause Health Coaching in Hamilton"
 city: "Hamilton"
 description: "Expert menopause health coaching in downtown Hamilton. Personalized nutrition and lifestyle plans to manage hot flashes, weight gain, mood swings, and energy crashes. Book your free consultation."
 category: "health-coaching"

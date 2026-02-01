@@ -4,9 +4,9 @@ pain: "You've finished treatment but recovery feels unclear. Low strength, poor 
 solution: "We create a gentle, personalized nutrition plan to rebuild energy, support healing, and help you feel like yourself again."
 cardIcon: "users"
 cardColor: "accent"
-title: "Cancer Nutritionist in Hamilton"
+title: "Integrative Cancer Nutritionist in Hamilton"
 city: "Hamilton"
-description: "Compassionate cancer recovery nutrition coaching in downtown Hamilton. Personalized post-treatment nutrition plans to rebuild strength, support healing, and restore energy. Book your free consultation."
+description: "Compassionate integrative cancer recovery nutrition coaching in downtown Hamilton. Personalized post-treatment nutrition plans to rebuild strength, support healing, and restore energy. Book your free consultation."
 category: "health-coaching"
 order: 1
 image: "/images/vicaria-hero1.webp"

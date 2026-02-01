@@ -4,7 +4,7 @@ pain: "You're told to \"watch your salt\" but nothing changes. You want control 
 solution: "We teach you simple routines for meals, rest, and mindset that support healthy blood pressure and reduce the anxiety around it."
 cardIcon: "heart"
 cardColor: "primary"
-title: "Blood Pressure Coach in Hamilton"
+title: "Effective Blood Pressure Balance Coaching in Hamilton"
 city: "Hamilton"
 description: "Blood pressure coaching in downtown Hamilton. Vicaria Health helps Hamilton residents from Westdale to Stoney Creek lower BP naturally. Evidence-based, personalized coaching."
 category: "health-coaching"

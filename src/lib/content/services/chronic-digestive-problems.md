@@ -4,7 +4,7 @@ pain: "Heartburn, bloating, constipation, or IBS that controls your days. You've
 solution: "We help you understand what really triggers your discomfort and rebuild calm, predictable digestion through food, rhythm, and mindful eating habits."
 cardIcon: "activity"
 cardColor: "primary"
-title: "Bloating Help Coach in Hamilton"
+title: "Dedicated Bloating Help Coach in Hamilton"
 city: "Hamilton"
 description: "Expert IBS and digestive health coaching in downtown Hamilton. Vicaria Health offers functional nutrition for bloating, SIBO, GERD, and chronic gut issues. Monash FODMAP trained. Book free consultation."
 category: "health-coaching"

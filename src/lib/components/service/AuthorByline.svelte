@@ -24,7 +24,7 @@
 
 {#if author}
 	<div
-		class="not-prose flex flex-col flex-wrap gap-2 py-4 px-6 bg-sage-light/20 rounded-xl border border-sage-light/30 mb-8"
+		class="not-prose flex flex-col flex-wrap gap-2 py-6 px-8 bg-sage-light/20 rounded-xl border border-sage-light/30 mb-8"
 	>
 		<!-- Author photo and info -->
 		<a
