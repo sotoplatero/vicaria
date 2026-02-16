@@ -1,28 +1,68 @@
 <script lang="ts">
-	import {
-		Activity,
-		Heart,
-		Users,
-		Droplets,
-		Sparkles,
-		ArrowRight,
-		Search,
-	} from "@lucide/svelte";
+	import { Heart, Sparkles, Search } from "@lucide/svelte";
 	import {
 		getHealthCoachingServices,
 		getSkinTreatmentServices,
 	} from "$lib/utils/services";
 	import WhatsAppButton from "$lib/components/WhatsAppButton.svelte";
+	import ServiceCard from "$lib/components/service/ServiceCard.svelte";
 
 	const healthCoachingServices = getHealthCoachingServices();
 	const skinTreatmentServices = getSkinTreatmentServices();
 
-	const iconMap: Record<string, any> = {
-		activity: Activity,
-		heart: Heart,
-		users: Users,
-		droplets: Droplets,
-		sparkles: Sparkles,
+	const cardImageMap: Record<string, { src: string; alt: string }> = {
+		"bloating-relief": {
+			src: "/images/services/bloating-triggers-diagram.webp",
+			alt: "Diagram showing common bloating triggers and digestive pathways",
+		},
+		"ibs-nutrition-support": {
+			src: "/images/services/ibs-fodmap-phases.webp",
+			alt: "Infographic showing the 3 phases of Low FODMAP diet management",
+		},
+		"diabetes-clarity": {
+			src: "/images/services/diabetes-blood-sugar-chart.webp",
+			alt: "Chart showing blood sugar levels and diabetes management targets",
+		},
+		"prediabetes-nutrition-support": {
+			src: "/images/services/prediabetes-reversal-timeline.webp",
+			alt: "Timeline showing prediabetes reversal milestones with nutrition",
+		},
+		"blood-pressure-balance": {
+			src: "/images/services/blood-pressure-lifestyle-factors.webp",
+			alt: "Diagram of lifestyle factors that affect blood pressure",
+		},
+		"cancer-recovery": {
+			src: "/images/services/cancer-recovery-nutrition-pillars.webp",
+			alt: "Infographic showing nutrition pillars for cancer recovery support",
+		},
+		"menopause-health-coaching": {
+			src: "/images/services/menopause-symptom-management.webp",
+			alt: "Infographic showing menopause symptom management strategies",
+		},
+		"chronic-digestive-problems": {
+			src: "/images/services/digestive-root-causes-diagram.webp",
+			alt: "Diagram showing root causes of chronic digestive problems",
+		},
+		"uti-pelvic-health": {
+			src: "/images/services/uti-prevention-strategy.webp",
+			alt: "Infographic showing UTI prevention and pelvic health strategies",
+		},
+		"skin-tag-removal": {
+			src: "/images/services/skin-tag-removal-process.webp",
+			alt: "Step-by-step illustration of professional skin tag removal",
+		},
+		"milia-removal": {
+			src: "/images/services/milia-extraction-process.webp",
+			alt: "Illustration of professional milia extraction process",
+		},
+		"ruby-points-treatment": {
+			src: "/images/services/ruby-points-electrocautery-process.webp",
+			alt: "Illustration of cherry angioma treatment with electrocautery",
+		},
+		"seborrheic-keratosis-removal": {
+			src: "/images/services/sk-removal-electrocautery-process.webp",
+			alt: "Illustration of seborrheic keratosis removal process",
+		},
 	};
 
 	// Schema markup for search engines
@@ -124,27 +164,20 @@
 </script>
 
 <svelte:head>
-	<title
-		>Professional Health Coaching & Skin Treatment Services in Hamilton, ON
-		| Vicaria Health</title
-	>
+	<title>Health Coaching & Skin Treatments in Hamilton | Vicaria Health</title>
 	<meta
 		name="description"
-		content="Expert nutrition counseling, health coaching, and professional skin treatments in Hamilton. Specialized care for digestive health, diabetes, cancer recovery, menopause, skin tags, milia removal, and more. Book your free consultation today."
-	/>
-	<meta
-		name="keywords"
-		content="health coaching Hamilton, nutrition counseling Hamilton, dietitian Hamilton, skin treatment Hamilton, diabetes coach, digestive health, menopause support, skin tag removal, milia removal Hamilton"
+		content="Nutrition coaching and skin treatments by medical doctors in Hamilton. Specializing in IBS, diabetes, cancer recovery, skin tags, and milia removal. Free consultation."
 	/>
 
 	<!-- Open Graph / Social Media -->
 	<meta
 		property="og:title"
-		content="Professional Health Coaching & Skin Treatment Services | Vicaria Health"
+		content="Health Coaching & Skin Treatments in Hamilton | Vicaria Health"
 	/>
 	<meta
 		property="og:description"
-		content="Expert nutrition counseling, health coaching, and professional skin treatments in Hamilton. Specialized care for digestive health, diabetes, cancer recovery, and skin concerns."
+		content="Nutrition coaching and skin treatments by medical doctors in Hamilton. Specializing in IBS, diabetes, cancer recovery, skin tags, and milia removal."
 	/>
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://vicaria.ca/service" />
@@ -159,11 +192,11 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta
 		name="twitter:title"
-		content="Professional Health Coaching & Skin Treatment Services | Vicaria Health"
+		content="Health Coaching & Skin Treatments in Hamilton | Vicaria Health"
 	/>
 	<meta
 		name="twitter:description"
-		content="Expert nutrition counseling and skin treatments in Hamilton, Ontario."
+		content="Nutrition coaching and skin treatments by medical doctors in Hamilton. Free consultation available."
 	/>
 	<meta
 		name="twitter:image"
@@ -207,23 +240,12 @@
 				<span class="text-charcoal">Services</span>
 			</nav>
 
-			<!-- Badge -->
-			<div
-				class="inline-flex items-center justify-center gap-2 glass px-5 py-2.5 rounded-full shadow-sm"
-			>
-				<span class="w-2 h-2 rounded-full bg-primary animate-pulse"
-				></span>
-				<span class="text-sm font-medium text-primary"
-					>Our Services</span
-				>
-			</div>
-
 			<!-- Title -->
 			<h1
 				class="text-4xl md:text-6xl lg:text-7xl font-bold text-charcoal leading-[0.95] tracking-tight"
 			>
-				Professional Health Coaching & <span class="text-primary block"
-					>Skin Treatment Services</span
+				Health Coaching & <span class="text-primary block"
+					>Skin Treatments</span
 				> in Hamilton
 			</h1>
 
@@ -231,66 +253,20 @@
 			<p
 				class="text-xl md:text-2xl text-gray-600 leading-relaxed max-w-3xl mx-auto"
 			>
-				Expert nutrition counseling, personalized health coaching, and
-				professional skin treatments to help you feel like yourself
-				again.
+				Every service at Vicaria Health is delivered by medical doctors
+				with 40+ years of combined clinical experience. We treat
+				the root cause, not just the symptoms.
 			</p>
 
 			<!-- CTA -->
 			<div class="pt-4">
 				<WhatsAppButton
-					text="Free 15-Min Consultation"
+					text="Book My Free Consultation"
+					callText="Book My Free Consultation"
 					variant="secondary"
 					size="xl"
+					message="Hi! I'd like to learn more about your services."
 				/>
-			</div>
-
-			<!-- Trust Indicators -->
-			<div
-				class="flex flex-wrap items-center justify-center gap-6 pt-6 text-sm text-gray-600"
-			>
-				<div class="flex items-center gap-2">
-					<svg
-						class="w-5 h-5 text-primary"
-						fill="currentColor"
-						viewBox="0 0 20 20"
-					>
-						<path
-							fill-rule="evenodd"
-							d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-							clip-rule="evenodd"
-						/>
-					</svg>
-					<span>Licensed & Certified</span>
-				</div>
-				<div class="flex items-center gap-2">
-					<svg
-						class="w-5 h-5 text-primary"
-						fill="currentColor"
-						viewBox="0 0 20 20"
-					>
-						<path
-							fill-rule="evenodd"
-							d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-							clip-rule="evenodd"
-						/>
-					</svg>
-					<span>Located in Hamilton, ON</span>
-				</div>
-				<div class="flex items-center gap-2">
-					<svg
-						class="w-5 h-5 text-primary"
-						fill="currentColor"
-						viewBox="0 0 20 20"
-					>
-						<path
-							fill-rule="evenodd"
-							d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-							clip-rule="evenodd"
-						/>
-					</svg>
-					<span>In-Person & Virtual</span>
-				</div>
 			</div>
 		</div>
 	</div>
@@ -299,7 +275,7 @@
 <!-- Health Coaching Services -->
 <section id="health-coaching" class="section-padding bg-white">
 	<div class="container-custom">
-		<header class="text-center mb-16">
+		<header class="text-center mb-12">
 			<div
 				class="inline-flex items-center justify-center gap-2 glass px-5 py-2.5 rounded-full shadow-sm mb-6"
 			>
@@ -315,52 +291,35 @@
 					>Wellness Coaching</span
 				>
 			</h2>
-			<p class="text-xl text-gray-600 leading-relaxed max-w-3xl mx-auto">
-				Evidence-based nutrition counseling tailored to your unique
-				health needs and goals.
-			</p>
 		</header>
 
-		<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+		<div class="max-w-3xl mx-auto mb-16 space-y-4 text-lg text-gray-700 leading-relaxed">
+			<p>
+				Most nutrition advice fails because it ignores your medical history.
+				Generic meal plans don't account for how your medications affect absorption,
+				why your gut reacts to certain foods, or what your lab results actually mean.
+			</p>
+			<p>
+				Our health coaching programs are built by medical doctors who understand
+				the clinical picture behind your symptoms. Whether you're managing a
+				chronic condition or trying to feel like yourself again, each program
+				starts with understanding YOUR body — not applying a template.
+			</p>
+		</div>
+
+		<div class="space-y-8 max-w-6xl mx-auto">
 			{#each healthCoachingServices as service, index}
-				{@const IconComponent =
-					iconMap[service.cardIcon.toLowerCase()] || Activity}
-				<a
-					href="/service/{service.slug}"
-					class="group relative bg-warm-white rounded-3xl p-8 hover-lift border border-gray-100 transition-all duration-300"
-					style="animation-delay: {index * 100}ms"
-				>
-					<!-- Icon -->
-					<div class="mb-6 relative">
-						<div
-							class="w-16 h-16 rounded-2xl bg-white shadow-lg flex items-center justify-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-300"
-						>
-							<IconComponent class="text-primary" size={32} />
-						</div>
-					</div>
-
-					<!-- Content -->
-					<div class="space-y-4">
-						<h3
-							class="text-2xl font-bold text-charcoal group-hover:text-primary transition-colors"
-						>
-							{service.service}
-						</h3>
-
-						<p class="text-gray-600 leading-relaxed text-base">
-							{service.pain}
-						</p>
-
-						<!-- Solution -->
-						<div class="pt-2 pb-4">
-							<blockquote
-								class="text-sm text-gray-700 leading-relaxed italic border-l-2 border-primary pl-4"
-							>
-								{service.solution}
-							</blockquote>
-						</div>
-					</div>
-				</a>
+				{@const imageData = cardImageMap[service.slug]}
+				<ServiceCard
+					service={service.service}
+					slug={service.slug}
+					pain={service.pain}
+					solution={service.solution}
+					image={imageData?.src ?? service.image}
+					imageAlt={imageData?.alt ?? service.service}
+					reverse={index % 2 !== 0}
+					accentColor="primary"
+				/>
 			{/each}
 		</div>
 	</div>
@@ -369,7 +328,7 @@
 <!-- Skin Treatment Services -->
 <section id="skin-treatments" class="section-padding bg-warm-white">
 	<div class="container-custom">
-		<header class="text-center mb-16">
+		<header class="text-center mb-12">
 			<div
 				class="inline-flex items-center justify-center gap-2 glass px-5 py-2.5 rounded-full shadow-sm mb-6"
 			>
@@ -383,67 +342,34 @@
 			>
 				Professional <span class="text-secondary">Skin Treatment</span> Services
 			</h2>
-			<p class="text-xl text-gray-600 leading-relaxed max-w-3xl mx-auto">
-				Safe, effective, and professional treatments for common skin
-				concerns.
-			</p>
 		</header>
 
-		<div class="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
+		<div class="max-w-3xl mx-auto mb-16 space-y-4 text-lg text-gray-700 leading-relaxed">
+			<p>
+				Skin tags, milia, cherry angiomas, and seborrheic keratoses are harmless —
+				but that doesn't mean you have to live with them. The difference at Vicaria
+				Health is that your treatment is performed by physicians, not estheticians.
+			</p>
+			<p>
+				We identify exactly what each lesion is before removing it, use proper
+				medical-grade sterilization, and know when something needs a closer look.
+				Quick procedures, minimal discomfort, and you're done in one visit.
+			</p>
+		</div>
+
+		<div class="space-y-8 max-w-6xl mx-auto">
 			{#each skinTreatmentServices as service, index}
-				{@const IconComponent =
-					iconMap[service.cardIcon.toLowerCase()] || Sparkles}
-				<article
-					class="group relative bg-white rounded-3xl p-8 hover-lift border border-gray-100 transition-all duration-300"
-					style="animation-delay: {index * 100}ms"
-				>
-					<!-- Icon -->
-					<div class="mb-6 relative">
-						<div
-							class="w-16 h-16 rounded-2xl bg-white shadow-lg flex items-center justify-center group-hover:scale-110 group-hover:rotate-3 transition-all duration-300"
-						>
-							<IconComponent class="text-secondary" size={32} />
-						</div>
-					</div>
-
-					<!-- Content -->
-					<div class="space-y-4">
-						<h3
-							class="text-xl font-bold text-charcoal group-hover:text-secondary transition-colors"
-						>
-							{service.service}
-						</h3>
-
-						<p class="text-gray-600 leading-relaxed">
-							{service.pain}
-						</p>
-
-						<!-- Solution (if available) -->
-						{#if service.solution}
-							<div class="pt-2">
-								<p
-									class="text-sm text-gray-700 leading-relaxed"
-								>
-									{service.solution}
-								</p>
-							</div>
-						{/if}
-
-						<!-- CTA -->
-						<div class="pt-2">
-							<a
-								href="/service/{service.slug}"
-								class="inline-flex items-center gap-2 text-secondary font-semibold text-sm group-hover:gap-3 transition-all"
-							>
-								Learn More
-								<ArrowRight
-									size={16}
-									class="group-hover:translate-x-1 transition-transform"
-								/>
-							</a>
-						</div>
-					</div>
-				</article>
+				{@const imageData = cardImageMap[service.slug]}
+				<ServiceCard
+					service={service.service}
+					slug={service.slug}
+					pain={service.pain}
+					solution={service.solution}
+					image={imageData?.src ?? service.image}
+					imageAlt={imageData?.alt ?? service.service}
+					reverse={index % 2 !== 0}
+					accentColor="secondary"
+				/>
 			{/each}
 		</div>
 	</div>
@@ -550,17 +476,6 @@
 </section>
 
 <style>
-	.hover-lift {
-		transition:
-			transform 0.3s ease,
-			box-shadow 0.3s ease;
-	}
-
-	.hover-lift:hover {
-		transform: translateY(-4px);
-		box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-	}
-
 	.glass {
 		background: rgba(255, 255, 255, 0.8);
 		backdrop-filter: blur(10px);
