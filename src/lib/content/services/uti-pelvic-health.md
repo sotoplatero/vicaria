@@ -14,7 +14,7 @@ author: "Dr. Yamilet Pina"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Maurin Casella, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Can you treat active UTIs?"
     answer: "No. We cannot diagnose or treat active infections that requires medical care and antibiotics. We focus on prevention strategies and addressing the underlying factors that make you susceptible to recurrent UTIs."
@@ -162,34 +162,5 @@ Recurrent UTIs shouldn't control your life.
 Chat with us a [**free 15-minute consultation**](https://wa.me/13653369757) today.
 
 We'll talk through your history, what you've tried, and whether a root-cause approach makes sense for your situation so you can finally break the cycle and restore confidence in your body.
-
----
-
-## Frequently Asked Questions About UTI Prevention Coaching
-
-### Can you treat active UTIs?
-
-No. We cannot diagnose or treat active infections — that requires medical care and antibiotics. We focus on prevention strategies and addressing the underlying factors that make you susceptible to recurrent UTIs.
-
-### How do you help prevent UTIs naturally?
-
-We address multiple factors including hydration strategies, dietary changes, gut and vaginal microbiome support, proper hygiene habits, stress management, and identifying personal triggers that contribute to recurrence.
-
-### How long until I see results?
-
-Many clients experience fewer infections within 2–3 months as we implement protective strategies. Long-term prevention improves with consistent habits over time.
-
-### Do you work with pelvic pain conditions?
-
-We provide supportive coaching for lifestyle and dietary factors that may contribute to pelvic discomfort. For diagnosis and medical treatment of pelvic pain conditions, you'll need to work with a physician or pelvic health specialist.
-
-### Is this available online?
-
-Yes. We offer both in-person sessions at our downtown Hamilton office and virtual coaching across Ontario.
-
-### What does coaching cost?
-
-We offer a free 15-minute consultation to discuss your specific situation and how we can help. [View our pricing](/pricing) or [contact us](/contact) for details.
-
 
 

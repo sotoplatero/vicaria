@@ -14,7 +14,7 @@ author: "Dr. Yamilet Pina"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Maurin Casella, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Can you diagnose digestive conditions like IBS or SIBO?"
     answer: "No. Diagnosis requires medical evaluation. We work with clients who have existing diagnoses or ongoing digestive symptoms to identify triggers and create personalized nutrition strategies."
@@ -159,30 +159,3 @@ Ready to stop planning your life around your gut?
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
 
----
-
-## Frequently Asked Questions About Digestive Health Coaching
-
-### Can you diagnose digestive conditions like IBS or SIBO?
-
-No. Diagnosis requires medical evaluation. We work with clients who have existing diagnoses or ongoing digestive symptoms to identify triggers and create personalized nutrition strategies.
-
-### Do you use the low FODMAP diet?
-
-Yes, when appropriate. We're Monash FODMAP trained and use it as a temporary diagnostic tool — not a permanent restriction. Our goal is to identify your specific triggers and expand your diet safely.
-
-### How long until I feel better?
-
-Many clients notice symptom improvement within 2–4 weeks as we identify and remove triggers. Long-term relief comes from understanding your unique patterns and building sustainable habits.
-
-### Will I have to avoid foods forever?
-
-No. Our approach is about finding what works for your body, not permanent restriction. We help you build a diverse, satisfying diet that doesn't trigger symptoms.
-
-### Do you offer virtual sessions?
-
-Yes. We see clients both in person at our downtown Hamilton office and virtually across Ontario.
-
-### What does coaching cost?
-
-We offer a free 15-minute consultation to discuss your digestive concerns and how we can help. [View our pricing](/pricing) or [contact us](/contact) for details.

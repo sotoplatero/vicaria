@@ -3,6 +3,7 @@
 	import Header from "$lib/components/Header.svelte";
 	import CTA from "$lib/components/CTA.svelte";
 	import RelatedServices from "$lib/components/service/RelatedServices.svelte";
+	import ServiceFAQ from "$lib/components/service/ServiceFAQ.svelte";
 	import AuthorByline from "$lib/components/service/AuthorByline.svelte";
 	import AuthorBox from "$lib/components/service/AuthorBox.svelte";
 	import WhatsAppButton from "$lib/components/WhatsAppButton.svelte";
@@ -122,23 +123,7 @@
 		})}<\/script>`}
 	{/if}
 
-	<!-- FAQPage Schema (when FAQs exist) -->
-	{#if hasFAQs}
-		{@html `<script type="application/ld+json">${JSON.stringify({
-			"@context": "https://schema.org",
-			"@type": "FAQPage",
-			mainEntity: metadata.faqs.map(
-				(faq: { question: string; answer: string }) => ({
-					"@type": "Question",
-					name: faq.question,
-					acceptedAnswer: {
-						"@type": "Answer",
-						text: faq.answer,
-					},
-				}),
-			),
-		})}<\/script>`}
-	{/if}
+	<!-- FAQPage Schema is rendered by ServiceFAQ component -->
 
 	<!-- MedicalWebPage Schema with Author -->
 	{#if metadata.author}
@@ -310,6 +295,10 @@
 		</div>
 	</div>
 </article>
+
+{#if hasFAQs}
+	<ServiceFAQ faqs={metadata.faqs} title="Frequently Asked Questions" />
+{/if}
 
 {#if relatedServices.length > 0}
 	<RelatedServices services={relatedServices} />

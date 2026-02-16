@@ -18,7 +18,7 @@ author: "Dr. Maurin Casella"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Yamilet Pina, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Does it hurt?"
     answer: "Most people feel a tiny pinch when we create the opening, but it's brief and very tolerable. The extraction itself is painless. We work gently and quickly."
@@ -32,6 +32,8 @@ faqs:
     answer: "We recommend waiting 24 hours to let the tiny openings close completely. After that, makeup is fine."
   - question: "How much does it cost?"
     answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. Most people find it more affordable than they expected."
+  - question: "What if I'm not sure they're milia?"
+    answer: "No problem. We'll examine the bumps and let you know exactly what they are. Sometimes what looks like milia is actually closed comedones (whiteheads), seborrheic keratosis (waxy brown growths), skin tags (soft hanging flaps), or even cherry angiomas (tiny red spots). We can identify the difference and recommend the right treatment."
 ---
 <script>
   import BeforeAfter from '$lib/components/service/BeforeAfter.svelte';
@@ -164,31 +166,6 @@ Even delicate areas like the eyelids are safe when treated by medical profession
 
 ---
 
-## Frequently Asked Questions
-
-**Does it hurt?**
-Most people feel a tiny pinch when we create the opening, but it's brief and very tolerable. The extraction itself is painless. We work gently and quickly.
-
-**Will it leave scars?**
-When done properly by medical professionals, milia extraction leaves minimal to no scarring. The micro-openings we create are incredibly small and heal cleanly within days.
-
-**Can I just squeeze them myself?**
-Please don't. Milia don't have a surface opening like pimples do, so squeezing won't work it'll just irritate your skin, cause redness, and potentially lead to scarring or infection. Let us handle it safely.
-
-**Will they come back?**
-The specific milia we remove won't come back. However, if you're prone to milia, new ones may develop over time especially if you use heavy skincare products or have sun damage. We can remove new ones as they appear.
-
-**Can I wear makeup after?**
-We recommend waiting 24 hours to let the tiny openings close completely. After that, makeup is fine.
-
-**How much does it cost?**
-Pricing depends on how many milia you're having removed. We'll give you transparent pricing during your consultation. Most people find it more affordable than they expected.
-
-**What if I'm not sure they're milia?**
-No problem. We'll examine the bumps and let you know exactly what they are. Sometimes what looks like milia is actually closed comedones (whiteheads), [seborrheic keratosis](/service/seborrheic-keratosis-removal) (waxy brown growths), [skin tags](/service/skin-tag-removal) (soft hanging flaps), or even [cherry angiomas](/service/ruby-points-treatment) (tiny red spots). We can identify the difference and recommend the right treatment.
-
----
-
 ## Why Choose Medical Doctors for Milia Removal
 
 **We're physicians, not estheticians.** That matters when you're working on delicate facial skin.
@@ -230,30 +207,3 @@ Stop hiding those white bumps under makeup.
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
 
----
-
-## Frequently Asked Questions About Milia Removal
-
-### Does it hurt?
-
-Most people feel a tiny pinch when we create the opening, but it's brief and very tolerable. The extraction itself is painless. We work gently and quickly.
-
-### Will it leave scars?
-
-When done properly by medical professionals, milia extraction leaves minimal to no scarring. The micro-openings we create are incredibly small and heal cleanly within days.
-
-### Can I just squeeze them myself?
-
-Please don't. Milia don't have a surface opening like pimples do, so squeezing won't work — it'll just irritate your skin, cause redness, and potentially lead to scarring or infection. Let us handle it safely.
-
-### Will they come back?
-
-The specific milia we remove won't come back. However, if you're prone to milia, new ones may develop over time — especially if you use heavy skincare products or have sun damage. We can remove new ones as they appear.
-
-### Can I wear makeup after?
-
-We recommend waiting 24 hours to let the tiny openings close completely. After that, makeup is fine.
-
-### How much does it cost?
-
-Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. Most people find it more affordable than they expected.

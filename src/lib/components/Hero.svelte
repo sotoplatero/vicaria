@@ -1,7 +1,14 @@
 <script lang="ts">
-	import { Sparkles, Heart, Shield } from "@lucide/svelte";
+	import { Star, Heart, Shield, Globe } from "@lucide/svelte";
 	import WhatsAppButton from "./WhatsAppButton.svelte";
 	import Btn from "./Btn.svelte";
+
+	interface Props {
+		googleRating: number;
+		totalReviews: number;
+	}
+
+	let { googleRating, totalReviews }: Props = $props();
 </script>
 
 <section
@@ -33,31 +40,33 @@
 				<h1
 					class="text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal tracking-tighter"
 				>
-					Hamilton's Most
-					<span class="text-primary">Trusted Nutritionist</span>
+					Get a Nutrition Plan From
+					<span class="text-primary">Actual Medical Doctors</span>
 				</h1>
 
 				<!-- Subheadline -->
 				<p
 					class="text-lg md:text-xl text-gray-600 leading-relaxed max-w-2xl font-light"
 				>
-					Personalized nutrition coaching for digestive health,
-					diabetes, hypertension, and cancer support, tailored to your
-					unique needs.
+					Two MDs with 40+ years of clinical experience build
+					personalized nutrition plans for digestive disorders,
+					diabetes, and cancer support. Real medical knowledge behind
+					every recommendation.
 				</p>
 
 				<!-- CTA -->
 				<div class="flex justify-center lg:justify-start">
 					<WhatsAppButton
+						text="Book My Free Consultation"
+						callText="Book My Free Consultation"
 						size="xl"
 						variant="primary"
-						message="Hi! I'm interested in your services."
-						animatedBorder={true}
+						message="Hi! I'd like to book a free consultation to discuss my health goals."
 					/>
 				</div>
 
 				<!-- Trust Indicators -->
-				<div class="flex items-center gap-4 md:gap-8 py-4">
+				<div class="flex flex-wrap items-center gap-4 md:gap-8 py-4">
 					<div class="flex items-center gap-3 group">
 						<div
 							class="w-12 h-12 rounded-2xl bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-transform"
@@ -65,8 +74,8 @@
 							<Shield class="text-primary" size={24} />
 						</div>
 						<div>
-							<div class="font-bold text-charcoal">Certified</div>
-							<div class="text-sm text-gray-500">RHN, CNP</div>
+							<div class="font-bold text-charcoal">Medical Doctors</div>
+							<div class="text-sm text-gray-500">40+ Years Experience</div>
 						</div>
 					</div>
 
@@ -74,15 +83,27 @@
 						<div
 							class="w-12 h-12 rounded-2xl bg-secondary/10 flex items-center justify-center group-hover:scale-110 transition-transform"
 						>
-							<Heart class="text-secondary" size={24} />
+							<Star class="text-secondary" size={24} />
 						</div>
 						<div>
 							<div class="font-bold text-charcoal">
-								100+ People
+								{googleRating} on Google
 							</div>
 							<div class="text-sm text-gray-500">
-								Transformed Lives
+								{totalReviews}+ Verified Reviews
 							</div>
+						</div>
+					</div>
+
+					<div class="flex gap-3 group">
+						<div
+							class="w-12 h-12 rounded-2xl bg-accent/10 flex items-center justify-center group-hover:scale-110 transition-transform"
+						>
+							<Globe class="text-accent" size={24} />
+						</div>
+						<div>
+							<div class="font-bold text-charcoal">Bilingual</div>
+							<div class="text-sm text-gray-500">English & Spanish</div>
 						</div>
 					</div>
 				</div>

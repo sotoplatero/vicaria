@@ -18,7 +18,7 @@ author: "Dr. Maurin Casella"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Yamilet Pina, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Does it hurt?"
     answer: "Most people describe it as a brief warm sensation or light pinch. If you're concerned, we can use a topical numbing agent to make it even more comfortable. The procedure is quick much easier than most people expect."
@@ -32,6 +32,8 @@ faqs:
     answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you transparent pricing during your consultation."
   - question: "Will they come back?"
     answer: "The specific growths we remove won't grow back. But if you're prone to seborrheic keratoses, new ones may develop elsewhere over time. That's normal and we can remove those too when they appear."
+  - question: "Can I remove them at home?"
+    answer: "Please don't. Home removal methods (freezing kits, acids, scraping) can cause infection, scarring, or damage to healthy skin. Plus, if what you think is a seborrheic keratosis is actually something else, removing it improperly could be dangerous. Let us handle it safely."
 ---
 
 <script>
@@ -142,31 +144,6 @@ Before you commit to treatment, see what's actually possible. These are real res
 
 ---
 
-## Common Questions You're Probably Wondering
-
-**Does it hurt?**
-Most people describe it as a brief warm sensation or light pinch. If you're concerned, we can use a topical numbing agent to make it even more comfortable. The procedure is quick much easier than most people expect.
-
-**Will it leave a scar?**
-When done properly by medical professionals, scarring is rare and usually minimal. The area may look slightly pink for a few weeks, then it fades to match your surrounding skin tone.
-
-**Can I just ignore them?**
-You can they're harmless. But many people remove them because they're cosmetically bothersome, get irritated by clothing or jewelry, or simply want clearer skin. It's totally your call.
-
-**Are they dangerous?**
-No. Seborrheic keratoses are benign and won't turn into cancer. **However**, some skin cancers (like melanoma) can look similar. That's why it's smart to have a doctor examine any new or changing skin growth.
-
-**How much does it cost?**
-Depends on how many lesions you're having removed. We'll give you transparent pricing during your consultation. Most people find it more affordable than they expected.
-
-**Will they come back?**
-The specific growths we remove won't grow back. But if you're prone to seborrheic keratoses, new ones may develop elsewhere over time. That's normal and we can remove those too when they appear.
-
-**Can I remove them at home?**
-Please don't. Home removal methods (freezing kits, acids, scraping) can cause infection, scarring, or damage to healthy skin. Plus, if what you think is a seborrheic keratosis is actually something else, removing it improperly could be dangerous. Let us handle it safely.
-
----
-
 ![Infographic showing types of seborrheic keratosis appearances including flat spots, raised bumps, waxy patches, and thickened lesions](/images/services/sk-types-appearance.webp)
 
 ## Why Choose Medical Doctors for Seborrheic Keratosis Removal
@@ -210,32 +187,4 @@ We'll examine your skin growths, confirm what they are, answer your questions, a
 Stop letting stubborn brown spots bother you.
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
-
----
-
-## Frequently Asked Questions About Seborrheic Keratosis Removal
-
-### Does it hurt?
-
-Most people describe it as a brief warm sensation or light pinch. If you're concerned, we can use a topical numbing agent to make it even more comfortable. The procedure is quick — much easier than most people expect.
-
-### Will it leave a scar?
-
-When done properly by medical professionals, scarring is rare and usually minimal. The area may look slightly pink for a few weeks, then it fades to match your surrounding skin tone.
-
-### Can I just ignore them?
-
-You can — they're harmless. But many people remove them because they're cosmetically bothersome, get irritated by clothing or jewelry, or simply want clearer skin. It's totally your call.
-
-### Are they dangerous?
-
-No. Seborrheic keratoses are benign and won't turn into cancer. However, some skin cancers (like melanoma) can look similar. That's why it's smart to have a doctor examine any new or changing skin growth.
-
-### How much does it cost?
-
-Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you transparent pricing during your consultation.
-
-### Will they come back?
-
-The specific growths we remove won't grow back. But if you're prone to seborrheic keratoses, new ones may develop elsewhere over time. That's normal — and we can remove those too when they appear.
 

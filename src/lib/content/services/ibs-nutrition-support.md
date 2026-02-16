@@ -14,7 +14,7 @@ author: "Dr. Yamilet Pina"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Maurin Casella, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Is this different from seeing a general dietitian?"
     answer: "Yes. General dietitians provide broad nutrition advice. An IBS nutritionist focuses specifically on digestive symptom patterns, trigger identification, and IBS-specific protocols like Low FODMAP. We understand the nuances of IBS subtypes (IBS-D, IBS-C, IBS-M) and tailor strategies accordingly."
@@ -28,6 +28,8 @@ faqs:
     answer: "Yes. We see clients both in person in Hamilton and virtually across Ontario. IBS nutrition support works well remotely since we focus on patterns, triggers, and strategies rather than physical assessments."
   - question: "What if I've already tried elimination diets?"
     answer: "Most elimination diets fail because they're either too broad (cutting everything) or too generic (cutting the 'common triggers' that might not be YOUR triggers). We use systematic approaches to identify YOUR specific patterns, then build a diverse diet around what actually works for your body."
+  - question: "How much does IBS nutrition support cost?"
+    answer: "We offer a free 15-minute consultation to discuss your IBS symptoms, what you've tried, and whether our approach makes sense for your situation. Program details and pricing are covered during that conversation based on your specific needs. No pressure, no sales pitch just an honest discussion about what it takes to manage IBS effectively."
 ---
 
 ## Looking for an IBS Dietitian Near You?
@@ -217,63 +219,6 @@ Many of our IBS clients prefer virtual sessions (no commute stress, no worrying 
 
 ---
 
-## Common Questions About IBS Nutrition Support
-
-**Is this different from seeing a general dietitian?**
-
-Yes. A general dietitian covers broad nutrition topics. We focus specifically on IBS symptom patterns, trigger identification, IBS-specific protocols like Low FODMAP, and the gut-brain connection that most practitioners miss.
-
-We've worked with clients who saw general dietitians and got generic advice ("eat more fiber," "avoid dairy") that didn't address their specific triggers or IBS subtype.
-
-**Do you help with Low FODMAP diets?**
-
-Absolutely. We're trained in proper Low FODMAP implementation, which means:
-- Knowing when it's appropriate (and when it's not)
-- Guiding you through elimination correctly (most people miss key details)
-- Supporting systematic reintroduction (where most DIY attempts fail)
-- Helping you build a diverse diet after identifying your specific triggers
-
-We're **FODMAP nutritionists** who use the protocol strategically, not as a permanent restriction.
-
-**Can nutrition help IBS without medication?**
-
-For many people, yes. Nutrition is often the primary intervention for IBS symptom management. Research shows dietary changes can be as effective as medication for many IBS patients.
-
-That said, we work alongside your medical team we don't replace them. Some clients manage IBS primarily through nutrition. Others combine it with medications or other therapies.
-
-**How long does it take to see improvement?**
-
-Most clients notice symptom changes within 2-4 weeks as we identify and remove or reduce major triggers. Building long-term stability and flexibility takes 2-3 months as we:
-- Fine-tune your personalized approach
-- Complete reintroduction phases if using elimination protocols
-- Establish sustainable eating patterns that work in real life
-
-**Do you offer virtual sessions?**
-
-Yes. We see clients both in person in Hamilton and virtually across Ontario. IBS nutrition support translates well to virtual sessions since we're focused on symptom patterns, triggers, and strategies rather than physical assessments.
-
-Virtual works great if you're outside Hamilton, prefer the convenience of home sessions, or get anxious about commuting with IBS symptoms.
-
-**What if I've already tried elimination diets?**
-
-Most elimination diets fail for predictable reasons:
-- Eliminating too broadly (cutting everything, feeling deprived, giving up)
-- Eliminating too generically (removing "common triggers" that might not be YOUR triggers)
-- No systematic reintroduction (getting stuck in restriction)
-- Not addressing other IBS factors (stress, eating patterns, gut-brain axis)
-
-**We use evidence-based, systematic approaches** that identify YOUR specific patterns and help you build a sustainable, diverse diet not permanent restriction.
-
-If you've tried elimination before and it didn't work, that doesn't mean YOU failed. It usually means the approach was flawed.
-
-**How much does IBS nutrition support cost?**
-
-We offer a free 15-minute consultation to discuss your IBS symptoms, what you've tried, and whether our approach makes sense for your situation.
-
-Program details and pricing are covered during that conversation based on your specific needs. No pressure, no sales pitch just an honest discussion about what it takes to manage IBS effectively.
-
----
-
 ## Investment in Your IBS Management
 
 Our health coaching packages are designed to give you the sustained support needed for real, lasting digestive relief.
@@ -305,30 +250,3 @@ We'll talk about:
 
 Book your free 15-minute consultation and let's figure out what's really going on.
 
----
-
-## Frequently Asked Questions About IBS Nutrition Support
-
-### Is this different from seeing a general dietitian?
-
-Yes. General dietitians provide broad nutrition advice. An IBS nutritionist focuses specifically on digestive symptom patterns, trigger identification, and IBS-specific protocols like Low FODMAP. We understand the nuances of IBS subtypes (IBS-D, IBS-C, IBS-M) and tailor strategies accordingly.
-
-### Do you help with Low FODMAP diets?
-
-Absolutely. We're trained in proper Low FODMAP implementation including when to use it, when NOT to use it, and how to reintroduce foods safely. Most people who "tried FODMAP and it didn't work" either didn't eliminate properly or got stuck in restriction mode. We guide you through the full process correctly.
-
-### Can nutrition help IBS without medication?
-
-For many people, yes. Nutrition is often the primary intervention for IBS symptom management. That said, we work alongside your medical team — not instead of them. Some clients use nutrition as their main strategy, others combine it with medication or other therapies.
-
-### How long does it take to see improvement?
-
-Most clients notice symptom changes within 2-4 weeks as we identify and adjust triggers. Building long-term stability takes 2-3 months as we fine-tune your personalized approach and establish sustainable eating patterns.
-
-### Do you offer virtual sessions?
-
-Yes. We see clients both in person in Hamilton and virtually across Ontario. IBS nutrition support works well remotely since we focus on patterns, triggers, and strategies rather than physical assessments.
-
-### What if I've already tried elimination diets?
-
-Most elimination diets fail because they're either too broad (cutting everything) or too generic (cutting the "common triggers" that might not be YOUR triggers). We use systematic approaches to identify YOUR specific patterns, then build a diverse diet around what actually works for your body.

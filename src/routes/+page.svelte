@@ -1,6 +1,8 @@
 <script lang="ts">
 	import { onMount } from "svelte";
 	import Hero from "$lib/components/Hero.svelte";
+	import SocialProofBar from "$lib/components/SocialProofBar.svelte";
+	import PainSection from "$lib/components/PainSection.svelte";
 	import Services from "$lib/components/Services.svelte";
 	import HowItWorks from "$lib/components/HowItWorks.svelte";
 	import About from "$lib/components/About.svelte";
@@ -100,15 +102,17 @@
 		href="/images/vicaria-hero.webp"
 		fetchpriority="high"
 	/>
-	<title>Vicaria Health - Expert Nutrition Counseling in Hamilton, ON</title>
+	<title>Nutritionist in Hamilton, ON | Free Consultation - Vicaria Health</title>
 	<meta
 		name="description"
-		content="Professional nutrition counseling for digestive health, diabetes, cancer support, and more. Located in Hamilton, Ontario. Book your free consultation today."
+		content="Struggling with digestive issues, diabetes, or fatigue? Two medical doctors with 40+ years of experience create personalized nutrition plans. Rated 5.0 on Google. Book a free 15-min consultation."
 	/>
 	{@html `<script type="application/ld+json">${JSON.stringify(localBusinessSchema)}<\/script>`}
 </svelte:head>
 
-<Hero />
+<Hero googleRating={data.googleRating} totalReviews={data.totalReviews} />
+<SocialProofBar googleRating={data.googleRating} totalReviews={data.totalReviews} />
+<PainSection />
 <Services />
 <HowItWorks />
 
@@ -117,7 +121,6 @@
 	{#if TestimonialsComponent}
 		<TestimonialsComponent />
 	{:else}
-		<!-- Loading placeholder with similar height to prevent layout shift -->
 		<div class="section-padding bg-warm-white" style="min-height: 800px;">
 			<div class="container-custom">
 				<div class="text-center">
@@ -136,7 +139,7 @@
 <CTA
 	badge="Take the First Step"
 	badgeIcon={Heart}
-	title="Ready to Feel Like Yourself Again?"
-	description="Join hundreds of satisfied clients who've transformed their health with personalized nutrition coaching in Hamilton. Start your journey today with a free 15-minute consultation no commitment required."
+	title="Your Health Deserves More Than Guesswork"
+	description="Book a free 15-minute consultation with our medical doctors. No commitment, no credit card — just a real conversation about your health with someone who understands medicine."
 	backgroundColor="primary"
 />

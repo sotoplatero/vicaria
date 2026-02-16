@@ -14,7 +14,7 @@ author: "Dr. Yamilet Pina"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Maurin Casella, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Should I stop taking my blood pressure medication?"
     answer: "No. Never stop or adjust your medication without consulting your doctor. We work alongside your medical team to help you make lifestyle changes that support healthy blood pressure. Any medication changes should be made by your physician."
@@ -156,31 +156,4 @@ Ready to stop worrying about your numbers and start controlling them?
 
 [**Free Consultation with us**](https://wa.me/13653369757)
 
----
-
-## Frequently Asked Questions About Blood Pressure Coaching
-
-### Should I stop taking my blood pressure medication?
-
-No. Never stop or adjust your medication without consulting your doctor. We work alongside your medical team to help you make lifestyle changes that support healthy blood pressure. Any medication changes should be made by your physician.
-
-### How long until I see results?
-
-Many clients notice improvements in their blood pressure readings within 3–6 weeks of implementing our strategies. Long-term results depend on consistency and individual factors.
-
-### Is this just about reducing salt?
-
-No. While sodium management is important, we address multiple factors including stress management, sleep quality, potassium-rich foods, movement, and overall dietary patterns that influence blood pressure.
-
-### Can you help if I have white coat hypertension?
-
-Yes. We help you understand your triggers and develop strategies to manage anxiety around blood pressure monitoring, plus lifestyle approaches to support overall cardiovascular health.
-
-### Do you offer online coaching?
-
-Yes. We see clients in person at our downtown Hamilton clinic and virtually across Ontario.
-
-### What does coaching cost?
-
-We offer a free 15-minute consultation to discuss your situation and our coaching programs. [View our pricing](/pricing) or [contact us](/contact) for details.
 

@@ -18,7 +18,7 @@ author: "Dr. Maurin Casella"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Yamilet Pina, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Does it hurt?"
     answer: "Electrocautery causes minimal discomfort most people describe it as a brief warm sensation or quick pinch. For sensitive areas or if you're particularly nervous, we can apply a topical numbing agent beforehand. Most people are surprised by how easy and quick it is."
@@ -170,26 +170,3 @@ Stop letting skin tags bother you.
 
 [**Chat with us on WhatsApp**](https://wa.me/13653369757)
 
----
-
-## Frequently Asked Questions About Skin Tag Removal
-
-### Does it hurt?
-
-Electrocautery causes minimal discomfort — most people describe it as a brief warm sensation or quick pinch. For sensitive areas or if you're particularly nervous, we can apply a topical numbing agent beforehand. Most people are surprised by how easy and quick it is.
-
-### Will it leave a scar?
-
-Rarely. When done properly by medical professionals, skin tag removal typically heals without visible scarring. The area may be slightly pink for a few weeks, then it fades.
-
-### Can I just cut it off myself?
-
-Please don't. Home removal risks infection, excessive bleeding, and scarring. Plus, if it's not actually a skin tag (if it's a mole or something else), cutting it yourself could cause problems. Let us handle it safely.
-
-### How much does it cost?
-
-Initial consultation via WhatsApp is FREE (15 minutes, video optional). If you decide to proceed, the in-person consultation is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you clear pricing during your consultation.
-
-### Will they come back?
-
-The specific skin tags we remove won't grow back. But if you're prone to skin tags, new ones may develop elsewhere over time. We can remove those too.

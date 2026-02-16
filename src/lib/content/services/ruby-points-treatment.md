@@ -18,7 +18,7 @@ author: "Dr. Maurin Casella"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Yamilet Pina, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Does it hurt?"
     answer: "Most people describe it as a brief warm sensation or tiny pinch. The process is very quick seconds per ruby point so any discomfort is over almost immediately. We work efficiently and gently."
@@ -32,6 +32,8 @@ faqs:
     answer: "Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you transparent pricing during your consultation."
   - question: "Can I just leave them alone?"
     answer: "Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons they want clear, even-toned skin without red spots. It's entirely your choice."
+  - question: "What if they start bleeding?"
+    answer: "If you accidentally scratch or irritate a ruby point and it bleeds, apply gentle pressure with a clean cloth until the bleeding stops. They can bleed more than you'd expect because they're clusters of blood vessels, but the bleeding will stop. If it happens frequently, that's a good reason to have them removed."
 ---
 <script>
   import BeforeAfter from '$lib/components/service/BeforeAfter.svelte';
@@ -168,31 +170,6 @@ Even sensitive areas are safe when treated by medical professionals using proper
 
 ---
 
-## Frequently Asked Questions
-
-**Does it hurt?**
-Most people describe it as a brief warm sensation or tiny pinch. The process is very quick seconds per ruby point so any discomfort is over almost immediately. We work efficiently and gently.
-
-**Will it leave scars?**
-When done properly by medical professionals, ruby point removal leaves minimal to no scarring. You may have slight discoloration for a few weeks while the skin heals, but it typically fades completely.
-
-**Are ruby points dangerous?**
-No. Cherry angiomas are benign and won't turn into cancer. However, they can bleed if scratched or irritated because they're made of blood vessels. If you notice sudden changes in size, shape, or color, it's worth having a doctor examine them but most ruby points are completely harmless.
-
-**Will they come back?**
-The specific ruby points we remove won't grow back. However, if you're prone to developing cherry angiomas, new ones may appear elsewhere over time. We can treat those as they develop.
-
-**How much does it cost?**
-Pricing depends on how many ruby points you're having removed. We'll give you transparent pricing during your consultation. Most people find it more affordable than expected.
-
-**Can I just leave them alone?**
-Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons they want clear, even-toned skin without red spots. It's entirely your choice.
-
-**What if they start bleeding?**
-If you accidentally scratch or irritate a ruby point and it bleeds, apply gentle pressure with a clean cloth until the bleeding stops. They can bleed more than you'd expect because they're clusters of blood vessels, but the bleeding will stop. If it happens frequently, that's a good reason to have them removed.
-
----
-
 ## Why Choose Medical Doctors for Ruby Point Removal
 
 **We're physicians, not estheticians.** That matters when treating vascular lesions.
@@ -233,30 +210,3 @@ Stop feeling self-conscious about red spots.
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
 
----
-
-## Frequently Asked Questions About Ruby Point Treatment
-
-### Does it hurt?
-
-Most people describe it as a brief warm sensation or tiny pinch. The process is very quick — seconds per ruby point — so any discomfort is over almost immediately. We work efficiently and gently.
-
-### Will it leave scars?
-
-When done properly by medical professionals, ruby point removal leaves minimal to no scarring. You may have slight discoloration for a few weeks while the skin heals, but it typically fades completely.
-
-### Are ruby points dangerous?
-
-No. Cherry angiomas are benign and won't turn into cancer. However, they can bleed if scratched or irritated because they're made of blood vessels. If you notice sudden changes in size, shape, or color, it's worth having a doctor examine them — but most ruby points are completely harmless.
-
-### Will they come back?
-
-The specific ruby points we remove won't grow back. However, if you're prone to developing cherry angiomas, new ones may appear elsewhere over time. We can treat those as they develop.
-
-### How much does it cost?
-
-Consultation fee is $60 CAD + taxes. Treatment pricing is $20-$25 per lesion (based on size and location) + taxes. We'll give you transparent pricing during your consultation.
-
-### Can I just leave them alone?
-
-Absolutely. Ruby points are harmless, so treatment is optional. Most people choose removal for cosmetic reasons — they want clear, even-toned skin without red spots. It's entirely your choice.

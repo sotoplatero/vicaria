@@ -14,7 +14,7 @@ author: "Dr. Yamilet Pina"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Maurin Casella, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Is bloating always related to IBS?"
     answer: "No. Bloating can be caused by many factors food combinations, eating speed, stress, gut bacteria imbalances, food sensitivities, or digestive motility issues. While bloating is a common IBS symptom, many people experience chronic bloating without an IBS diagnosis. We work with both."
@@ -293,30 +293,3 @@ We'll talk about:
 
 Book your free 15-minute consultation and let's figure out what's really going on.
 
----
-
-## Frequently Asked Questions About Bloating Relief
-
-### Is bloating always related to IBS?
-
-No. Bloating can be caused by many factors — food combinations, eating speed, stress, gut bacteria imbalances, food sensitivities, or digestive motility issues. While bloating is a common IBS symptom, many people experience chronic bloating without an IBS diagnosis. We work with both. If you have IBS and need specialized [IBS nutrition support](/service/ibs-nutrition-support), we understand how to work with that.
-
-### How long does it take to reduce bloating?
-
-Most clients notice improvement within 1-3 weeks as we identify and adjust major triggers. Some see changes within days when we address obvious patterns like eating speed or specific food combinations. Building long-term stability takes 4-8 weeks as we fine-tune your approach.
-
-### Do I need to follow a restrictive diet?
-
-No. Restrictive diets often make bloating worse by creating stress and limiting beneficial foods. We use strategic, temporary adjustments to identify YOUR specific triggers, then build the most diverse diet possible that doesn't cause bloating. The goal is freedom, not restriction.
-
-### Can stress cause bloating?
-
-Absolutely. Stress affects digestion directly — it slows stomach emptying, changes gut bacteria, and can trigger bloating even with foods you normally tolerate. We address both food triggers AND the nervous system patterns that contribute to digestive bloating.
-
-### What if I'm already avoiding foods and still bloating?
-
-This is very common. Random elimination rarely works because bloating triggers are often about combinations, timing, and how you eat — not just what you eat. We use a systematic approach to find your actual patterns instead of guessing.
-
-### Do you offer virtual sessions?
-
-Yes. We see clients both in person in Hamilton and virtually across Ontario. Bloating relief support works well remotely since we focus on patterns, triggers, and practical strategies you implement at home.

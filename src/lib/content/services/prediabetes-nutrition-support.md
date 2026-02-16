@@ -14,7 +14,7 @@ author: "Dr. Yamilet Pina"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Maurin Casella, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Can prediabetes actually be reversed?"
     answer: "Yes. Research shows that with the right nutrition and lifestyle changes, many people can reverse prediabetes and return blood sugar to normal levels. The key is addressing insulin resistance through strategic food choices, meal timing, and sustainable habit changes not just 'eating less sugar.'"
@@ -293,75 +293,6 @@ Many of our prediabetes clients prefer virtual sessions (easier to fit into busy
 
 ---
 
-## Common Questions About Prediabetes Nutrition Support
-
-**Can prediabetes actually be reversed?**
-
-Yes. Research consistently shows that with the right nutrition and lifestyle changes, many people can reverse prediabetes and return blood sugar to normal levels.
-
-The CDC's Diabetes Prevention Program showed that lifestyle changes were **more effective than medication** at preventing progression to Type 2 diabetes. The key is addressing insulin resistance through strategic food choices, meal timing, and sustainable habit changes **not just "eating less sugar."**
-
-Reversal means bringing A1C below 5.7% and fasting glucose below 100 mg/dL and maintaining it. It's absolutely possible with the right support.
-
-**How is this different from working with my doctor?**
-
-We complement your medical care we don't replace it.
-
-Your doctor monitors your blood work, provides medical guidance, and manages any medications. **We provide the detailed, day-to-day nutrition support** that most doctors don't have time for:
-- Meal planning and grocery strategies
-- Blood sugar pattern analysis
-- Sustainable habit building
-- Real-time troubleshooting and adjustments
-- Accountability and support between appointments
-
-Many of our clients see their doctors regularly while working with us. We're happy to communicate with your healthcare team and share relevant progress.
-
-**Will I have to give up carbs completely?**
-
-No. Carb elimination isn't sustainable for most people and often backfires long-term.
-
-**We teach you how to choose the right types of carbs**, pair them strategically with protein and fat, and time them appropriately. You'll learn to eat carbs without spiking blood sugar sustainably, for life.
-
-Some clients choose to eat lower-carb. Others eat moderate carbs strategically. **We build a plan that fits YOUR preferences and works for YOUR body.**
-
-**How long does it take to see blood sugar improvements?**
-
-Most clients see fasting blood sugar improvements within 2-4 weeks with consistent implementation.
-
-A1C changes typically show in 2-3 months (the standard testing interval for A1C). The timeline depends on:
-- How high your numbers are starting out
-- Your insulin resistance level
-- How consistently you implement changes
-- Other factors (sleep, stress, movement)
-
-**We track progress weekly** so you can see trends before your next blood work not just wait months wondering if it's working.
-
-**What if I've already tried diet changes and nothing worked?**
-
-Most "prediabetes diets" fail for predictable reasons:
-- Too restrictive (unsustainable)
-- Too generic (don't address YOUR insulin resistance)
-- Miss key factors (meal timing, stress, sleep)
-- No support when you hit plateaus or setbacks
-
-**We build a personalized approach** based on YOUR blood sugar patterns, lifestyle, and preferences not a one-size-fits-all plan. We also provide ongoing support to adjust when things aren't working.
-
-If generic advice didn't work, that's not your fault. It's a sign you need a more sophisticated approach.
-
-**Do you offer virtual sessions?**
-
-Yes. We see clients both in person in Hamilton and virtually across Ontario.
-
-Prediabetes nutrition support works well remotely since we focus on:
-- Your daily food patterns and choices
-- Blood sugar tracking you do at home
-- Habit building in your real environment
-- Strategies you implement in your life
-
-Virtual is perfect if you're outside Hamilton, have a busy schedule, or prefer the convenience of home sessions.
-
----
-
 ## Investment in Your Prediabetes Reversal
 
 Our health coaching packages are designed to give you the sustained support needed for real, lasting blood sugar changes.
@@ -393,30 +324,3 @@ We'll talk about:
 
 Book your free 15-minute consultation and let's create a plan that actually works.
 
----
-
-## Frequently Asked Questions About Prediabetes Nutrition Support
-
-### Can prediabetes actually be reversed?
-
-Yes. Research shows that with the right nutrition and lifestyle changes, many people can reverse prediabetes and return blood sugar to normal levels. The key is addressing insulin resistance through strategic food choices, meal timing, and sustainable habit changes — not just "eating less sugar."
-
-### How is this different from working with my doctor?
-
-We complement your medical care. Your doctor monitors your blood work and provides medical guidance. We provide the detailed, day-to-day nutrition support that most doctors don't have time for — meal planning, grocery strategies, blood sugar patterns, sustainable habit building. Many of our clients see their doctors regularly while working with us.
-
-### Will I have to give up carbs completely?
-
-No. Carb elimination isn't sustainable and often backfires. We teach you how to choose the right types of carbs, pair them strategically with protein and fat, and time them appropriately. You'll learn to eat carbs without spiking blood sugar — sustainably, for life.
-
-### How long does it take to see blood sugar improvements?
-
-Most clients see fasting blood sugar improvements within 2-4 weeks with consistent implementation. A1C changes typically show in 2-3 months (the standard testing interval). The timeline depends on how high your numbers are, your insulin resistance level, and how consistently you implement changes.
-
-### What if I've already tried diet changes and nothing worked?
-
-Most "prediabetes diets" are too generic, too restrictive, or miss key factors like meal timing, stress, and sleep. We build a personalized approach based on YOUR blood sugar patterns, lifestyle, and preferences — not a one-size-fits-all plan. If generic advice didn't work, that's not your fault.
-
-### Do you offer virtual sessions?
-
-Yes. We see clients both in person in Hamilton and virtually across Ontario. Prediabetes nutrition support works well remotely since we focus on your daily patterns, food choices, and blood sugar tracking — all of which you manage at home.

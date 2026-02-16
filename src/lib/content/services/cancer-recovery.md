@@ -14,7 +14,7 @@ author: "Dr. Yamilet Pina"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Maurin Casella, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Is this a replacement for my oncologist?"
     answer: "No. We work alongside your oncology team to provide nutrition and lifestyle support during and after cancer treatment. We complement medical care, not replace it."
@@ -130,30 +130,3 @@ You've done the hard part now let's rebuild your strength and energy safely.
 Chat with us for [**free 15-minute consultation**](https://wa.me/13653369757) today.
 No pressure. Just an honest conversation about how nutrition can support your healing journey.
 
----
-
-## Frequently Asked Questions About Cancer Recovery Coaching
-
-### Is this a replacement for my oncologist?
-
-No. We work alongside your oncology team to provide nutrition and lifestyle support during and after cancer treatment. We complement medical care, not replace it.
-
-### Can you help during active treatment or only after?
-
-Both. We support clients during active treatment (chemo, radiation) and in post-treatment recovery. Our approach is tailored to your current phase and needs.
-
-### What if I have no appetite or food tastes bad?
-
-This is very common. We provide practical strategies to manage taste changes, nausea, and low appetite — focusing on nutrient-dense options that work for you right now.
-
-### Will you tell me what foods prevent cancer?
-
-We focus on evidence-based nutrition that supports overall health, immune function, and recovery. We avoid unproven claims and work with what research actually supports.
-
-### Do you offer online coaching?
-
-Yes. We see clients in person at our downtown Hamilton office and virtually across Ontario.
-
-### How much does coaching cost?
-
-We offer a free 15-minute consultation to understand your situation and discuss how we can support you. [View our pricing](/pricing) or [contact us](/contact) for details.

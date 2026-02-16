@@ -14,7 +14,7 @@ author: "Dr. Yamilet Pina"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Maurin Casella, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Will this replace my diabetes medication?"
     answer: "No. We work alongside your medical team to optimize nutrition and lifestyle. Any medication changes should be discussed with your doctor. Our goal is to help you achieve better blood sugar control through sustainable lifestyle changes."
@@ -173,30 +173,3 @@ Ready to stop guessing and start living with confidence?
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
 
----
-
-## Frequently Asked Questions About Diabetes Coaching
-
-### Will this replace my diabetes medication?
-
-No. We work alongside your medical team to optimize nutrition and lifestyle. Any medication changes should be discussed with your doctor. Our goal is to help you achieve better blood sugar control through sustainable lifestyle changes.
-
-### Do you work with Type 1 and Type 2 diabetes?
-
-Yes. We work with both Type 1 and Type 2 diabetes, as well as prediabetes. Our approach is personalized to your specific type and needs. If you have prediabetes and want to focus specifically on reversal and prevention, our [Prediabetes Nutrition Support](/service/prediabetes-nutrition-support) program is designed for that.
-
-### How quickly will I see results?
-
-Most clients notice more stable blood sugar and energy within 2–4 weeks. A1C improvements typically show within 2–3 months of consistent implementation.
-
-### Will I have to give up carbs completely?
-
-No. We teach you how to include carbs strategically while maintaining stable blood sugar. Our approach focuses on balance, not restriction.
-
-### Do you offer virtual coaching?
-
-Yes. We see clients both in person at our downtown Hamilton office and virtually across Ontario.
-
-### How much does coaching cost?
-
-We offer a free 15-minute consultation to discuss your needs and our program options. [View our pricing](/pricing) or [contact us](/contact) for details.

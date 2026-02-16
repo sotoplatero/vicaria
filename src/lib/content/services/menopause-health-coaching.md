@@ -14,7 +14,7 @@ author: "Dr. Yamilet Pina"
 authorCredentials: "MD, Certified Health Coach (IIN)"
 reviewedBy: "Dr. Maurin Casella, MD"
 datePublished: "2024-06-01"
-dateModified: "2025-01-15"
+dateModified: "2026-02-16"
 faqs:
   - question: "Is this a replacement for my doctor or HRT?"
     answer: "No. We work alongside your medical team. Whether you're on hormone replacement therapy (HRT) or not, we help optimize nutrition and lifestyle to support your transition and improve how you feel day-to-day."
@@ -156,30 +156,3 @@ We'll talk through your symptoms, history, and next steps so you can finally hav
 
 [**Chat with us a Free Consultation**](https://wa.me/13653369757)
 
----
-
-## Frequently Asked Questions About Menopause Health Coaching
-
-### Is this a replacement for my doctor or HRT?
-
-No. We work alongside your medical team. Whether you're on hormone replacement therapy (HRT) or not, we help optimize nutrition and lifestyle to support your transition and improve how you feel day-to-day.
-
-### Do I need to be officially in menopause to work with you?
-
-No. We work with women in perimenopause, menopause, and post-menopause. If you're experiencing symptoms, we can help.
-
-### How long until I feel improvement?
-
-Most women notice better sleep, more stable energy, and fewer hot flashes within 3–4 weeks. Deeper changes in body composition and metabolic health typically take 2–3 months.
-
-### Will I have to cut out all carbs or follow a restrictive diet?
-
-No. We create sustainable, hormone-supportive eating patterns tailored to your lifestyle. No extremes, no deprivation.
-
-### Do you work online?
-
-Yes. We see clients in person at our downtown Hamilton office and virtually across Ontario.
-
-### Will testing be required?
-
-Not always. We can start without it, but when appropriate, we use targeted hormone panels and metabolic markers to accelerate results and remove guesswork.

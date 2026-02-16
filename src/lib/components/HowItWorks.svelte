@@ -170,16 +170,22 @@
 		<div class="text-center mt-20 space-y-8">
 			<div class="space-y-4">
 				<h3 class="text-3xl md:text-4xl font-bold text-charcoal">
-					Ready to Transform Your Health?
+					It Takes 15 Minutes to Get Started
 				</h3>
 				<p class="text-lg text-gray-600 max-w-2xl mx-auto">
-					Join hundreds of satisfied clients who have transformed
-					their health with personalized nutrition coaching.
+					Send us a message and one of our doctors will personally
+					review your situation. No forms, no waiting rooms.
 				</p>
 			</div>
 
 			<div class="flex flex-col sm:flex-row gap-4 justify-center">
-				<WhatsAppButton size="xl" variant="primary" />
+				<WhatsAppButton
+					text="Talk to a Doctor — It's Free"
+					callText="Talk to a Doctor — It's Free"
+					size="xl"
+					variant="primary"
+					message="Hi! I'd like to discuss my health situation with one of your doctors."
+				/>
 			</div>
 		</div>
 	</div>
