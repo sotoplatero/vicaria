@@ -8,9 +8,9 @@ benefits:
   - "Visible improvement after one session"
 cardIcon: "sparkles"
 cardColor: "error"
-title: "Best Ruby Points Treatment in Hamilton"
+title: "Ruby Points Removal Hamilton | Cherry Angioma Treatment"
 city: "Hamilton"
-description: "Expert ruby points and cherry angioma treatment in Hamilton. Safe, non-invasive procedures for clearer skin. Professional care you can trust."
+description: "Red ruby point spots on your skin? We remove cherry angiomas safely in one visit at our Hamilton clinic. Medical doctors, no scarring. Free consultation."
 category: "skin-treatments"
 image: "/images/services/skin-tag-removal.jpg"
 order: 3

@@ -141,13 +141,13 @@
 	<title>Nutrition Coaching Pricing Hamilton ON | Vicaria Health</title>
 	<meta
 		name="description"
-		content="Transparent pricing for nutrition counseling in Hamilton, Burlington, Ancaster & surrounding areas. Health coaching packages from $85. Insurance-friendly. Book your free consultation."
+		content="Health coaching from $85/session in Hamilton. Skin tag removal from $20/lesion. Insurance-eligible. See all pricing, packages & what's included — no surprises."
 	/>
 	<link rel="canonical" href="https://vicaria.ca/pricing" />
 
 	<!-- Open Graph -->
 	<meta property="og:title" content="Nutrition Coaching Pricing Hamilton ON | Vicaria Health" />
-	<meta property="og:description" content="Transparent pricing for nutrition counseling in Hamilton, Burlington, Ancaster & surrounding areas. Health coaching packages from $85. Insurance-friendly." />
+	<meta property="og:description" content="Health coaching from $85/session. Skin tag removal from $20/lesion. Insurance-eligible. See all pricing & packages for our Hamilton clinic." />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://vicaria.ca/pricing" />
 	<meta property="og:image" content="https://vicaria.ca/images/vicaria-hero.webp" />
