@@ -48,7 +48,8 @@
       "Bash(pnpm build)",
       "Bash(cwebp:*)",
       "Bash(ls:*)",
-      "mcp__plugin_playwright_playwright__browser_click"
+      "mcp__plugin_playwright_playwright__browser_click",
+      "mcp__plugin_playwright_playwright__browser_snapshot"
     ],
     "deny": [],
     "ask": []
