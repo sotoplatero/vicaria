@@ -8,8 +8,12 @@
 	import OfferBanner from "$lib/components/OfferBanner.svelte";
 	import Header from "$lib/components/Header.svelte";
 	import Footer from "$lib/components/Footer.svelte";
+	import { page } from "$app/stores";
 
 	let { children } = $props();
+
+	const siteUrl = "https://vicaria.ca";
+	const path = $derived($page.url.pathname);
 </script>
 
 <svelte:head>
@@ -18,6 +22,9 @@
 		name="description"
 		content="Specialized nutrition coaching for digestive disorders, diabetes, hypertension, and cancer support in Hamilton, Ontario. Book your free consultation today."
 	/>
+	<link rel="alternate" hreflang="en" href="{siteUrl}{path}" />
+	<link rel="alternate" hreflang="es" href="{siteUrl}/es{path}" />
+	<link rel="alternate" hreflang="x-default" href="{siteUrl}{path}" />
 </svelte:head>
 
 <div data-theme="vicaria">

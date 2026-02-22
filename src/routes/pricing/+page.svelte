@@ -143,6 +143,22 @@
 		name="description"
 		content="Transparent pricing for nutrition counseling in Hamilton, Burlington, Ancaster & surrounding areas. Health coaching packages from $85. Insurance-friendly. Book your free consultation."
 	/>
+	<link rel="canonical" href="https://vicaria.ca/pricing" />
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Nutrition Coaching Pricing Hamilton ON | Vicaria Health" />
+	<meta property="og:description" content="Transparent pricing for nutrition counseling in Hamilton, Burlington, Ancaster & surrounding areas. Health coaching packages from $85. Insurance-friendly." />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://vicaria.ca/pricing" />
+	<meta property="og:image" content="https://vicaria.ca/images/vicaria-hero.webp" />
+	<meta property="og:site_name" content="Vicaria Health" />
+	<meta property="og:locale" content="en_CA" />
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Nutrition Coaching Pricing Hamilton ON | Vicaria Health" />
+	<meta name="twitter:description" content="Transparent pricing for health coaching in Hamilton. Packages from $85. Insurance-friendly. Free 15-min consultation." />
+	<meta name="twitter:image" content="https://vicaria.ca/images/vicaria-hero.webp" />
 </svelte:head>
 
 <!-- Hero Section -->

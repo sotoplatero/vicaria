@@ -51,6 +51,22 @@
 		name="description"
 		content="Free health consultation via WhatsApp in Hamilton. Talk to licensed doctors about skin treatments, health coaching, and pricing before booking. No appointment needed."
 	/>
+	<link rel="canonical" href="https://vicaria.ca/free-consultation" />
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Free Health Consultation in Hamilton | Vicaria Health" />
+	<meta property="og:description" content="Talk to licensed doctors about skin treatments, health coaching, and pricing before booking. No appointment needed. Response in 2-3 hours." />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://vicaria.ca/free-consultation" />
+	<meta property="og:image" content="https://vicaria.ca/images/vicaria-hero.webp" />
+	<meta property="og:site_name" content="Vicaria Health" />
+	<meta property="og:locale" content="en_CA" />
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Free Health Consultation in Hamilton | Vicaria Health" />
+	<meta name="twitter:description" content="Talk to licensed doctors for free before booking. Skin treatments, health coaching, pricing questions answered in 2-3 hours." />
+	<meta name="twitter:image" content="https://vicaria.ca/images/vicaria-hero.webp" />
 </svelte:head>
 
 <!-- Hero Section -->

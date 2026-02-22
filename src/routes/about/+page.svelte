@@ -30,6 +30,57 @@
 <svelte:head>
 	<title>About Us - Vicaria Health | Hamilton Health Coaches</title>
 	<meta name="description" content="Meet Dr. Yamilet Pina and Dr. Maurin Casella - two medical doctors with 40+ years combined experience offering bilingual health coaching in Hamilton, Ontario." />
+	<link rel="canonical" href="https://vicaria.ca/about" />
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="About Us - Vicaria Health | Hamilton Health Coaches" />
+	<meta property="og:description" content="Meet Dr. Yamilet Pina and Dr. Maurin Casella - two medical doctors with 40+ years combined experience offering bilingual health coaching in Hamilton, Ontario." />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://vicaria.ca/about" />
+	<meta property="og:image" content="https://vicaria.ca/images/yamilet-and-maurin-vicaria.webp" />
+	<meta property="og:site_name" content="Vicaria Health" />
+	<meta property="og:locale" content="en_CA" />
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="About Us - Vicaria Health | Hamilton Health Coaches" />
+	<meta name="twitter:description" content="Two medical doctors with 40+ years combined experience. Bilingual health coaching in Hamilton, Ontario." />
+	<meta name="twitter:image" content="https://vicaria.ca/images/yamilet-and-maurin-vicaria.webp" />
+
+	<!-- Person Schema for E-E-A-T -->
+	{@html `<script type="application/ld+json">${JSON.stringify({
+		"@context": "https://schema.org",
+		"@graph": [
+			{
+				"@type": "Person",
+				"@id": "https://vicaria.ca/about#yamilet-pina",
+				name: "Dr. Yamilet Pina",
+				jobTitle: "Medical Doctor & Certified Health Coach",
+				description: "Medical doctor with over 20 years of experience in Integrative General Medicine and Urology. Certified Health Coach from the Institute for Integrative Nutrition (IIN) in New York.",
+				hasCredential: [
+					{ "@type": "EducationalOccupationalCredential", credentialCategory: "MD" },
+					{ "@type": "EducationalOccupationalCredential", credentialCategory: "Certified Health Coach", recognizedBy: { "@type": "Organization", name: "Institute for Integrative Nutrition" } }
+				],
+				worksFor: { "@type": "MedicalBusiness", name: "Vicaria Health", url: "https://vicaria.ca" },
+				image: "https://vicaria.ca/images/yamilet-pina.webp",
+				url: "https://vicaria.ca/about"
+			},
+			{
+				"@type": "Person",
+				"@id": "https://vicaria.ca/about#maurin-casella",
+				name: "Dr. Maurin Casella",
+				jobTitle: "Medical Doctor & Certified Health Coach",
+				description: "Medical doctor with over 20 years of experience in General Medicine and Pathology. Certified Health Coach from the Institute for Integrative Nutrition (IIN) in New York.",
+				hasCredential: [
+					{ "@type": "EducationalOccupationalCredential", credentialCategory: "MD" },
+					{ "@type": "EducationalOccupationalCredential", credentialCategory: "Certified Health Coach", recognizedBy: { "@type": "Organization", name: "Institute for Integrative Nutrition" } }
+				],
+				worksFor: { "@type": "MedicalBusiness", name: "Vicaria Health", url: "https://vicaria.ca" },
+				image: "https://vicaria.ca/images/maurin-casella.webp",
+				url: "https://vicaria.ca/about"
+			}
+		]
+	})}<\/script>`}
 </svelte:head>
 
 <!-- Hero Section -->

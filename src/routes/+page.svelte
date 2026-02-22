@@ -52,7 +52,7 @@
 	// Local Business Schema for Google
 	const localBusinessSchema = {
 		"@context": "https://schema.org",
-		"@type": "LocalBusiness",
+		"@type": "MedicalBusiness",
 		name: "Vicaria Health",
 		image: "https://vicaria.ca/logo.png",
 		"@id": "https://vicaria.ca",
@@ -91,7 +91,10 @@
 			ratingValue: data.googleRating,
 			reviewCount: data.totalReviews,
 		},
-		sameAs: ["https://www.instagram.com/vicaria.ca"],
+		sameAs: [
+		"https://www.instagram.com/vicaria.ca",
+		"https://www.facebook.com/profile.php?id=100090454398013",
+	],
 	};
 </script>
 
@@ -107,6 +110,23 @@
 		name="description"
 		content="Struggling with digestive issues, diabetes, or fatigue? Two medical doctors with 40+ years of experience create personalized nutrition plans. Rated 5.0 on Google. Book a free 15-min consultation."
 	/>
+	<link rel="canonical" href="https://vicaria.ca/" />
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Nutritionist in Hamilton, ON | Free Consultation - Vicaria Health" />
+	<meta property="og:description" content="Struggling with digestive issues, diabetes, or fatigue? Two medical doctors with 40+ years of experience create personalized nutrition plans. Rated 5.0 on Google." />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://vicaria.ca/" />
+	<meta property="og:image" content="https://vicaria.ca/images/vicaria-hero.webp" />
+	<meta property="og:site_name" content="Vicaria Health" />
+	<meta property="og:locale" content="en_CA" />
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Nutritionist in Hamilton, ON | Free Consultation - Vicaria Health" />
+	<meta name="twitter:description" content="Two medical doctors with 40+ years of experience. Personalized nutrition plans for digestive issues, diabetes, and fatigue. Free 15-min consultation." />
+	<meta name="twitter:image" content="https://vicaria.ca/images/vicaria-hero.webp" />
+
 	{@html `<script type="application/ld+json">${JSON.stringify(localBusinessSchema)}<\/script>`}
 </svelte:head>
 

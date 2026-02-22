@@ -57,8 +57,9 @@ export async function GET() {
 	// Combine all pages
 	const pages = [...staticPages, ...servicePages];
 
-	// Generate XML sitemap
-	// Note: lastmod omitted because we can't track actual content modification dates
+	// Use current date as lastmod — tells Google to re-crawl on next deploy
+	const today = new Date().toISOString().split('T')[0];
+
 	// Note: changefreq omitted because Google ignores it (confirmed by Google)
 	const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -67,6 +68,7 @@ ${pages
 		(page) => `
 	<url>
 		<loc>${site}${page.url}</loc>
+		<lastmod>${today}</lastmod>
 		<priority>${page.priority}</priority>
 	</url>`
 	)

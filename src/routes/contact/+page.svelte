@@ -39,6 +39,22 @@
 		name="description"
 		content="Contact Vicaria Health for personalized health coaching in Hamilton. Schedule a free consultation with our bilingual health coaches today."
 	/>
+	<link rel="canonical" href="https://vicaria.ca/contact" />
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Contact Us - Vicaria Health | Get in Touch" />
+	<meta property="og:description" content="Contact Vicaria Health for personalized health coaching in Hamilton. Schedule a free consultation with our bilingual health coaches today." />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://vicaria.ca/contact" />
+	<meta property="og:image" content="https://vicaria.ca/images/vicaria-hero.webp" />
+	<meta property="og:site_name" content="Vicaria Health" />
+	<meta property="og:locale" content="en_CA" />
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Contact Us - Vicaria Health | Get in Touch" />
+	<meta name="twitter:description" content="Contact Vicaria Health for personalized health coaching in Hamilton. Free bilingual consultation available." />
+	<meta name="twitter:image" content="https://vicaria.ca/images/vicaria-hero.webp" />
 </svelte:head>
 
 <!-- Hero Section -->
