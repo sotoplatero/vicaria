@@ -1,0 +1,66 @@
+name: Update Monthly Offer
+
+on:
+  # Ejecutar el día 1 de cada mes a las 1:00 AM UTC
+  schedule:
+    - cron: '0 1 1 * *'
+
+  # Permitir ejecución manual desde GitHub UI
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-offer:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 10
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate Monthly Offer
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: pnpm run generate:offer
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code src/lib/data/current-offer.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add src/lib/data/current-offer.json
+          git commit -m "chore: update monthly offer [skip ci]"
+          git push
+
+      - name: Summary
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          echo "✅ Monthly offer updated successfully" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Updated file: src/lib/data/current-offer.json" >> $GITHUB_STEP_SUMMARY
+
+      - name: No changes
+        if: steps.git-check.outputs.changed != 'true'
+        run: |
+          echo "ℹ️ No changes in monthly offer" >> $GITHUB_STEP_SUMMARY

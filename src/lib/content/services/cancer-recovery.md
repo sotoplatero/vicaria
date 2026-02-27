@@ -1,0 +1,132 @@
+---
+service: "Cancer Recovery Nutrition Coaching"
+pain: "You've finished treatment but recovery feels unclear. Low strength, poor appetite, or fear of relapse can make it hard to move forward."
+solution: "We create a gentle, personalized nutrition plan to rebuild energy, support healing, and help you feel like yourself again."
+cardIcon: "users"
+cardColor: "accent"
+title: "Integrative Cancer Nutritionist in Hamilton"
+city: "Hamilton"
+description: "Compassionate integrative cancer recovery nutrition coaching in downtown Hamilton. Personalized post-treatment nutrition plans to rebuild strength, support healing, and restore energy. Book your free consultation."
+category: "health-coaching"
+order: 1
+image: "/images/vicaria-hero1.webp"
+author: "Dr. Yamilet Pina"
+authorCredentials: "MD, Certified Health Coach (IIN)"
+reviewedBy: "Dr. Maurin Casella, MD"
+datePublished: "2024-06-01"
+dateModified: "2026-02-16"
+faqs:
+  - question: "Is this a replacement for my oncologist?"
+    answer: "No. We work alongside your oncology team to provide nutrition and lifestyle support during and after cancer treatment. We complement medical care, not replace it."
+  - question: "Can you help during active treatment or only after?"
+    answer: "Both. We support clients during active treatment (chemo, radiation) and in post-treatment recovery. Our approach is tailored to your current phase and needs."
+  - question: "What if I have no appetite or food tastes bad?"
+    answer: "This is very common. We provide practical strategies to manage taste changes, nausea, and low appetite focusing on nutrient-dense options that work for you right now."
+  - question: "Will you tell me what foods prevent cancer?"
+    answer: "We focus on evidence-based nutrition that supports overall health, immune function, and recovery. We avoid unproven claims and work with what research actually supports."
+  - question: "Do you offer online coaching?"
+    answer: "Yes. We see clients in person at our downtown Hamilton office and virtually across Ontario."
+  - question: "How much does coaching cost?"
+    answer: "We offer a free 15-minute consultation to understand your situation and discuss how we can support you. Contact us for program and pricing details."
+---
+
+You've completed treatment but now what?  
+You’re tired, your appetite is unpredictable, and you’re not sure what’s safe to eat.  
+Friends say “just eat healthy,” but you know recovery after cancer isn’t that simple.  
+You want to regain strength, heal well, and reduce fear of recurrence without guesswork.
+
+At Vicaria Health, we help people across Hamilton and the GTA rebuild their bodies after cancer treatment with nutrition that supports real healing.
+
+## Why Recovery Feels So Unclear
+
+After treatment, many people struggle with:
+
+- Low energy and fatigue that doesn’t improve with rest  
+- Loss of appetite or taste changes that make eating hard  
+- Digestive issues from chemo or radiation  
+- Fear of eating the “wrong foods” and increasing cancer risk  
+- Confusion from conflicting advice online
+
+**The problem isn't your willpower it's that post-cancer recovery is complex.**
+Your body has unique needs after chemo, radiation, surgery, or targeted therapy. You need a plan tailored to you, not generic "healthy eating" rules.
+
+> **Ready to start your recovery with expert support?** [Book a free 15-minute consultation](/free-consultation) and let's discuss your specific needs. No commitment required.
+
+## How We Help You Recover Safely
+
+![Diagram showing post-cancer recovery nutrition pillars including anti-inflammatory foods, gut repair, immune support, and energy restoration](/images/services/cancer-recovery-nutrition-pillars.webp)
+
+Our approach combines compassion with evidence-based strategies:
+
+**Personalized Nutrition for Healing & Strength**  
+Gentle, anti-inflammatory meals to support tissue repair, energy, and immune balance.
+
+**Digestive & Appetite Support**  
+Strategies to restore appetite, manage nausea, and ease treatment-related gut issues.
+
+**Relapse Risk Reduction Guidance**  
+Evidence-based nutrition to lower long-term cancer risk without fear-based advice.
+
+**Step-by-Step Support**  
+We walk with you, helping you rebuild confidence around food and your body.
+
+## What Makes Vicaria Health Different
+
+- **Oncology-informed nutrition** We understand treatment side effects and safe recovery practices  
+- **Functional approach** Focus on whole-body healing, gut health, inflammation, and long-term vitality  
+- **Local to Hamilton** Downtown location, serving Westdale, Mountain, Dundas, Ancaster, Stoney Creek, Burlington + virtual coaching across Ontario  
+- **Collaboration with your healthcare team** We complement your oncologist’s plan, not replace it  
+- **Compassion-first coaching** We know recovery is emotional and physical; we guide both
+
+![Infographic showing cancer recovery timeline phases from active treatment through long-term vitality](/images/services/cancer-recovery-timeline.webp)
+
+## Is This Coaching for You?
+
+- You’ve finished chemo, radiation, or surgery and want safe, nourishing guidance  
+- You’re rebuilding energy but feel confused about what’s safe to eat  
+- You want to reduce inflammation and support immune recovery naturally  
+- You’re overwhelmed by conflicting post-cancer nutrition advice  
+- You’re looking for long-term vitality and lower recurrence risk without extreme diets
+
+## Questions You’re Probably Asking
+
+**Will this replace my oncologist’s advice?**  
+No. We work alongside your medical team to complement your treatment and follow-up care. We help with daily habits and food choices while your doctors manage medication and monitoring.
+
+**Do I need to wait before starting?**  
+No. We work with people in different stages right after finishing treatment or months into recovery.
+
+**Can you help if I’m still struggling with side effects like nausea or taste changes?**  
+Yes. We provide practical strategies to improve appetite, manage nausea, and adapt your meals while healing.
+
+**Will I have to give up my favorite foods?**  
+Not necessarily. Our goal is balance, not restriction. We’ll focus on foods that support healing while keeping eating enjoyable.
+
+**Do you work online?**  
+Yes. We see clients in person at our downtown Hamilton clinic and virtually across Ontario.
+
+**Is testing required?**
+Not always. We can start with a thorough intake and adapt if lab insights could speed up recovery.
+
+## Investment in Your Cancer Recovery
+
+Our health coaching packages are designed to give you the sustained support needed during this important phase.
+
+**Health Coaching Packages:**
+- **3-Session Package:** $240 CAD - Perfect for getting started with foundational recovery nutrition
+- **6-Session Package:** $450 CAD - Comprehensive support with ongoing adjustments (Most Popular)
+- **12-Session Program:** $840 CAD - Full recovery transformation with extended support
+
+All packages include personalized protocols, email support between sessions, and coordination with your medical team. Many extended health insurance plans cover consultations with Registered Nutritional Practitioners.
+
+[View full pricing details](/pricing) | [Book free consultation](/free-consultation)
+
+---
+
+## Start Your Recovery With Confidence
+
+You've done the hard part now let's rebuild your strength and energy safely.
+
+Chat with us for [**free 15-minute consultation**](https://wa.me/13653369757) today.
+No pressure. Just an honest conversation about how nutrition can support your healing journey.
+

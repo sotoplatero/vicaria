@@ -1,0 +1,67 @@
+{
+  "testimonials": [
+    {
+      "id": "google-1",
+      "name": "Brad Smith",
+      "location": "2 weeks ago",
+      "condition": "Verified Google Review",
+      "quote": "I have a significant number of skin tags and other skin growths.   I’ve tried liquid nitrogen solutions in the past and the skin tags grow back. And most of the time the skin tags are being removed by aestheticians.   This experience was completely different.  To have two experienced medical doctors removing the skin tags provides a significant amount of additional confidence.   The treatment has been fantastic.   The technique eliminates the skin tags from growing back.   And the fact that they are really nice people is an added bonus.",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJZTb0ROXOQ09FHmDfI9SHCF2aqdkMz6xrtdQTKLcZrIu-aJA=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1768512632599,
+      "googleUrl": "https://www.google.com/maps/contrib/109347362332312520641/reviews"
+    },
+    {
+      "id": "google-0",
+      "name": "Olaya Sibello",
+      "location": "a month ago",
+      "condition": "Verified Google Review",
+      "quote": "I came in for a small cosmetic treatment and felt a bit shy at first, but they were very warm and easy to talk to!\n\nThey took the time to explain everything clearly, and the place and equipment were very clean.\n\nWhat stood out most was how much time they give you. In a healthcare system that often feels rushed, they actually sit with you, listen, and make you feel like no concern is too small. Their experience really shows, and the consultation was very informative.",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWqlxwOhwukRADrAlhTTDhmfS8NptWXgKsUrBr7Kb-BAW0NiZWbCQ=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1764902176098,
+      "googleUrl": "https://www.google.com/maps/contrib/107843530968855928484/reviews"
+    },
+    {
+      "id": "google-2",
+      "name": "Yisel Peña",
+      "location": "a month ago",
+      "condition": "Verified Google Review",
+      "quote": "I had an excellent experience at Vicaria Health in Hamilton. I went in to have some skin tags on my neck removed, and the entire process was smooth, quick, and very comfortable. The staff were friendly, professional, and attentive, explaining every step clearly and answering all my questions with patience and care.\n\nWhat impressed me even more is that Vicaria Health offers much more than skin tag removal. They also provide valuable information and guidance about healthy nutrition and overall healthy lifestyle habits. It’s a place where you feel supported not only during your procedure but also in your long-term wellness.\n\nThe clinic is clean, welcoming, and well-organized. I am very happy with the results and truly appreciate the care I received. I highly recommend Vicaria Health to anyone looking for quality service and a team that truly cares about their patients.",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIIcbGBqZWSJBjj1kjM5oYAPuXOAizwwjhuB-E3LHG9n7yn6A=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1764896916895,
+      "googleUrl": "https://www.google.com/maps/contrib/113899476775258600135/reviews"
+    },
+    {
+      "id": "google-4",
+      "name": "Ashley Pablo Mota",
+      "location": "2 months ago",
+      "condition": "Verified Google Review",
+      "quote": "They helped give me tools to assist with my son's picky eating! Still a working progress but definitely moving in the right direction and he is at times much more willing to try new foods. I would recommend 💯",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKa4CnNfbRqsVu9cw8OrlcYt_1AiqryCjH89PnRlniWrHRSAw=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1762993333976,
+      "googleUrl": "https://www.google.com/maps/contrib/107573468543990469751/reviews"
+    },
+    {
+      "id": "google-3",
+      "name": "Katiuska Rivas",
+      "location": "6 months ago",
+      "condition": "Verified Google Review",
+      "quote": "⭐️⭐️⭐️⭐️⭐️\nI honestly don’t have enough words to thank Vicaria Health. For years, I struggled with symptoms that no one seemed to take seriously—until I found them. They not only listened with compassion, but truly understood what I was going through. Thanks to their care, I finally got answers about my leaky gut and the other health issues that were affecting my life every day.\n\nTheir approach is gentle, human, and empowering. I felt seen, heard, and supported every step of the way. The difference this has made in my daily life is something I’ll always be grateful for. If you’re feeling lost or frustrated with your health, Vicaria Health is a place of hope and healing.",
+      "rating": 5,
+      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVSGVRUQazm48THHsZtqz_CG1stl0F4bq1edZndPyfGxOOLTF-C=s128-c0x00000000-cc-rp-mo",
+      "source": "google",
+      "time": 1751917272639,
+      "googleUrl": "https://www.google.com/maps/contrib/106096493192713275997/reviews"
+    }
+  ],
+  "googleRating": 5,
+  "totalReviews": 40,
+  "lastFetched": "2026-02-01T14:36:18.691Z"
+}

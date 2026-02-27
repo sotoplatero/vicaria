@@ -1,0 +1,52 @@
+{
+  "isActive": true,
+  "month": 2,
+  "year": 2026,
+  "servicePillar": "Digestive Relief",
+  "servicePillarId": "digestive-relief",
+  "offerFormat": "Home-visit upgrade",
+  "theme": "Energy Reset",
+  "scarcity": "New clients only",
+  "softCTA": "Discover If You Qualify",
+  "title": "Digestive Relief offer: Home-visit upgrade with our Energy Reset theme",
+  "subtitle": "For anyone struggling with bloating, IBS, or abdominal discomfort seeking gentle, effective support.",
+  "offerLine": "Digestive Relief → get a home-visit upgrade with our Energy Reset theme. New clients only. Discover If You Qualify.",
+  "whatYouGet": [
+    "Personalized digestive health assessment in the comfort of your home",
+    "Tailored nutrition and lifestyle plan to reduce bloating and ease IBS symptoms",
+    "Energy-boosting strategies designed to reset your daily vitality",
+    "Guided coaching session focused on abdominal comfort and digestion support",
+    "Ongoing tips and tools to maintain digestive balance between visits",
+    "Exclusive access to our Energy Reset resource kit, including recipes and relaxation techniques"
+  ],
+  "whyItMatters": [
+    "Digestive discomfort can drain your energy and affect daily life—this offer targets root causes for lasting relief.",
+    "Receiving care at home ensures a relaxed, personalized experience, making it easier to open up and progress.",
+    "Resetting your energy helps improve digestion naturally, supporting better nutrient absorption and overall wellness.",
+    "Starting fresh with a trusted coach empowers you to regain control over your digestive health and quality of life."
+  ],
+  "howToClaim": [
+    "Check if you qualify as a new client by completing our quick online form.",
+    "Schedule your convenient home-visit appointment at a time that suits you.",
+    "Enjoy a personalized session designed to jumpstart your digestive relief and energy reset.",
+    "Feel supported every step of the way with easy follow-ups and guidance tailored to you."
+  ],
+  "faqs": [
+    {
+      "question": "Who is eligible for this Digestive Relief home-visit upgrade?",
+      "answer": "This offer is available exclusively to new clients experiencing bloating, IBS, or abdominal discomfort seeking personalized support."
+    },
+    {
+      "question": "What can I expect during the home-visit session?",
+      "answer": "A caring coach will assess your digestive health, discuss symptoms, and create a tailored plan focusing on nutrition and energy restoration."
+    },
+    {
+      "question": "How long does the session take and what is the time commitment?",
+      "answer": "The initial home-visit session typically lasts 60 minutes, with follow-up support designed to fit your schedule comfortably."
+    },
+    {
+      "question": "When can I expect to see improvements in my digestive symptoms?",
+      "answer": "Many clients notice relief within a few weeks as they implement personalized strategies, though individual results vary based on consistency and condition."
+    }
+  ]
+}

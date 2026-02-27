@@ -1,7 +1,500 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
-@plugin 'daisyui';
+
+
+/* DaisyUI Plugin Configuration - Set vicaria as default theme */
+@plugin 'daisyui' {
+  themes: vicaria --default;
+  logs: false;
+}
+
+/* Vicaria Custom Theme - DaisyUI 5 Syntax */
+@plugin 'daisyui/theme' {
+  name: vicaria;
+  default: true;
+  prefersdark: false;
+  color-scheme: light;
+
+  /* Primary - Pink Rose (flower petals) */
+  --color-primary: oklch(65% 0.16 345);
+  --color-primary-content: oklch(98% 0.01 345);
+
+  /* Secondary - Forest green (leaves) */
+  --color-secondary: oklch(50% 0.09 138);
+  --color-secondary-content: oklch(98% 0.01 138);
+
+  /* Accent - Light pink/lavender */
+  --color-accent: oklch(85% 0.11 345);
+  --color-accent-content: oklch(25% 0.05 345);
+
+  /* Neutral - Charcoal */
+  --color-neutral: oklch(25% 0.01 30);
+  --color-neutral-content: oklch(98% 0.01 30);
+
+  /* Base colors - Warm white background */
+  --color-base-100: oklch(99% 0.01 38);
+  --color-base-200: oklch(96% 0.01 38);
+  --color-base-300: oklch(92% 0.02 38);
+  --color-base-content: oklch(25% 0.01 30);
+
+  /* Semantic colors */
+  --color-info: oklch(70% 0.19 220);
+  --color-info-content: oklch(98% 0.01 220);
+  --color-success: oklch(65% 0.17 145);
+  --color-success-content: oklch(98% 0.01 145);
+  --color-warning: oklch(80% 0.20 80);
+  --color-warning-content: oklch(25% 0.05 80);
+  --color-error: oklch(68% 0.20 25);
+  --color-error-content: oklch(98% 0.01 25);
+
+  /* Border radius - Modern & Consistent */
+  --radius-box: 0.75rem;
+  --radius-field: 0.5rem;
+  --radius-selector: 1.5rem;
+
+  /* Size */
+  --size-field: 0.25rem;
+  --size-selector: 0.25rem;
+
+  /* Border - Delgado y moderno */
+  --border: 1px;
+
+  /* Effects - Depth moderno */
+  --depth: 0.02;
+  --noise: 0;
+}
 
 @theme {
-	--font-family-sans: 'Nunito Sans', ui-sans-serif, system-ui, sans-serif;
+  /* Custom Color Palette - Vicaria Logo Colors (for Tailwind utilities) */
+  --color-mauve: #C46293;
+  --color-mauve-light: #d88bb5;
+  --color-mauve-dark: #a84d78;
+
+  --color-forest: #507a5b;
+  --color-forest-light: #6b9c77;
+  --color-forest-dark: #3d5a4b;
+
+  --color-pink-light: #e4b8d6;
+  --color-lavender: #d4a5c4;
+
+  --color-warm-white: #fdfbf7;
+  --color-warm-gray: #8b8985;
+  --color-charcoal: #2c2c2c;
+
+  /* Tailwind color mapping */
+  --color-primary: var(--color-mauve);
+  --color-primary-light: var(--color-mauve-light);
+  --color-primary-dark: var(--color-mauve-dark);
+
+  --color-secondary: var(--color-forest);
+  --color-secondary-light: var(--color-forest-light);
+  --color-accent: var(--color-lavender);
+
+  /* Typography */
+  --font-family-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-family-serif: 'Libre Baskerville', Georgia, serif;
+
+  /* Spacing for mobile-first design */
+  --spacing-touch-target: 3rem;
+  /* 48px minimum touch target */
+
+  /* Modern shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.07), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.08), 0 4px 6px -4px rgb(0 0 0 / 0.05);
+  --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.08), 0 8px 10px -6px rgb(0 0 0 / 0.05);
+}
+
+/* Global Styles */
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-family-sans);
+}
+
+body {
+  @apply bg-warm-white text-charcoal;
+}
+
+/* Headings use Libre Baskerville */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-family-serif);
+  text-wrap: balance;
+}
+
+/* Ensure minimum touch targets on mobile */
+@media (max-width: 640px) {
+
+  button,
+  a.btn,
+  input[type="submit"] {
+    min-height: var(--spacing-touch-target);
+    min-width: var(--spacing-touch-target);
+  }
+}
+
+/* Custom utility classes - Modernized spacing */
+.section-padding {
+  @apply py-12 px-6 md:py-16 md:px-10 lg:py-24 lg:px-12;
+}
+
+.container-custom {
+  @apply max-w-7xl mx-auto px-4 lg:px-8;
+}
+
+.gradient-mauve {
+  background: linear-gradient(135deg, var(--color-mauve-light) 0%, var(--color-mauve) 100%);
+}
+
+.gradient-forest {
+  background: linear-gradient(135deg, var(--color-forest-light) 0%, var(--color-forest) 100%);
+}
+
+.gradient-pink {
+  background: linear-gradient(135deg, var(--color-pink-light) 0%, var(--color-lavender) 100%);
+}
+
+/* Smooth Animations */
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes slide-in-left {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slide-in-right {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.8s ease-out;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out;
+}
+
+.animate-scale-in {
+  animation: scale-in 0.5s ease-out;
+}
+
+.animate-slide-in-left {
+  animation: slide-in-left 0.7s ease-out;
+}
+
+.animate-slide-in-right {
+  animation: slide-in-right 0.7s ease-out;
+}
+
+/* Delay utilities */
+.delay-100 {
+  animation-delay: 100ms;
+}
+
+.delay-200 {
+  animation-delay: 200ms;
+}
+
+.delay-300 {
+  animation-delay: 300ms;
+}
+
+.delay-400 {
+  animation-delay: 400ms;
+}
+
+.delay-500 {
+  animation-delay: 500ms;
+}
+
+/* Micro-interactions - Modern & Subtle */
+.hover-lift {
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.hover-scale {
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hover-scale:hover {
+  transform: scale(1.02);
+}
+
+/* Glass morphism effect - Modern */
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: var(--shadow-md);
+}
+
+/* Modern card styles */
+.card-modern {
+  border-radius: var(--radius-box);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-modern:hover {
+  box-shadow: var(--shadow-md);
+  border-color: rgba(0, 0, 0, 0.08);
+}
+
+/* ===== PREMIUM EFFECTS ===== */
+
+/* Premium shadows with multiple layers for depth */
+.shadow-premium {
+  box-shadow:
+    0 1px 1px rgba(0, 0, 0, 0.04),
+    0 2px 2px rgba(0, 0, 0, 0.06),
+    0 4px 4px rgba(0, 0, 0, 0.08),
+    0 8px 8px rgba(0, 0, 0, 0.10),
+    0 16px 16px rgba(0, 0, 0, 0.12);
+}
+
+.shadow-premium-hover:hover {
+  box-shadow:
+    0 1px 1px rgba(0, 0, 0, 0.06),
+    0 2px 2px rgba(0, 0, 0, 0.08),
+    0 4px 4px rgba(0, 0, 0, 0.10),
+    0 8px 8px rgba(0, 0, 0, 0.12),
+    0 16px 16px rgba(0, 0, 0, 0.14),
+    0 32px 32px rgba(0, 0, 0, 0.16);
+}
+
+/* Premium glassmorphism */
+.glass-premium {
+  background: linear-gradient(135deg,
+      rgba(255, 255, 255, 0.9) 0%,
+      rgba(255, 255, 255, 0.7) 100%);
+  backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+/* Premium card with gradient border */
+.card-premium {
+  position: relative;
+  background: white;
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+
+.card-premium::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  padding: 1px;
+  border-radius: 1.5rem;
+  background: linear-gradient(135deg,
+      rgba(196, 98, 147, 0.3),
+      rgba(80, 122, 91, 0.1),
+      rgba(196, 98, 147, 0.3));
+  -webkit-mask: linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+/* Premium button with glow effect */
+.btn-glow {
+  position: relative;
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.btn-glow::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(135deg,
+      var(--color-mauve-light),
+      var(--color-mauve-dark));
+  border-radius: inherit;
+  opacity: 0;
+  filter: blur(15px);
+  transition: opacity 0.3s;
+  z-index: -1;
+}
+
+.btn-glow:hover::before {
+  opacity: 0.6;
+}
+
+.btn-glow:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 20px 40px -10px rgba(196, 98, 147, 0.5);
+}
+
+/* Gradient text animation */
+.gradient-text-premium {
+  background: linear-gradient(135deg,
+      var(--color-mauve) 0%,
+      var(--color-lavender) 50%,
+      var(--color-mauve-dark) 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-shift 8s ease infinite;
+}
+
+@keyframes gradient-shift {
+
+  0%,
+  100% {
+    background-position: 0% center;
+  }
+
+  50% {
+    background-position: 100% center;
+  }
+}
+
+/* Staggered entrance animation */
+@keyframes slide-up-fade {
+  from {
+    opacity: 0;
+    transform: translateY(40px) scale(0.98);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-staggered {
+  animation: slide-up-fade 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Premium hover effect */
+.hover-premium {
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.hover-premium:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: var(--shadow-xl);
+}
+
+/* ===== ACCESSIBILITY IMPROVEMENTS ===== */
+
+/* Focus visible premium */
+*:focus-visible {
+  outline: 2px solid var(--color-mauve);
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+/* Skip to content link */
+.skip-to-content {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  background: var(--color-mauve);
+  color: white;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  z-index: 9999;
+  border-radius: 0 0 0.5rem 0;
+}
+
+.skip-to-content:focus {
+  top: 0;
+}
+
+/* Tabular nums for statistics */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ===== REDUCED MOTION SUPPORT ===== */
+
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .hover-lift:hover,
+  .hover-scale:hover,
+  .hover-premium:hover {
+    transform: none !important;
+  }
+
+  .btn-glow:hover {
+    transform: none;
+  }
+
+  .gradient-text-premium {
+    animation: none;
+  }
 }
