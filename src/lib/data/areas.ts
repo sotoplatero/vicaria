@@ -132,7 +132,7 @@ const areas: Area[] = [
 		distance: '~15 km',
 		driveMinutes: 18,
 		heroTitle: 'Preventive Health Coaching & Skin Treatments for Ancaster',
-		heroImage: '/images/vicaria-office.webp',
+		heroImage: '/images/vicaria-hero5.webp',
 		heroImageAlt: 'Vicaria Health clinic and consultation space, serving Ancaster residents',
 		description:
 			'Ancaster residents who prioritize prevention and long-term wellness find the right partner in Vicaria Health. Our medical doctors deliver nutrition coaching for menopause, prediabetes, and weight management alongside clinical skin treatments.',

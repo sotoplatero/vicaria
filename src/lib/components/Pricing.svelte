@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Check } from 'lucide-svelte';
+	import { Check } from "@lucide/svelte";
 
 	interface PricingTier {
 		title: string;
@@ -19,34 +19,46 @@
 <section class="py-32 bg-base-100">
 	<div class="container mx-auto px-4 max-w-6xl">
 		<div class="text-center mb-20">
-			<p class="text-sm uppercase tracking-wider text-primary font-semibold mb-3">
+			<p
+				class="text-sm uppercase tracking-wider text-primary font-semibold mb-3"
+			>
 				Investment in Your Health
 			</p>
 			<h2 class="text-5xl font-light mb-4">Pricing & Packages</h2>
 			<p class="text-xl text-base-content/70 max-w-2xl mx-auto">
-				Choose the option that works best for you. All packages include our commitment to your
-				success.
+				Choose the option that works best for you. All packages include
+				our commitment to your success.
 			</p>
 		</div>
 
-		<div class="grid grid-cols-1 md:grid-cols-{pricing.length > 2 ? '3' : '2'} gap-8">
+		<div
+			class="grid grid-cols-1 md:grid-cols-{pricing.length > 2
+				? '3'
+				: '2'} gap-8"
+		>
 			{#each pricing as tier, index}
 				<div
-					class="bg-base-200 rounded-3xl p-8 flex flex-col {index === 1 && pricing.length === 3
+					class="bg-base-200 rounded-3xl p-8 flex flex-col {index ===
+						1 && pricing.length === 3
 						? 'border-2 border-primary shadow-2xl scale-105'
 						: 'shadow-lg'}"
 				>
 					<div class="mb-6">
-						<h3 class="text-2xl font-semibold mb-2">{tier.title}</h3>
+						<h3 class="text-2xl font-semibold mb-2">
+							{tier.title}
+						</h3>
 						{#if tier.duration}
-							<p class="text-base-content/60 text-sm">{tier.duration}</p>
+							<p class="text-base-content/60 text-sm">
+								{tier.duration}
+							</p>
 						{/if}
 					</div>
 
 					<div class="mb-8">
 						<div class="flex items-baseline gap-2">
-							<span class="text-5xl font-light">{tier.price}</span>
-							{#if tier.price.includes('$') && !tier.price.includes('Custom')}
+							<span class="text-5xl font-light">{tier.price}</span
+							>
+							{#if tier.price.includes("$") && !tier.price.includes("Custom")}
 								<span class="text-base-content/60"></span>
 							{/if}
 						</div>
@@ -58,7 +70,9 @@
 								<div class="flex-shrink-0 mt-0.5">
 									<Check class="w-5 h-5 text-success" />
 								</div>
-								<span class="text-base-content/80">{feature}</span>
+								<span class="text-base-content/80"
+									>{feature}</span
+								>
 							</li>
 						{/each}
 					</ul>
