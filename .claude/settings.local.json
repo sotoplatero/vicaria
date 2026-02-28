@@ -49,7 +49,11 @@
       "Bash(cwebp:*)",
       "Bash(ls:*)",
       "mcp__plugin_playwright_playwright__browser_click",
-      "mcp__plugin_playwright_playwright__browser_snapshot"
+      "mcp__plugin_playwright_playwright__browser_snapshot",
+      "Bash(git commit:*)",
+      "Bash(npx skills:*)",
+      "Bash(npx vite:*)",
+      "Bash(npx tsc:*)"
     ],
     "deny": [],
     "ask": []

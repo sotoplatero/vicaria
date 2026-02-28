@@ -1,8 +1,11 @@
 const site = 'https://vicaria.ca';
 
+export const prerender = true;
+
 export async function GET() {
 	const robots = `User-agent: *
 Allow: /
+Disallow: /api/
 
 Sitemap: ${site}/sitemap.xml
 `.trim();

@@ -213,8 +213,14 @@
 							Areas Served
 						</h4>
 						<p class="text-xs text-gray-200 leading-relaxed">
-							Hamilton, Dundas, Ancaster, Waterdown, Stoney Creek,
-							Binbrook, Burlington
+							Hamilton,
+							<a href="/areas/dundas" class="hover:text-primary transition-colors">Dundas</a>,
+							<a href="/areas/ancaster" class="hover:text-primary transition-colors">Ancaster</a>,
+							<a href="/areas/waterdown" class="hover:text-primary transition-colors">Waterdown</a>,
+							<a href="/areas/stoney-creek" class="hover:text-primary transition-colors">Stoney Creek</a>,
+							<a href="/areas/binbrook" class="hover:text-primary transition-colors">Binbrook</a>,
+							<a href="/areas/burlington" class="hover:text-primary transition-colors">Burlington</a>,
+							<a href="/areas/grimsby" class="hover:text-primary transition-colors">Grimsby</a>
 						</p>
 					</div>
 				</div>

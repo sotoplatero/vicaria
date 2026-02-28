@@ -13,7 +13,9 @@
 		"fetch:reviews": "tsx scripts/fetch-reviews.ts",
 		"optimize:images": "tsx scripts/optimize-images.ts",
 		"generate:offer": "tsx scripts/generate-offer.ts",
-		"generate:quiz": "tsx scripts/generate-quiz.ts"
+		"generate:quiz": "tsx scripts/generate-quiz.ts",
+		"submit:indexnow": "tsx scripts/submit-indexnow.ts",
+		"postdeploy": "pnpm run submit:indexnow"
 	},
 	"devDependencies": {
 		"@inlang/paraglide-js": "^2.5.0",
