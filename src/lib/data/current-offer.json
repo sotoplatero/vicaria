@@ -1,52 +1,52 @@
 {
   "isActive": true,
-  "month": 2,
+  "month": 3,
   "year": 2026,
-  "servicePillar": "Digestive Relief",
-  "servicePillarId": "digestive-relief",
-  "offerFormat": "Home-visit upgrade",
-  "theme": "Energy Reset",
+  "servicePillar": "Blood Pressure Balance",
+  "servicePillarId": "blood-pressure-balance",
+  "offerFormat": "4-week bundle + 1 week free",
+  "theme": "Winter Wellness",
   "scarcity": "New clients only",
-  "softCTA": "Discover If You Qualify",
-  "title": "Digestive Relief offer: Home-visit upgrade with our Energy Reset theme",
-  "subtitle": "For anyone struggling with bloating, IBS, or abdominal discomfort seeking gentle, effective support.",
-  "offerLine": "Digestive Relief → get a home-visit upgrade with our Energy Reset theme. New clients only. Discover If You Qualify.",
+  "softCTA": "Ask a Question",
+  "title": "Blood Pressure Balance offer: 4-week bundle + 1 week free with our Winter Wellness theme",
+  "subtitle": "Designed for those struggling with hypertension, seeking gentle support to improve heart health this winter.",
+  "offerLine": "Blood Pressure Balance → get 4-week bundle + 1 week free with our Winter Wellness theme. New clients only. Have questions? Ask us!",
   "whatYouGet": [
-    "Personalized digestive health assessment in the comfort of your home",
-    "Tailored nutrition and lifestyle plan to reduce bloating and ease IBS symptoms",
-    "Energy-boosting strategies designed to reset your daily vitality",
-    "Guided coaching session focused on abdominal comfort and digestion support",
-    "Ongoing tips and tools to maintain digestive balance between visits",
-    "Exclusive access to our Energy Reset resource kit, including recipes and relaxation techniques"
+    "Personalized nutrition and lifestyle plan targeting blood pressure balance",
+    "Weekly coaching sessions for 4 weeks, plus an extra week free as a bonus",
+    "Guidance on heart-healthy habits tailored to winter wellness needs",
+    "Access to supportive resources and meal ideas to reduce hypertension",
+    "Progress tracking and adjustments to keep your cardiovascular health on track",
+    "Dedicated support from experienced, caring wellness coaches focused on your success"
   ],
   "whyItMatters": [
-    "Digestive discomfort can drain your energy and affect daily life—this offer targets root causes for lasting relief.",
-    "Receiving care at home ensures a relaxed, personalized experience, making it easier to open up and progress.",
-    "Resetting your energy helps improve digestion naturally, supporting better nutrient absorption and overall wellness.",
-    "Starting fresh with a trusted coach empowers you to regain control over your digestive health and quality of life."
+    "Managing blood pressure reduces risks of heart disease and stroke, improving long-term health.",
+    "Winter months can challenge heart health—this offer provides tailored support when you need it most.",
+    "Our expert coaches create compassionate, realistic plans that fit your lifestyle and goals.",
+    "Early support can prevent complications, helping you feel better and more in control."
   ],
   "howToClaim": [
-    "Check if you qualify as a new client by completing our quick online form.",
-    "Schedule your convenient home-visit appointment at a time that suits you.",
-    "Enjoy a personalized session designed to jumpstart your digestive relief and energy reset.",
-    "Feel supported every step of the way with easy follow-ups and guidance tailored to you."
+    "Confirm you’re a new client ready to prioritize your heart health this winter.",
+    "Contact us via phone or online to express interest and schedule your first session.",
+    "Receive your personalized 4-week coaching bundle plus the bonus week at signup.",
+    "Begin your supportive journey with reassurance and expert guidance every step of the way."
   ],
   "faqs": [
     {
-      "question": "Who is eligible for this Digestive Relief home-visit upgrade?",
-      "answer": "This offer is available exclusively to new clients experiencing bloating, IBS, or abdominal discomfort seeking personalized support."
+      "question": "Who is eligible for this Blood Pressure Balance offer?",
+      "answer": "This special is available to new clients looking to improve their blood pressure and cardiovascular health."
     },
     {
-      "question": "What can I expect during the home-visit session?",
-      "answer": "A caring coach will assess your digestive health, discuss symptoms, and create a tailored plan focusing on nutrition and energy restoration."
+      "question": "What can I expect during the coaching sessions?",
+      "answer": "Each session includes personalized guidance on nutrition, lifestyle changes, and progress review to support your heart health."
     },
     {
-      "question": "How long does the session take and what is the time commitment?",
-      "answer": "The initial home-visit session typically lasts 60 minutes, with follow-up support designed to fit your schedule comfortably."
+      "question": "How much time do I need to commit each week?",
+      "answer": "Sessions typically last about 45 minutes weekly, plus some time for suggested activities and meal planning."
     },
     {
-      "question": "When can I expect to see improvements in my digestive symptoms?",
-      "answer": "Many clients notice relief within a few weeks as they implement personalized strategies, though individual results vary based on consistency and condition."
+      "question": "When will I start seeing improvements in my blood pressure?",
+      "answer": "Many clients notice positive changes within a few weeks, especially with consistent follow-through on recommendations."
     }
   ]
 }
